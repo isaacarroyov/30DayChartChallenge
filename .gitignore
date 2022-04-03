@@ -1,0 +1,6 @@
+*.DS_Store
+*.ai
+.ipynb_checkpoints/
+ignore_*
+.RData
+.Rhistory
