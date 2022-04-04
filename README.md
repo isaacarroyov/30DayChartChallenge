@@ -13,3 +13,9 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 **Tool:** Python + Altair
 
 <img src="./2022/day_02/30daychartchallenge_day2_pictogram.png" width=800px>
+
+### Day 3: historical
+
+**Tool:** Python + Matplotlib + Adobe Illustrator
+
+![day 3 chart](./2022/day_03/30daychartchallenge_day_02_historical.png)
