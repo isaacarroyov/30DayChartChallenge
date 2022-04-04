@@ -10,12 +10,14 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![female rep at uady](./2022/day_01/Day_1_part-to-whole_es.png)
 
 ### Day 2: pictogram
-**Tool:** Python + Altair
+**Tool:** Python + Altair  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_02/30daychartchallenge_day2_pictogram.ipynb)
 
 <img src="./2022/day_02/30daychartchallenge_day2_pictogram.png" width=800px>
 
 ### Day 3: historical
 
-**Tool:** Python + Matplotlib + Adobe Illustrator
+**Tool:** Python + Matplotlib + Adobe Illustrator  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_03/30daychartchallenge_day_02_historical.ipynb)
 
 ![day 3 chart](./2022/day_03/30daychartchallenge_day_02_historical.png)
