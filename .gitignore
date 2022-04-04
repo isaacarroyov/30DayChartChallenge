@@ -4,3 +4,4 @@
 ignore_*
 .RData
 .Rhistory
+*.svg
