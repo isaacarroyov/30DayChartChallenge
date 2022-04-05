@@ -28,3 +28,7 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![day 4 chart](./2022/day_04/30daychartchallenge_day_04_flora.png)
 
 ### Day 5: slope
+
+**Tool:** R
+
+![](./2022/day_05/30daychartchallenge_day_05_slope.png)
