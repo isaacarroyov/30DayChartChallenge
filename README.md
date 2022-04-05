@@ -21,3 +21,10 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_03/30daychartchallenge_day_02_historical.ipynb)
 
 ![day 3 chart](./2022/day_03/30daychartchallenge_day_02_historical.png)
+
+### Day 4: flora
+**Tool:** Adobe Illustrator
+
+![day 4 chart](./2022/day_04/30daychartchallenge_day_04_flora.png)
+
+### Day 5: slope
