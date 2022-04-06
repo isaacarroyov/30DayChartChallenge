@@ -32,3 +32,9 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 **Tool:** R
 
 ![](./2022/day_05/30daychartchallenge_day_05_slope.png)
+
+### Day 6: Data day :arrow_right: Our World In Data (OWID)
+
+**Tool:** R
+
+![chart day 6](./2022/day_06/30daychartchallenge_day_06_owid.png)
