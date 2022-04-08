@@ -48,3 +48,9 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![chart day 7](./2022/day_07/30daychartchallenge_day_07_physical.png)
 
 ### Day 8: mountains
+**Tool:** Python + Google Earth Engine API
+**Extra:** To create the final layout I used Illustrator.
+
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_08/30daychartchallenge_day_07_physical.ipynb)
+
+![chart day 8](./2022/day_08/30daychartchallenge_day_08_mountains_both.png)
