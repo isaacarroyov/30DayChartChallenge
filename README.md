@@ -28,12 +28,14 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![day 4 chart](./2022/day_04/30daychartchallenge_day_04_flora.png)
 
 ### Day 5: slope
-**Tool:** R
+**Tool:** R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_05/30daychartchallenge_day_05_slope.R)
 
 ![](./2022/day_05/30daychartchallenge_day_05_slope.png)
 
 ### Day 6: Data day :arrow_right: Our World In Data (OWID)
 **Tool:** R
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_06/30daychartchallenge_day_06_owid.R)
 
 ![chart day 6](./2022/day_06/30daychartchallenge_day_06_owid.png)
 
@@ -41,6 +43,7 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 
 ### Day 7: physical
 **Tool:** Python + Matplotlib + Seaborn
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_07/30daychartchallenge_day_07_physical.png)
 
 ![chart day 7](./2022/day_07/30daychartchallenge_day_07_physical.png)
 
