@@ -40,6 +40,8 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ## Distribution :wavy_dash:
 
 ### Day 7: physical
-**Tool:** Python + Altair + Matplotlib
+**Tool:** Python + Matplotlib + Seaborn
+
+![chart day 7](./2022/day_07/30daychartchallenge_day_07_physical.png)
 
 ### Day 8: mountains
