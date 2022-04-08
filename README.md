@@ -3,7 +3,8 @@ This repository contains all the charts made for the **#30DayChartChallenge** du
 
 This project aims to explore creativity and tools conserning #DataVisualization.
 
-## 2022 Gallery
+# 2022 Gallery
+## Comparison :a: vs :b:
 ### Day 1: part-to-whole
 **Tool:** Adobe Illustrator
 
@@ -16,7 +17,6 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 <img src="./2022/day_02/30daychartchallenge_day2_pictogram.png" width=800px>
 
 ### Day 3: historical
-
 **Tool:** Python + Matplotlib + Adobe Illustrator  
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_03/30daychartchallenge_day_02_historical.ipynb)
 
@@ -28,13 +28,18 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![day 4 chart](./2022/day_04/30daychartchallenge_day_04_flora.png)
 
 ### Day 5: slope
-
 **Tool:** R
 
 ![](./2022/day_05/30daychartchallenge_day_05_slope.png)
 
 ### Day 6: Data day :arrow_right: Our World In Data (OWID)
-
 **Tool:** R
 
 ![chart day 6](./2022/day_06/30daychartchallenge_day_06_owid.png)
+
+## Distribution :wavy_dash:
+
+### Day 7: physical
+**Tool:** Python + Altair + Matplotlib
+
+### Day 8: mountains
