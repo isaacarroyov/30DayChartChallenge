@@ -34,7 +34,7 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ![](./2022/day_05/30daychartchallenge_day_05_slope.png)
 
 ### Day 6: Data day :arrow_right: Our World In Data (OWID)
-**Tool:** R
+**Tool:** R  
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_06/30daychartchallenge_day_06_owid.R)
 
 ![chart day 6](./2022/day_06/30daychartchallenge_day_06_owid.png)
@@ -42,15 +42,21 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 ## Distribution :wavy_dash:
 
 ### Day 7: physical
-**Tool:** Python + Matplotlib + Seaborn
+**Tool:** Python + Matplotlib + Seaborn  
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_07/30daychartchallenge_day_07_physical.png)
 
 ![chart day 7](./2022/day_07/30daychartchallenge_day_07_physical.png)
 
 ### Day 8: mountains
-**Tool:** Python + Google Earth Engine API
+**Tool:** Python + Google Earth Engine API  
 **Extra:** To create the final layout I used Illustrator.
 
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_08/30daychartchallenge_day_07_physical.ipynb)
 
 ![chart day 8](./2022/day_08/30daychartchallenge_day_08_mountains_both.png)
+
+### Day 9: statistics
+**Tool:** R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_09/30daychartchallenge_day_09_statistics.R)
+
+![chart day 9](./2022/day_09/30daychartchallenge_day_09_statistics_both.png)
