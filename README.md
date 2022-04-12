@@ -66,3 +66,9 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_11/30daychartchallenge_day_11_circular.R)
 
 ![chary day 11](./2022/day_11/30daychartchallenge_day_11_circular.png)
+
+### Day 12: The economist
+**Tools:** R (Base plot) + Illustrator (Retouches)  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_12/30daychartchallenge_day_12_the_economist.R)
+
+![chart day 12](./2022/day_12/30daychartchallenge_day_12_the_economist.png)
