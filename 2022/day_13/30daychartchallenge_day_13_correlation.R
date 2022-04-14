@@ -19,7 +19,7 @@ df %>%
   scale_color_gradientn(colours = met.brewer("Hiroshige")) +
   labs(title = '<b>Exploring my Spotify data: Energy, Loudness and Acousticness</b>',
        subtitle = '**Energy** (_x_-axis) is measured from 0.0 to 1.0, representing a perceptual measure of intensity and activity. **Loudness** (_y_-axis) is the quality of a sound that is the primary psychological correlate of physical strength (amplitude) that ranges between -60 and 0 dB); louder songs are closer to 0 dB. An extra encoding is **Acousticness** (_colour_), the confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic. <br><br>Interestingly, there is also a correlation between **Acousticness** and **Energy**',
-       caption = "<b>Data: Spotify personal data.<br>Visualization by Isaac Arroyo (@unisaacarroyov)</b>") +
+       caption = "<b>Data: Spotify personal data. Source of information: Web API Reference | Spotify for Developers<br>Visualization by Isaac Arroyo (@unisaacarroyov)</b>") +
   xlab("Energy") + ylab("Loudness in decibels (dB)") +
   guides(color= guide_colorbar(title='<b>Acousticness</b>',
                                ticks = F, 
