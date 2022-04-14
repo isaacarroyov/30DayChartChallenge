@@ -72,3 +72,10 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_12/30daychartchallenge_day_12_the_economist.R)
 
 ![chart day 12](./2022/day_12/30daychartchallenge_day_12_the_economist.png)
+
+## Relationships :a::left_right_arrow::b:
+### Day 13: correlation
+**Tool:** R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_13/30daychartchallenge_day_13_correlation.R)
+
+![chart day 13](./2022/day_13/30daychartchallenge_day_13_correlation.png)
