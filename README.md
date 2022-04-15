@@ -79,3 +79,8 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_13/30daychartchallenge_day_13_correlation.R)
 
 ![chart day 13](./2022/day_13/30daychartchallenge_day_13_correlation.png)
+
+### Day 14: 3-dimensional
+**Tool:** Python + plotly
+[**Code**]()  
+![chart day 14](./2022/day_14/30daychartchallenge_day_14_3-dimensional.JPG)
