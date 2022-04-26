@@ -5,3 +5,5 @@ ignore_*
 .RData
 .Rhistory
 *.svg
+*.cache
+motomami_logo.png
