@@ -90,3 +90,12 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 [**Base chart**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_15/30daychartchallenge_day_15_multivariate.R)
 
 ![chart day 15](./2022/day_15/30daychartchallenge_day_15_multivariate_english-01.png)
+
+### Day 16: environment
+**Tool** Datawrapper
+[**Data processing**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_16/30daychartchallenge_day_16_environment.R)
+and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChallenge/main/2022/data/top15_countries_endemic_species_animals.csv)
+
+[**Interactive chart**](https://www.datawrapper.de/_/PLdu1/)
+
+![](./2022/day_16/30daychartchallenge_day_16_environment.png)
