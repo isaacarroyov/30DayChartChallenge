@@ -99,3 +99,9 @@ and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChalleng
 [**Interactive chart**](https://www.datawrapper.de/_/PLdu1/)
 
 ![](./2022/day_16/30daychartchallenge_day_16_environment.png)
+
+### Day 17: connections
+**Tool**: JavaScript + `canvas-sketch`  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_17/30daychartchallenge_day_17_connections.js)
+
+![](./2022/day_17/30daychartchallenge_day_17_connections.png)
