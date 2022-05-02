@@ -20,7 +20,7 @@ This project aims to explore creativity and tools conserning #DataVisualization.
 **Tool:** Python + Matplotlib + Adobe Illustrator  
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_03/30daychartchallenge_day_02_historical.ipynb)
 
-![day 3 chart](./2022/day_03/30daychartchallenge_day_02_historical.png)
+![day 3 chart](./2022/day_03/30daychartchallenge_day_03_historical.png)
 
 ### Day 4: flora
 **Tool:** Adobe Illustrator
