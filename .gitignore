@@ -7,3 +7,5 @@ ignore_*
 *.svg
 *.cache
 motomami_logo.png
+node_modules/
+package*.json
