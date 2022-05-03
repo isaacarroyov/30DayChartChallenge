@@ -105,3 +105,9 @@ and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChalleng
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_17/30daychartchallenge_day_17_connections.js)
 
 ![](./2022/day_17/30daychartchallenge_day_17_connections.png)
+
+### Day 18: OECD
+**Tool:** R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_18/30daychartchallenge_day_18_OECD.R)
+
+![](./2022/day_18/30daychartchallenge_day_18_OECD.png)
