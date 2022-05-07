@@ -1,0 +1,6189 @@
+Entity,Code,Year,Male:female suicide ratio
+Afghanistan,AFG,1990,2.7
+Afghanistan,AFG,1991,2.73
+Afghanistan,AFG,1992,2.75
+Afghanistan,AFG,1993,2.78
+Afghanistan,AFG,1994,2.79
+Afghanistan,AFG,1995,2.81
+Afghanistan,AFG,1996,2.83
+Afghanistan,AFG,1997,2.86
+Afghanistan,AFG,1998,2.9
+Afghanistan,AFG,1999,2.93
+Afghanistan,AFG,2000,2.94
+Afghanistan,AFG,2001,2.97
+Afghanistan,AFG,2002,3.01
+Afghanistan,AFG,2003,3.04
+Afghanistan,AFG,2004,3.05
+Afghanistan,AFG,2005,3.07
+Afghanistan,AFG,2006,3.08
+Afghanistan,AFG,2007,3.09
+Afghanistan,AFG,2008,3.1
+Afghanistan,AFG,2009,3.09
+Afghanistan,AFG,2010,3.08
+Afghanistan,AFG,2011,3.07
+Afghanistan,AFG,2012,3.05
+Afghanistan,AFG,2013,3.04
+Afghanistan,AFG,2014,3.04
+Afghanistan,AFG,2015,3.05
+Afghanistan,AFG,2016,3.04
+Afghanistan,AFG,2017,3.02
+Africa,,1990,2.08
+Africa,,1991,2.11
+Africa,,1992,2.13
+Africa,,1993,2.17
+Africa,,1994,2.19
+Africa,,1995,2.24
+Africa,,1996,2.24
+Africa,,1997,2.24
+Africa,,1998,2.25
+Africa,,1999,2.24
+Africa,,2000,2.24
+Africa,,2001,2.27
+Africa,,2002,2.3
+Africa,,2003,2.34
+Africa,,2004,2.39
+Africa,,2005,2.45
+Africa,,2006,2.52
+Africa,,2007,2.58
+Africa,,2008,2.63
+Africa,,2009,2.68
+Africa,,2010,2.73
+Africa,,2011,2.81
+Africa,,2012,2.86
+Africa,,2013,2.91
+Africa,,2014,2.94
+Africa,,2015,2.98
+Africa,,2016,3.03
+Africa,,2017,3.06
+Albania,ALB,1990,2.33
+Albania,ALB,1991,2.37
+Albania,ALB,1992,2.41
+Albania,ALB,1993,2.39
+Albania,ALB,1994,2.38
+Albania,ALB,1995,2.27
+Albania,ALB,1996,2.17
+Albania,ALB,1997,2.16
+Albania,ALB,1998,2.2
+Albania,ALB,1999,2.2
+Albania,ALB,2000,2.29
+Albania,ALB,2001,2.27
+Albania,ALB,2002,2.19
+Albania,ALB,2003,2.11
+Albania,ALB,2004,2.11
+Albania,ALB,2005,2.11
+Albania,ALB,2006,2.11
+Albania,ALB,2007,2.12
+Albania,ALB,2008,2.14
+Albania,ALB,2009,2.25
+Albania,ALB,2010,2.29
+Albania,ALB,2011,2.33
+Albania,ALB,2012,2.37
+Albania,ALB,2013,2.41
+Albania,ALB,2014,2.45
+Albania,ALB,2015,2.47
+Albania,ALB,2016,2.48
+Albania,ALB,2017,2.5
+Algeria,DZA,1990,2.15
+Algeria,DZA,1991,2.19
+Algeria,DZA,1992,2.23
+Algeria,DZA,1993,2.28
+Algeria,DZA,1994,2.34
+Algeria,DZA,1995,2.38
+Algeria,DZA,1996,2.41
+Algeria,DZA,1997,2.45
+Algeria,DZA,1998,2.49
+Algeria,DZA,1999,2.48
+Algeria,DZA,2000,2.49
+Algeria,DZA,2001,2.51
+Algeria,DZA,2002,2.51
+Algeria,DZA,2003,2.52
+Algeria,DZA,2004,2.53
+Algeria,DZA,2005,2.54
+Algeria,DZA,2006,2.56
+Algeria,DZA,2007,2.57
+Algeria,DZA,2008,2.58
+Algeria,DZA,2009,2.6
+Algeria,DZA,2010,2.61
+Algeria,DZA,2011,2.61
+Algeria,DZA,2012,2.62
+Algeria,DZA,2013,2.61
+Algeria,DZA,2014,2.6
+Algeria,DZA,2015,2.62
+Algeria,DZA,2016,2.64
+Algeria,DZA,2017,2.68
+American Samoa,ASM,1990,3.39
+American Samoa,ASM,1991,3.34
+American Samoa,ASM,1992,3.26
+American Samoa,ASM,1993,3.2
+American Samoa,ASM,1994,3.15
+American Samoa,ASM,1995,3.1
+American Samoa,ASM,1996,3.02
+American Samoa,ASM,1997,2.95
+American Samoa,ASM,1998,3.05
+American Samoa,ASM,1999,3.18
+American Samoa,ASM,2000,3.16
+American Samoa,ASM,2001,3.05
+American Samoa,ASM,2002,3.04
+American Samoa,ASM,2003,3.09
+American Samoa,ASM,2004,3.07
+American Samoa,ASM,2005,3.08
+American Samoa,ASM,2006,3.08
+American Samoa,ASM,2007,3.14
+American Samoa,ASM,2008,3.06
+American Samoa,ASM,2009,3
+American Samoa,ASM,2010,2.98
+American Samoa,ASM,2011,2.9
+American Samoa,ASM,2012,2.82
+American Samoa,ASM,2013,2.8
+American Samoa,ASM,2014,2.77
+American Samoa,ASM,2015,2.67
+American Samoa,ASM,2016,2.69
+American Samoa,ASM,2017,2.69
+Andorra,AND,1990,4.29
+Andorra,AND,1991,4.33
+Andorra,AND,1992,4.37
+Andorra,AND,1993,4.28
+Andorra,AND,1994,4.21
+Andorra,AND,1995,4.33
+Andorra,AND,1996,4.41
+Andorra,AND,1997,4.56
+Andorra,AND,1998,4.62
+Andorra,AND,1999,4.66
+Andorra,AND,2000,4.62
+Andorra,AND,2001,4.66
+Andorra,AND,2002,4.7
+Andorra,AND,2003,4.71
+Andorra,AND,2004,4.68
+Andorra,AND,2005,4.69
+Andorra,AND,2006,4.65
+Andorra,AND,2007,4.63
+Andorra,AND,2008,4.56
+Andorra,AND,2009,4.48
+Andorra,AND,2010,4.46
+Andorra,AND,2011,4.42
+Andorra,AND,2012,4.36
+Andorra,AND,2013,4.34
+Andorra,AND,2014,4.26
+Andorra,AND,2015,4.21
+Andorra,AND,2016,4.19
+Andorra,AND,2017,4.17
+Angola,AGO,1990,3.64
+Angola,AGO,1991,3.67
+Angola,AGO,1992,3.69
+Angola,AGO,1993,3.71
+Angola,AGO,1994,3.71
+Angola,AGO,1995,3.74
+Angola,AGO,1996,3.82
+Angola,AGO,1997,3.83
+Angola,AGO,1998,3.75
+Angola,AGO,1999,3.78
+Angola,AGO,2000,3.8
+Angola,AGO,2001,3.89
+Angola,AGO,2002,3.76
+Angola,AGO,2003,3.72
+Angola,AGO,2004,3.77
+Angola,AGO,2005,3.82
+Angola,AGO,2006,3.95
+Angola,AGO,2007,4.07
+Angola,AGO,2008,4.06
+Angola,AGO,2009,4.16
+Angola,AGO,2010,4.23
+Angola,AGO,2011,4.32
+Angola,AGO,2012,4.43
+Angola,AGO,2013,4.47
+Angola,AGO,2014,4.56
+Angola,AGO,2015,4.56
+Angola,AGO,2016,4.55
+Angola,AGO,2017,4.57
+Antigua and Barbuda,ATG,1990,4.34
+Antigua and Barbuda,ATG,1991,4.31
+Antigua and Barbuda,ATG,1992,4.32
+Antigua and Barbuda,ATG,1993,4.37
+Antigua and Barbuda,ATG,1994,4.46
+Antigua and Barbuda,ATG,1995,4.58
+Antigua and Barbuda,ATG,1996,4.72
+Antigua and Barbuda,ATG,1997,4.96
+Antigua and Barbuda,ATG,1998,5.1
+Antigua and Barbuda,ATG,1999,5.14
+Antigua and Barbuda,ATG,2000,5.2
+Antigua and Barbuda,ATG,2001,5.21
+Antigua and Barbuda,ATG,2002,5.23
+Antigua and Barbuda,ATG,2003,5.27
+Antigua and Barbuda,ATG,2004,5.31
+Antigua and Barbuda,ATG,2005,5.37
+Antigua and Barbuda,ATG,2006,5.4
+Antigua and Barbuda,ATG,2007,5.41
+Antigua and Barbuda,ATG,2008,5.53
+Antigua and Barbuda,ATG,2009,5.63
+Antigua and Barbuda,ATG,2010,5.66
+Antigua and Barbuda,ATG,2011,5.6
+Antigua and Barbuda,ATG,2012,5.35
+Antigua and Barbuda,ATG,2013,5.25
+Antigua and Barbuda,ATG,2014,5.13
+Antigua and Barbuda,ATG,2015,5.09
+Antigua and Barbuda,ATG,2016,4.94
+Antigua and Barbuda,ATG,2017,4.87
+Argentina,ARG,1990,3.45
+Argentina,ARG,1991,3.59
+Argentina,ARG,1992,3.8
+Argentina,ARG,1993,3.88
+Argentina,ARG,1994,4.03
+Argentina,ARG,1995,4.06
+Argentina,ARG,1996,4.16
+Argentina,ARG,1997,4.2
+Argentina,ARG,1998,4.3
+Argentina,ARG,1999,4.45
+Argentina,ARG,2000,4.52
+Argentina,ARG,2001,4.55
+Argentina,ARG,2002,4.6
+Argentina,ARG,2003,4.4
+Argentina,ARG,2004,4.33
+Argentina,ARG,2005,4.4
+Argentina,ARG,2006,4.43
+Argentina,ARG,2007,4.48
+Argentina,ARG,2008,4.54
+Argentina,ARG,2009,4.32
+Argentina,ARG,2010,4.38
+Argentina,ARG,2011,4.42
+Argentina,ARG,2012,4.45
+Argentina,ARG,2013,4.52
+Argentina,ARG,2014,4.48
+Argentina,ARG,2015,4.44
+Argentina,ARG,2016,4.49
+Argentina,ARG,2017,4.51
+Armenia,ARM,1990,2.69
+Armenia,ARM,1991,2.86
+Armenia,ARM,1992,3.17
+Armenia,ARM,1993,3.27
+Armenia,ARM,1994,3.54
+Armenia,ARM,1995,3.63
+Armenia,ARM,1996,3.47
+Armenia,ARM,1997,3.73
+Armenia,ARM,1998,3.57
+Armenia,ARM,1999,3.64
+Armenia,ARM,2000,3.86
+Armenia,ARM,2001,4.06
+Armenia,ARM,2002,4.3
+Armenia,ARM,2003,4.19
+Armenia,ARM,2004,4.14
+Armenia,ARM,2005,4.18
+Armenia,ARM,2006,4.13
+Armenia,ARM,2007,4.13
+Armenia,ARM,2008,4.07
+Armenia,ARM,2009,4.18
+Armenia,ARM,2010,4.18
+Armenia,ARM,2011,4.23
+Armenia,ARM,2012,4.23
+Armenia,ARM,2013,4.16
+Armenia,ARM,2014,4.26
+Armenia,ARM,2015,4.26
+Armenia,ARM,2016,4.31
+Armenia,ARM,2017,4.25
+Asia,,1990,1.09
+Asia,,1991,1.09
+Asia,,1992,1.08
+Asia,,1993,1.09
+Asia,,1994,1.1
+Asia,,1995,1.13
+Asia,,1996,1.16
+Asia,,1997,1.19
+Asia,,1998,1.23
+Asia,,1999,1.26
+Asia,,2000,1.3
+Asia,,2001,1.33
+Asia,,2002,1.38
+Asia,,2003,1.41
+Asia,,2004,1.41
+Asia,,2005,1.42
+Asia,,2006,1.45
+Asia,,2007,1.49
+Asia,,2008,1.52
+Asia,,2009,1.54
+Asia,,2010,1.53
+Asia,,2011,1.53
+Asia,,2012,1.57
+Asia,,2013,1.58
+Asia,,2014,1.56
+Asia,,2015,1.58
+Asia,,2016,1.59
+Asia,,2017,1.6
+Australasia,,1990,3.89
+Australasia,,1991,3.82
+Australasia,,1992,3.88
+Australasia,,1993,3.97
+Australasia,,1994,4
+Australasia,,1995,3.97
+Australasia,,1996,3.98
+Australasia,,1997,3.92
+Australasia,,1998,3.99
+Australasia,,1999,4
+Australasia,,2000,3.89
+Australasia,,2001,3.82
+Australasia,,2002,3.64
+Australasia,,2003,3.57
+Australasia,,2004,3.51
+Australasia,,2005,3.56
+Australasia,,2006,3.38
+Australasia,,2007,3.33
+Australasia,,2008,3.36
+Australasia,,2009,3.26
+Australasia,,2010,3.24
+Australasia,,2011,3.14
+Australasia,,2012,3.15
+Australasia,,2013,3.15
+Australasia,,2014,3.21
+Australasia,,2015,3.27
+Australasia,,2016,3.4
+Australasia,,2017,3.45
+Australia,AUS,1990,3.94
+Australia,AUS,1991,3.83
+Australia,AUS,1992,3.85
+Australia,AUS,1993,4.02
+Australia,AUS,1994,4.07
+Australia,AUS,1995,4.06
+Australia,AUS,1996,4.06
+Australia,AUS,1997,3.99
+Australia,AUS,1998,4.09
+Australia,AUS,1999,4.11
+Australia,AUS,2000,3.92
+Australia,AUS,2001,3.88
+Australia,AUS,2002,3.72
+Australia,AUS,2003,3.67
+Australia,AUS,2004,3.6
+Australia,AUS,2005,3.63
+Australia,AUS,2006,3.43
+Australia,AUS,2007,3.36
+Australia,AUS,2008,3.44
+Australia,AUS,2009,3.29
+Australia,AUS,2010,3.29
+Australia,AUS,2011,3.15
+Australia,AUS,2012,3.16
+Australia,AUS,2013,3.15
+Australia,AUS,2014,3.21
+Australia,AUS,2015,3.31
+Australia,AUS,2016,3.44
+Australia,AUS,2017,3.49
+Austria,AUT,1990,3.04
+Austria,AUT,1991,3.19
+Austria,AUT,1992,3.18
+Austria,AUT,1993,3.16
+Austria,AUT,1994,3.21
+Austria,AUT,1995,3.42
+Austria,AUT,1996,3.49
+Austria,AUT,1997,3.59
+Austria,AUT,1998,3.52
+Austria,AUT,1999,3.29
+Austria,AUT,2000,3.35
+Austria,AUT,2001,3.45
+Austria,AUT,2002,3.51
+Austria,AUT,2003,3.36
+Austria,AUT,2004,3.61
+Austria,AUT,2005,3.54
+Austria,AUT,2006,3.62
+Austria,AUT,2007,3.61
+Austria,AUT,2008,3.56
+Austria,AUT,2009,3.69
+Austria,AUT,2010,3.71
+Austria,AUT,2011,3.52
+Austria,AUT,2012,3.64
+Austria,AUT,2013,3.59
+Austria,AUT,2014,3.43
+Austria,AUT,2015,3.51
+Austria,AUT,2016,3.44
+Austria,AUT,2017,3.44
+Azerbaijan,AZE,1990,3.37
+Azerbaijan,AZE,1991,3.51
+Azerbaijan,AZE,1992,3.65
+Azerbaijan,AZE,1993,3.77
+Azerbaijan,AZE,1994,3.96
+Azerbaijan,AZE,1995,4.04
+Azerbaijan,AZE,1996,4.1
+Azerbaijan,AZE,1997,4.17
+Azerbaijan,AZE,1998,4.2
+Azerbaijan,AZE,1999,4.23
+Azerbaijan,AZE,2000,4.19
+Azerbaijan,AZE,2001,4.08
+Azerbaijan,AZE,2002,4.06
+Azerbaijan,AZE,2003,3.92
+Azerbaijan,AZE,2004,3.91
+Azerbaijan,AZE,2005,3.95
+Azerbaijan,AZE,2006,4.03
+Azerbaijan,AZE,2007,4.01
+Azerbaijan,AZE,2008,4.02
+Azerbaijan,AZE,2009,4.02
+Azerbaijan,AZE,2010,4.1
+Azerbaijan,AZE,2011,4.17
+Azerbaijan,AZE,2012,4.19
+Azerbaijan,AZE,2013,4.4
+Azerbaijan,AZE,2014,4.43
+Azerbaijan,AZE,2015,4.31
+Azerbaijan,AZE,2016,4.26
+Azerbaijan,AZE,2017,4.28
+Bahamas,BHS,1990,4.39
+Bahamas,BHS,1991,4.27
+Bahamas,BHS,1992,4.29
+Bahamas,BHS,1993,4.41
+Bahamas,BHS,1994,4.51
+Bahamas,BHS,1995,4.58
+Bahamas,BHS,1996,4.76
+Bahamas,BHS,1997,4.84
+Bahamas,BHS,1998,4.9
+Bahamas,BHS,1999,5
+Bahamas,BHS,2000,5.28
+Bahamas,BHS,2001,5.24
+Bahamas,BHS,2002,5.25
+Bahamas,BHS,2003,5.16
+Bahamas,BHS,2004,5.29
+Bahamas,BHS,2005,5.34
+Bahamas,BHS,2006,5.43
+Bahamas,BHS,2007,5.29
+Bahamas,BHS,2008,5.42
+Bahamas,BHS,2009,5.54
+Bahamas,BHS,2010,5.35
+Bahamas,BHS,2011,5.33
+Bahamas,BHS,2012,5.32
+Bahamas,BHS,2013,5.28
+Bahamas,BHS,2014,5.32
+Bahamas,BHS,2015,5.3
+Bahamas,BHS,2016,5.29
+Bahamas,BHS,2017,5.29
+Bahrain,BHR,1990,3.44
+Bahrain,BHR,1991,3.42
+Bahrain,BHR,1992,3.44
+Bahrain,BHR,1993,3.48
+Bahrain,BHR,1994,3.36
+Bahrain,BHR,1995,3.27
+Bahrain,BHR,1996,3.19
+Bahrain,BHR,1997,2.98
+Bahrain,BHR,1998,2.86
+Bahrain,BHR,1999,3.11
+Bahrain,BHR,2000,3.22
+Bahrain,BHR,2001,3.06
+Bahrain,BHR,2002,2.99
+Bahrain,BHR,2003,3.02
+Bahrain,BHR,2004,3.04
+Bahrain,BHR,2005,3.05
+Bahrain,BHR,2006,2.95
+Bahrain,BHR,2007,3.04
+Bahrain,BHR,2008,3.03
+Bahrain,BHR,2009,2.94
+Bahrain,BHR,2010,2.93
+Bahrain,BHR,2011,2.93
+Bahrain,BHR,2012,3.01
+Bahrain,BHR,2013,3.01
+Bahrain,BHR,2014,3.08
+Bahrain,BHR,2015,3.12
+Bahrain,BHR,2016,3.19
+Bahrain,BHR,2017,3.25
+Bangladesh,BGD,1990,1.08
+Bangladesh,BGD,1991,1.05
+Bangladesh,BGD,1992,1.05
+Bangladesh,BGD,1993,1.12
+Bangladesh,BGD,1994,1.14
+Bangladesh,BGD,1995,1.1
+Bangladesh,BGD,1996,1.17
+Bangladesh,BGD,1997,1.19
+Bangladesh,BGD,1998,1.2
+Bangladesh,BGD,1999,1.14
+Bangladesh,BGD,2000,1.09
+Bangladesh,BGD,2001,1.1
+Bangladesh,BGD,2002,1.05
+Bangladesh,BGD,2003,1
+Bangladesh,BGD,2004,0.95
+Bangladesh,BGD,2005,0.88
+Bangladesh,BGD,2006,0.84
+Bangladesh,BGD,2007,0.82
+Bangladesh,BGD,2008,0.81
+Bangladesh,BGD,2009,0.85
+Bangladesh,BGD,2010,0.87
+Bangladesh,BGD,2011,0.88
+Bangladesh,BGD,2012,0.87
+Bangladesh,BGD,2013,0.91
+Bangladesh,BGD,2014,1.01
+Bangladesh,BGD,2015,1.04
+Bangladesh,BGD,2016,1.06
+Bangladesh,BGD,2017,1.09
+Barbados,BRB,1990,3.76
+Barbados,BRB,1991,3.77
+Barbados,BRB,1992,3.89
+Barbados,BRB,1993,3.97
+Barbados,BRB,1994,4.06
+Barbados,BRB,1995,4.22
+Barbados,BRB,1996,4.36
+Barbados,BRB,1997,4.51
+Barbados,BRB,1998,4.69
+Barbados,BRB,1999,4.83
+Barbados,BRB,2000,4.91
+Barbados,BRB,2001,4.96
+Barbados,BRB,2002,5.07
+Barbados,BRB,2003,5.16
+Barbados,BRB,2004,5.29
+Barbados,BRB,2005,5.4
+Barbados,BRB,2006,5.49
+Barbados,BRB,2007,5.31
+Barbados,BRB,2008,5.26
+Barbados,BRB,2009,5.13
+Barbados,BRB,2010,5.06
+Barbados,BRB,2011,4.95
+Barbados,BRB,2012,4.95
+Barbados,BRB,2013,4.93
+Barbados,BRB,2014,4.91
+Barbados,BRB,2015,4.95
+Barbados,BRB,2016,4.98
+Barbados,BRB,2017,5.03
+Belarus,BLR,1990,4.89
+Belarus,BLR,1991,5.09
+Belarus,BLR,1992,5.23
+Belarus,BLR,1993,5.52
+Belarus,BLR,1994,5.75
+Belarus,BLR,1995,5.97
+Belarus,BLR,1996,6.13
+Belarus,BLR,1997,6.26
+Belarus,BLR,1998,6.56
+Belarus,BLR,1999,6.51
+Belarus,BLR,2000,6.64
+Belarus,BLR,2001,6.73
+Belarus,BLR,2002,6.51
+Belarus,BLR,2003,6.47
+Belarus,BLR,2004,6.17
+Belarus,BLR,2005,6.12
+Belarus,BLR,2006,6.05
+Belarus,BLR,2007,5.91
+Belarus,BLR,2008,6.03
+Belarus,BLR,2009,5.81
+Belarus,BLR,2010,6.07
+Belarus,BLR,2011,6.01
+Belarus,BLR,2012,5.97
+Belarus,BLR,2013,5.9
+Belarus,BLR,2014,6.12
+Belarus,BLR,2015,6.28
+Belarus,BLR,2016,6.03
+Belarus,BLR,2017,6.02
+Belgium,BEL,1990,2.51
+Belgium,BEL,1991,2.67
+Belgium,BEL,1992,2.68
+Belgium,BEL,1993,2.84
+Belgium,BEL,1994,2.84
+Belgium,BEL,1995,2.9
+Belgium,BEL,1996,2.89
+Belgium,BEL,1997,2.89
+Belgium,BEL,1998,2.84
+Belgium,BEL,1999,2.99
+Belgium,BEL,2000,2.95
+Belgium,BEL,2001,2.99
+Belgium,BEL,2002,2.99
+Belgium,BEL,2003,3.03
+Belgium,BEL,2004,3.04
+Belgium,BEL,2005,3.01
+Belgium,BEL,2006,2.93
+Belgium,BEL,2007,2.8
+Belgium,BEL,2008,2.89
+Belgium,BEL,2009,2.79
+Belgium,BEL,2010,2.71
+Belgium,BEL,2011,2.72
+Belgium,BEL,2012,2.82
+Belgium,BEL,2013,2.66
+Belgium,BEL,2014,2.74
+Belgium,BEL,2015,2.66
+Belgium,BEL,2016,2.72
+Belgium,BEL,2017,2.77
+Belize,BLZ,1990,3.5
+Belize,BLZ,1991,3.7
+Belize,BLZ,1992,3.99
+Belize,BLZ,1993,4.03
+Belize,BLZ,1994,4.23
+Belize,BLZ,1995,4.51
+Belize,BLZ,1996,4.97
+Belize,BLZ,1997,5.29
+Belize,BLZ,1998,5.49
+Belize,BLZ,1999,5.74
+Belize,BLZ,2000,6.03
+Belize,BLZ,2001,5.96
+Belize,BLZ,2002,5.78
+Belize,BLZ,2003,5.81
+Belize,BLZ,2004,5.87
+Belize,BLZ,2005,5.88
+Belize,BLZ,2006,5.99
+Belize,BLZ,2007,5.95
+Belize,BLZ,2008,5.96
+Belize,BLZ,2009,6.07
+Belize,BLZ,2010,6.11
+Belize,BLZ,2011,6.24
+Belize,BLZ,2012,6.35
+Belize,BLZ,2013,6.65
+Belize,BLZ,2014,6.79
+Belize,BLZ,2015,7.1
+Belize,BLZ,2016,7.41
+Belize,BLZ,2017,7.56
+Benin,BEN,1990,2.62
+Benin,BEN,1991,2.67
+Benin,BEN,1992,2.67
+Benin,BEN,1993,2.69
+Benin,BEN,1994,2.7
+Benin,BEN,1995,2.71
+Benin,BEN,1996,2.73
+Benin,BEN,1997,2.76
+Benin,BEN,1998,2.78
+Benin,BEN,1999,2.83
+Benin,BEN,2000,2.87
+Benin,BEN,2001,2.92
+Benin,BEN,2002,2.95
+Benin,BEN,2003,2.98
+Benin,BEN,2004,2.99
+Benin,BEN,2005,3
+Benin,BEN,2006,3.01
+Benin,BEN,2007,3.01
+Benin,BEN,2008,3
+Benin,BEN,2009,2.97
+Benin,BEN,2010,2.96
+Benin,BEN,2011,2.94
+Benin,BEN,2012,2.94
+Benin,BEN,2013,2.93
+Benin,BEN,2014,2.92
+Benin,BEN,2015,2.92
+Benin,BEN,2016,2.92
+Benin,BEN,2017,2.92
+Bermuda,BMU,1990,3.38
+Bermuda,BMU,1991,3.24
+Bermuda,BMU,1992,3.18
+Bermuda,BMU,1993,3.17
+Bermuda,BMU,1994,3.23
+Bermuda,BMU,1995,3.3
+Bermuda,BMU,1996,3.54
+Bermuda,BMU,1997,3.65
+Bermuda,BMU,1998,3.77
+Bermuda,BMU,1999,3.95
+Bermuda,BMU,2000,4.13
+Bermuda,BMU,2001,4.35
+Bermuda,BMU,2002,4.53
+Bermuda,BMU,2003,4.81
+Bermuda,BMU,2004,5.1
+Bermuda,BMU,2005,5.38
+Bermuda,BMU,2006,5.64
+Bermuda,BMU,2007,5.88
+Bermuda,BMU,2008,6.05
+Bermuda,BMU,2009,6.22
+Bermuda,BMU,2010,6.53
+Bermuda,BMU,2011,6.72
+Bermuda,BMU,2012,7.09
+Bermuda,BMU,2013,7.26
+Bermuda,BMU,2014,7.37
+Bermuda,BMU,2015,7.53
+Bermuda,BMU,2016,7.6
+Bermuda,BMU,2017,7.64
+Bhutan,BTN,1990,1.61
+Bhutan,BTN,1991,1.61
+Bhutan,BTN,1992,1.61
+Bhutan,BTN,1993,1.64
+Bhutan,BTN,1994,1.64
+Bhutan,BTN,1995,1.65
+Bhutan,BTN,1996,1.67
+Bhutan,BTN,1997,1.71
+Bhutan,BTN,1998,1.76
+Bhutan,BTN,1999,1.81
+Bhutan,BTN,2000,1.88
+Bhutan,BTN,2001,1.97
+Bhutan,BTN,2002,2.06
+Bhutan,BTN,2003,2.16
+Bhutan,BTN,2004,2.23
+Bhutan,BTN,2005,2.28
+Bhutan,BTN,2006,2.35
+Bhutan,BTN,2007,2.43
+Bhutan,BTN,2008,2.5
+Bhutan,BTN,2009,2.57
+Bhutan,BTN,2010,2.61
+Bhutan,BTN,2011,2.63
+Bhutan,BTN,2012,2.64
+Bhutan,BTN,2013,2.66
+Bhutan,BTN,2014,2.67
+Bhutan,BTN,2015,2.69
+Bhutan,BTN,2016,2.7
+Bhutan,BTN,2017,2.71
+Bolivia,BOL,1990,1.85
+Bolivia,BOL,1991,1.84
+Bolivia,BOL,1992,1.78
+Bolivia,BOL,1993,1.74
+Bolivia,BOL,1994,1.69
+Bolivia,BOL,1995,1.68
+Bolivia,BOL,1996,1.7
+Bolivia,BOL,1997,1.73
+Bolivia,BOL,1998,1.78
+Bolivia,BOL,1999,1.82
+Bolivia,BOL,2000,1.85
+Bolivia,BOL,2001,1.88
+Bolivia,BOL,2002,1.86
+Bolivia,BOL,2003,1.9
+Bolivia,BOL,2004,1.9
+Bolivia,BOL,2005,1.89
+Bolivia,BOL,2006,1.92
+Bolivia,BOL,2007,1.9
+Bolivia,BOL,2008,1.92
+Bolivia,BOL,2009,1.93
+Bolivia,BOL,2010,1.94
+Bolivia,BOL,2011,1.97
+Bolivia,BOL,2012,2
+Bolivia,BOL,2013,2.03
+Bolivia,BOL,2014,2.06
+Bolivia,BOL,2015,2.08
+Bolivia,BOL,2016,2.11
+Bolivia,BOL,2017,2.12
+Bosnia and Herzegovina,BIH,1990,4.04
+Bosnia and Herzegovina,BIH,1991,4.43
+Bosnia and Herzegovina,BIH,1992,4.21
+Bosnia and Herzegovina,BIH,1993,4.12
+Bosnia and Herzegovina,BIH,1994,4.11
+Bosnia and Herzegovina,BIH,1995,4.09
+Bosnia and Herzegovina,BIH,1996,4.08
+Bosnia and Herzegovina,BIH,1997,4.13
+Bosnia and Herzegovina,BIH,1998,4.23
+Bosnia and Herzegovina,BIH,1999,4.25
+Bosnia and Herzegovina,BIH,2000,4.28
+Bosnia and Herzegovina,BIH,2001,4.33
+Bosnia and Herzegovina,BIH,2002,4.31
+Bosnia and Herzegovina,BIH,2003,4.28
+Bosnia and Herzegovina,BIH,2004,4.16
+Bosnia and Herzegovina,BIH,2005,4.46
+Bosnia and Herzegovina,BIH,2006,4.28
+Bosnia and Herzegovina,BIH,2007,4.36
+Bosnia and Herzegovina,BIH,2008,4.58
+Bosnia and Herzegovina,BIH,2009,4.58
+Bosnia and Herzegovina,BIH,2010,4.47
+Bosnia and Herzegovina,BIH,2011,4.59
+Bosnia and Herzegovina,BIH,2012,4.44
+Bosnia and Herzegovina,BIH,2013,4.38
+Bosnia and Herzegovina,BIH,2014,4.25
+Bosnia and Herzegovina,BIH,2015,4.16
+Bosnia and Herzegovina,BIH,2016,4.24
+Bosnia and Herzegovina,BIH,2017,4.31
+Botswana,BWA,1990,6.08
+Botswana,BWA,1991,6.21
+Botswana,BWA,1992,6.41
+Botswana,BWA,1993,6.72
+Botswana,BWA,1994,7.17
+Botswana,BWA,1995,7.67
+Botswana,BWA,1996,8.26
+Botswana,BWA,1997,8.5
+Botswana,BWA,1998,8.49
+Botswana,BWA,1999,8.22
+Botswana,BWA,2000,7.76
+Botswana,BWA,2001,7.2
+Botswana,BWA,2002,6.41
+Botswana,BWA,2003,5.75
+Botswana,BWA,2004,5.24
+Botswana,BWA,2005,4.87
+Botswana,BWA,2006,4.65
+Botswana,BWA,2007,4.06
+Botswana,BWA,2008,3.51
+Botswana,BWA,2009,3.18
+Botswana,BWA,2010,3.03
+Botswana,BWA,2011,2.85
+Botswana,BWA,2012,2.78
+Botswana,BWA,2013,2.7
+Botswana,BWA,2014,2.64
+Botswana,BWA,2015,2.69
+Botswana,BWA,2016,2.82
+Botswana,BWA,2017,2.88
+Brazil,BRA,1990,4.03
+Brazil,BRA,1991,4.1
+Brazil,BRA,1992,4.14
+Brazil,BRA,1993,4.18
+Brazil,BRA,1994,4.22
+Brazil,BRA,1995,4.27
+Brazil,BRA,1996,4.18
+Brazil,BRA,1997,4.12
+Brazil,BRA,1998,4.04
+Brazil,BRA,1999,3.98
+Brazil,BRA,2000,3.8
+Brazil,BRA,2001,3.84
+Brazil,BRA,2002,3.78
+Brazil,BRA,2003,3.77
+Brazil,BRA,2004,3.68
+Brazil,BRA,2005,3.55
+Brazil,BRA,2006,3.7
+Brazil,BRA,2007,3.84
+Brazil,BRA,2008,3.97
+Brazil,BRA,2009,4.07
+Brazil,BRA,2010,4.16
+Brazil,BRA,2011,4.15
+Brazil,BRA,2012,4.16
+Brazil,BRA,2013,4.21
+Brazil,BRA,2014,4.29
+Brazil,BRA,2015,4.34
+Brazil,BRA,2016,4.44
+Brazil,BRA,2017,4.56
+Brunei,BRN,1990,2.88
+Brunei,BRN,1991,3.02
+Brunei,BRN,1992,3.12
+Brunei,BRN,1993,3.17
+Brunei,BRN,1994,3.26
+Brunei,BRN,1995,3.36
+Brunei,BRN,1996,3.42
+Brunei,BRN,1997,3.44
+Brunei,BRN,1998,3.46
+Brunei,BRN,1999,3.39
+Brunei,BRN,2000,3.34
+Brunei,BRN,2001,3.26
+Brunei,BRN,2002,3.18
+Brunei,BRN,2003,3.12
+Brunei,BRN,2004,3.05
+Brunei,BRN,2005,3.02
+Brunei,BRN,2006,3
+Brunei,BRN,2007,2.99
+Brunei,BRN,2008,2.98
+Brunei,BRN,2009,2.96
+Brunei,BRN,2010,2.99
+Brunei,BRN,2011,3
+Brunei,BRN,2012,2.98
+Brunei,BRN,2013,2.98
+Brunei,BRN,2014,3
+Brunei,BRN,2015,3
+Brunei,BRN,2016,2.96
+Brunei,BRN,2017,2.96
+Bulgaria,BGR,1990,3.04
+Bulgaria,BGR,1991,3
+Bulgaria,BGR,1992,3.05
+Bulgaria,BGR,1993,3.15
+Bulgaria,BGR,1994,3.08
+Bulgaria,BGR,1995,3.03
+Bulgaria,BGR,1996,2.94
+Bulgaria,BGR,1997,2.81
+Bulgaria,BGR,1998,3.04
+Bulgaria,BGR,1999,2.95
+Bulgaria,BGR,2000,3.03
+Bulgaria,BGR,2001,3.19
+Bulgaria,BGR,2002,3.28
+Bulgaria,BGR,2003,3.37
+Bulgaria,BGR,2004,3.41
+Bulgaria,BGR,2005,3.52
+Bulgaria,BGR,2006,3.66
+Bulgaria,BGR,2007,3.68
+Bulgaria,BGR,2008,3.84
+Bulgaria,BGR,2009,3.91
+Bulgaria,BGR,2010,3.82
+Bulgaria,BGR,2011,4
+Bulgaria,BGR,2012,4.13
+Bulgaria,BGR,2013,4.26
+Bulgaria,BGR,2014,4.05
+Bulgaria,BGR,2015,4.07
+Bulgaria,BGR,2016,4.21
+Bulgaria,BGR,2017,4.3
+Burkina Faso,BFA,1990,2.5
+Burkina Faso,BFA,1991,2.55
+Burkina Faso,BFA,1992,2.59
+Burkina Faso,BFA,1993,2.68
+Burkina Faso,BFA,1994,2.76
+Burkina Faso,BFA,1995,2.84
+Burkina Faso,BFA,1996,2.88
+Burkina Faso,BFA,1997,2.91
+Burkina Faso,BFA,1998,2.94
+Burkina Faso,BFA,1999,2.99
+Burkina Faso,BFA,2000,3.07
+Burkina Faso,BFA,2001,3.13
+Burkina Faso,BFA,2002,3.18
+Burkina Faso,BFA,2003,3.24
+Burkina Faso,BFA,2004,3.3
+Burkina Faso,BFA,2005,3.37
+Burkina Faso,BFA,2006,3.44
+Burkina Faso,BFA,2007,3.53
+Burkina Faso,BFA,2008,3.61
+Burkina Faso,BFA,2009,3.69
+Burkina Faso,BFA,2010,3.78
+Burkina Faso,BFA,2011,3.77
+Burkina Faso,BFA,2012,3.79
+Burkina Faso,BFA,2013,3.78
+Burkina Faso,BFA,2014,3.76
+Burkina Faso,BFA,2015,3.74
+Burkina Faso,BFA,2016,3.71
+Burkina Faso,BFA,2017,3.71
+Burundi,BDI,1990,2.35
+Burundi,BDI,1991,2.33
+Burundi,BDI,1992,2.31
+Burundi,BDI,1993,2.31
+Burundi,BDI,1994,2.28
+Burundi,BDI,1995,2.27
+Burundi,BDI,1996,2.27
+Burundi,BDI,1997,2.29
+Burundi,BDI,1998,2.31
+Burundi,BDI,1999,2.31
+Burundi,BDI,2000,2.35
+Burundi,BDI,2001,2.43
+Burundi,BDI,2002,2.52
+Burundi,BDI,2003,2.62
+Burundi,BDI,2004,2.73
+Burundi,BDI,2005,2.86
+Burundi,BDI,2006,2.95
+Burundi,BDI,2007,3.09
+Burundi,BDI,2008,3.19
+Burundi,BDI,2009,3.25
+Burundi,BDI,2010,3.32
+Burundi,BDI,2011,3.34
+Burundi,BDI,2012,3.36
+Burundi,BDI,2013,3.37
+Burundi,BDI,2014,3.38
+Burundi,BDI,2015,3.41
+Burundi,BDI,2016,3.44
+Burundi,BDI,2017,3.44
+Cambodia,KHM,1990,2.23
+Cambodia,KHM,1991,2.21
+Cambodia,KHM,1992,2.19
+Cambodia,KHM,1993,2.16
+Cambodia,KHM,1994,2.15
+Cambodia,KHM,1995,2.15
+Cambodia,KHM,1996,2.14
+Cambodia,KHM,1997,2.16
+Cambodia,KHM,1998,2.18
+Cambodia,KHM,1999,2.2
+Cambodia,KHM,2000,2.24
+Cambodia,KHM,2001,2.28
+Cambodia,KHM,2002,2.32
+Cambodia,KHM,2003,2.38
+Cambodia,KHM,2004,2.44
+Cambodia,KHM,2005,2.51
+Cambodia,KHM,2006,2.56
+Cambodia,KHM,2007,2.63
+Cambodia,KHM,2008,2.71
+Cambodia,KHM,2009,2.78
+Cambodia,KHM,2010,2.83
+Cambodia,KHM,2011,2.88
+Cambodia,KHM,2012,2.93
+Cambodia,KHM,2013,2.97
+Cambodia,KHM,2014,3
+Cambodia,KHM,2015,3.02
+Cambodia,KHM,2016,3.03
+Cambodia,KHM,2017,3.02
+Cameroon,CMR,1990,2.04
+Cameroon,CMR,1991,2.08
+Cameroon,CMR,1992,2.13
+Cameroon,CMR,1993,2.16
+Cameroon,CMR,1994,2.18
+Cameroon,CMR,1995,2.2
+Cameroon,CMR,1996,2.22
+Cameroon,CMR,1997,2.23
+Cameroon,CMR,1998,2.23
+Cameroon,CMR,1999,2.24
+Cameroon,CMR,2000,2.25
+Cameroon,CMR,2001,2.27
+Cameroon,CMR,2002,2.29
+Cameroon,CMR,2003,2.31
+Cameroon,CMR,2004,2.33
+Cameroon,CMR,2005,2.36
+Cameroon,CMR,2006,2.41
+Cameroon,CMR,2007,2.44
+Cameroon,CMR,2008,2.48
+Cameroon,CMR,2009,2.51
+Cameroon,CMR,2010,2.53
+Cameroon,CMR,2011,2.56
+Cameroon,CMR,2012,2.59
+Cameroon,CMR,2013,2.62
+Cameroon,CMR,2014,2.66
+Cameroon,CMR,2015,2.67
+Cameroon,CMR,2016,2.69
+Cameroon,CMR,2017,2.71
+Canada,CAN,1990,3.73
+Canada,CAN,1991,3.78
+Canada,CAN,1992,3.78
+Canada,CAN,1993,3.87
+Canada,CAN,1994,3.81
+Canada,CAN,1995,3.82
+Canada,CAN,1996,3.74
+Canada,CAN,1997,3.85
+Canada,CAN,1998,3.77
+Canada,CAN,1999,3.71
+Canada,CAN,2000,3.49
+Canada,CAN,2001,3.46
+Canada,CAN,2002,3.32
+Canada,CAN,2003,3.34
+Canada,CAN,2004,3.28
+Canada,CAN,2005,3.21
+Canada,CAN,2006,3.16
+Canada,CAN,2007,3.15
+Canada,CAN,2008,3.02
+Canada,CAN,2009,3
+Canada,CAN,2010,3.05
+Canada,CAN,2011,2.91
+Canada,CAN,2012,2.9
+Canada,CAN,2013,2.9
+Canada,CAN,2014,2.91
+Canada,CAN,2015,2.9
+Canada,CAN,2016,2.92
+Canada,CAN,2017,2.94
+Cape Verde,CPV,1990,4.69
+Cape Verde,CPV,1991,4.73
+Cape Verde,CPV,1992,4.76
+Cape Verde,CPV,1993,4.9
+Cape Verde,CPV,1994,5.02
+Cape Verde,CPV,1995,5.09
+Cape Verde,CPV,1996,5.14
+Cape Verde,CPV,1997,5.2
+Cape Verde,CPV,1998,5.26
+Cape Verde,CPV,1999,5.32
+Cape Verde,CPV,2000,5.39
+Cape Verde,CPV,2001,5.51
+Cape Verde,CPV,2002,5.54
+Cape Verde,CPV,2003,5.54
+Cape Verde,CPV,2004,5.48
+Cape Verde,CPV,2005,5.42
+Cape Verde,CPV,2006,5.37
+Cape Verde,CPV,2007,5.23
+Cape Verde,CPV,2008,5.12
+Cape Verde,CPV,2009,5.03
+Cape Verde,CPV,2010,4.93
+Cape Verde,CPV,2011,4.87
+Cape Verde,CPV,2012,4.81
+Cape Verde,CPV,2013,4.7
+Cape Verde,CPV,2014,4.62
+Cape Verde,CPV,2015,4.55
+Cape Verde,CPV,2016,4.52
+Cape Verde,CPV,2017,4.5
+Central African Republic,CAF,1990,3.44
+Central African Republic,CAF,1991,3.5
+Central African Republic,CAF,1992,3.6
+Central African Republic,CAF,1993,3.51
+Central African Republic,CAF,1994,3.51
+Central African Republic,CAF,1995,3.52
+Central African Republic,CAF,1996,3.51
+Central African Republic,CAF,1997,3.52
+Central African Republic,CAF,1998,3.53
+Central African Republic,CAF,1999,3.53
+Central African Republic,CAF,2000,3.54
+Central African Republic,CAF,2001,3.56
+Central African Republic,CAF,2002,3.58
+Central African Republic,CAF,2003,3.59
+Central African Republic,CAF,2004,3.61
+Central African Republic,CAF,2005,3.63
+Central African Republic,CAF,2006,3.64
+Central African Republic,CAF,2007,3.67
+Central African Republic,CAF,2008,3.73
+Central African Republic,CAF,2009,3.77
+Central African Republic,CAF,2010,3.81
+Central African Republic,CAF,2011,3.84
+Central African Republic,CAF,2012,3.88
+Central African Republic,CAF,2013,3.92
+Central African Republic,CAF,2014,3.98
+Central African Republic,CAF,2015,4.03
+Central African Republic,CAF,2016,4.1
+Central African Republic,CAF,2017,4.18
+Central Asia,,1990,3.47
+Central Asia,,1991,3.6
+Central Asia,,1992,3.7
+Central Asia,,1993,3.81
+Central Asia,,1994,3.97
+Central Asia,,1995,4.25
+Central Asia,,1996,4.48
+Central Asia,,1997,4.53
+Central Asia,,1998,4.53
+Central Asia,,1999,4.49
+Central Asia,,2000,4.56
+Central Asia,,2001,4.57
+Central Asia,,2002,4.47
+Central Asia,,2003,4.41
+Central Asia,,2004,4.4
+Central Asia,,2005,4.34
+Central Asia,,2006,4.31
+Central Asia,,2007,4.28
+Central Asia,,2008,4.08
+Central Asia,,2009,3.93
+Central Asia,,2010,3.9
+Central Asia,,2011,3.86
+Central Asia,,2012,3.82
+Central Asia,,2013,3.81
+Central Asia,,2014,3.75
+Central Asia,,2015,3.79
+Central Asia,,2016,3.87
+Central Asia,,2017,3.96
+Central Europe,,1990,3.65
+Central Europe,,1991,3.76
+Central Europe,,1992,3.83
+Central Europe,,1993,3.85
+Central Europe,,1994,3.93
+Central Europe,,1995,3.97
+Central Europe,,1996,4.04
+Central Europe,,1997,4.13
+Central Europe,,1998,4.33
+Central Europe,,1999,4.38
+Central Europe,,2000,4.41
+Central Europe,,2001,4.56
+Central Europe,,2002,4.64
+Central Europe,,2003,4.68
+Central Europe,,2004,4.76
+Central Europe,,2005,4.8
+Central Europe,,2006,4.9
+Central Europe,,2007,4.97
+Central Europe,,2008,5.11
+Central Europe,,2009,5.19
+Central Europe,,2010,5.35
+Central Europe,,2011,5.38
+Central Europe,,2012,5.4
+Central Europe,,2013,5.37
+Central Europe,,2014,5.32
+Central Europe,,2015,5.33
+Central Europe,,2016,5.36
+Central Europe,,2017,5.39
+Central Sub-Saharan Africa,,1990,3.54
+Central Sub-Saharan Africa,,1991,3.57
+Central Sub-Saharan Africa,,1992,3.62
+Central Sub-Saharan Africa,,1993,3.62
+Central Sub-Saharan Africa,,1994,3.64
+Central Sub-Saharan Africa,,1995,3.67
+Central Sub-Saharan Africa,,1996,3.65
+Central Sub-Saharan Africa,,1997,3.73
+Central Sub-Saharan Africa,,1998,3.73
+Central Sub-Saharan Africa,,1999,3.74
+Central Sub-Saharan Africa,,2000,3.76
+Central Sub-Saharan Africa,,2001,3.76
+Central Sub-Saharan Africa,,2002,3.73
+Central Sub-Saharan Africa,,2003,3.74
+Central Sub-Saharan Africa,,2004,3.75
+Central Sub-Saharan Africa,,2005,3.79
+Central Sub-Saharan Africa,,2006,3.83
+Central Sub-Saharan Africa,,2007,3.88
+Central Sub-Saharan Africa,,2008,3.92
+Central Sub-Saharan Africa,,2009,3.98
+Central Sub-Saharan Africa,,2010,4.04
+Central Sub-Saharan Africa,,2011,4.1
+Central Sub-Saharan Africa,,2012,4.16
+Central Sub-Saharan Africa,,2013,4.19
+Central Sub-Saharan Africa,,2014,4.21
+Central Sub-Saharan Africa,,2015,4.23
+Central Sub-Saharan Africa,,2016,4.25
+Central Sub-Saharan Africa,,2017,4.26
+Chad,TCD,1990,1.77
+Chad,TCD,1991,1.77
+Chad,TCD,1992,1.78
+Chad,TCD,1993,1.81
+Chad,TCD,1994,1.83
+Chad,TCD,1995,1.85
+Chad,TCD,1996,1.86
+Chad,TCD,1997,1.85
+Chad,TCD,1998,1.8
+Chad,TCD,1999,1.77
+Chad,TCD,2000,1.73
+Chad,TCD,2001,1.74
+Chad,TCD,2002,1.73
+Chad,TCD,2003,1.73
+Chad,TCD,2004,1.72
+Chad,TCD,2005,1.72
+Chad,TCD,2006,1.71
+Chad,TCD,2007,1.72
+Chad,TCD,2008,1.72
+Chad,TCD,2009,1.73
+Chad,TCD,2010,1.74
+Chad,TCD,2011,1.8
+Chad,TCD,2012,1.85
+Chad,TCD,2013,1.89
+Chad,TCD,2014,1.94
+Chad,TCD,2015,1.99
+Chad,TCD,2016,2.04
+Chad,TCD,2017,2.04
+Chile,CHL,1990,6.49
+Chile,CHL,1991,6.26
+Chile,CHL,1992,6
+Chile,CHL,1993,6.1
+Chile,CHL,1994,6.1
+Chile,CHL,1995,6.37
+Chile,CHL,1996,6.48
+Chile,CHL,1997,6.31
+Chile,CHL,1998,6.26
+Chile,CHL,1999,6.1
+Chile,CHL,2000,6.01
+Chile,CHL,2001,5.74
+Chile,CHL,2002,5.7
+Chile,CHL,2003,5.45
+Chile,CHL,2004,5.2
+Chile,CHL,2005,5.06
+Chile,CHL,2006,4.84
+Chile,CHL,2007,4.58
+Chile,CHL,2008,4.63
+Chile,CHL,2009,4.64
+Chile,CHL,2010,4.57
+Chile,CHL,2011,4.6
+Chile,CHL,2012,4.57
+Chile,CHL,2013,4.49
+Chile,CHL,2014,4.65
+Chile,CHL,2015,4.47
+Chile,CHL,2016,4.5
+Chile,CHL,2017,4.61
+China,CHN,1990,0.88
+China,CHN,1991,0.88
+China,CHN,1992,0.88
+China,CHN,1993,0.89
+China,CHN,1994,0.88
+China,CHN,1995,0.9
+China,CHN,1996,0.93
+China,CHN,1997,0.96
+China,CHN,1998,1.02
+China,CHN,1999,1.07
+China,CHN,2000,1.14
+China,CHN,2001,1.19
+China,CHN,2002,1.25
+China,CHN,2003,1.25
+China,CHN,2004,1.25
+China,CHN,2005,1.27
+China,CHN,2006,1.27
+China,CHN,2007,1.29
+China,CHN,2008,1.3
+China,CHN,2009,1.3
+China,CHN,2010,1.3
+China,CHN,2011,1.35
+China,CHN,2012,1.39
+China,CHN,2013,1.42
+China,CHN,2014,1.44
+China,CHN,2015,1.48
+China,CHN,2016,1.52
+China,CHN,2017,1.56
+Colombia,COL,1990,4.88
+Colombia,COL,1991,4.91
+Colombia,COL,1992,4.74
+Colombia,COL,1993,4.47
+Colombia,COL,1994,4.49
+Colombia,COL,1995,4.67
+Colombia,COL,1996,4.78
+Colombia,COL,1997,4.61
+Colombia,COL,1998,4.28
+Colombia,COL,1999,4.2
+Colombia,COL,2000,4.17
+Colombia,COL,2001,3.9
+Colombia,COL,2002,4.47
+Colombia,COL,2003,4.15
+Colombia,COL,2004,4.22
+Colombia,COL,2005,4.24
+Colombia,COL,2006,4.2
+Colombia,COL,2007,4.51
+Colombia,COL,2008,4.53
+Colombia,COL,2009,4.85
+Colombia,COL,2010,4.8
+Colombia,COL,2011,4.72
+Colombia,COL,2012,4.68
+Colombia,COL,2013,4.75
+Colombia,COL,2014,4.83
+Colombia,COL,2015,4.87
+Colombia,COL,2016,5.02
+Colombia,COL,2017,5.17
+Comoros,COM,1990,2.81
+Comoros,COM,1991,2.81
+Comoros,COM,1992,2.81
+Comoros,COM,1993,2.82
+Comoros,COM,1994,2.81
+Comoros,COM,1995,2.81
+Comoros,COM,1996,2.84
+Comoros,COM,1997,2.88
+Comoros,COM,1998,2.78
+Comoros,COM,1999,2.74
+Comoros,COM,2000,2.74
+Comoros,COM,2001,2.72
+Comoros,COM,2002,2.75
+Comoros,COM,2003,2.74
+Comoros,COM,2004,2.99
+Comoros,COM,2005,3.03
+Comoros,COM,2006,3.1
+Comoros,COM,2007,3.18
+Comoros,COM,2008,3.22
+Comoros,COM,2009,3.29
+Comoros,COM,2010,3.33
+Comoros,COM,2011,3.37
+Comoros,COM,2012,3.38
+Comoros,COM,2013,3.41
+Comoros,COM,2014,3.44
+Comoros,COM,2015,3.48
+Comoros,COM,2016,3.51
+Comoros,COM,2017,3.55
+Congo,COG,1990,2.97
+Congo,COG,1991,2.94
+Congo,COG,1992,2.97
+Congo,COG,1993,2.91
+Congo,COG,1994,2.78
+Congo,COG,1995,2.74
+Congo,COG,1996,2.59
+Congo,COG,1997,2.55
+Congo,COG,1998,2.51
+Congo,COG,1999,2.45
+Congo,COG,2000,2.39
+Congo,COG,2001,2.39
+Congo,COG,2002,2.38
+Congo,COG,2003,2.37
+Congo,COG,2004,2.34
+Congo,COG,2005,2.29
+Congo,COG,2006,2.28
+Congo,COG,2007,2.3
+Congo,COG,2008,2.31
+Congo,COG,2009,2.36
+Congo,COG,2010,2.37
+Congo,COG,2011,2.41
+Congo,COG,2012,2.49
+Congo,COG,2013,2.55
+Congo,COG,2014,2.6
+Congo,COG,2015,2.67
+Congo,COG,2016,2.74
+Congo,COG,2017,2.77
+Costa Rica,CRI,1990,6.57
+Costa Rica,CRI,1991,6.3
+Costa Rica,CRI,1992,6.61
+Costa Rica,CRI,1993,6.43
+Costa Rica,CRI,1994,6.33
+Costa Rica,CRI,1995,6.25
+Costa Rica,CRI,1996,6.42
+Costa Rica,CRI,1997,6.59
+Costa Rica,CRI,1998,6.96
+Costa Rica,CRI,1999,7.25
+Costa Rica,CRI,2000,7.16
+Costa Rica,CRI,2001,6.36
+Costa Rica,CRI,2002,6.12
+Costa Rica,CRI,2003,6.07
+Costa Rica,CRI,2004,6.45
+Costa Rica,CRI,2005,5.88
+Costa Rica,CRI,2006,5.97
+Costa Rica,CRI,2007,6.44
+Costa Rica,CRI,2008,6.75
+Costa Rica,CRI,2009,6.2
+Costa Rica,CRI,2010,6.17
+Costa Rica,CRI,2011,5.92
+Costa Rica,CRI,2012,6.09
+Costa Rica,CRI,2013,6.18
+Costa Rica,CRI,2014,6.18
+Costa Rica,CRI,2015,6.61
+Costa Rica,CRI,2016,6.9
+Costa Rica,CRI,2017,6.92
+Cote d'Ivoire,CIV,1990,3.8
+Cote d'Ivoire,CIV,1991,3.85
+Cote d'Ivoire,CIV,1992,3.93
+Cote d'Ivoire,CIV,1993,3.94
+Cote d'Ivoire,CIV,1994,3.96
+Cote d'Ivoire,CIV,1995,3.93
+Cote d'Ivoire,CIV,1996,3.93
+Cote d'Ivoire,CIV,1997,3.91
+Cote d'Ivoire,CIV,1998,3.89
+Cote d'Ivoire,CIV,1999,3.86
+Cote d'Ivoire,CIV,2000,3.86
+Cote d'Ivoire,CIV,2001,3.84
+Cote d'Ivoire,CIV,2002,3.87
+Cote d'Ivoire,CIV,2003,3.91
+Cote d'Ivoire,CIV,2004,3.98
+Cote d'Ivoire,CIV,2005,3.97
+Cote d'Ivoire,CIV,2006,3.96
+Cote d'Ivoire,CIV,2007,3.96
+Cote d'Ivoire,CIV,2008,3.98
+Cote d'Ivoire,CIV,2009,3.99
+Cote d'Ivoire,CIV,2010,4.01
+Cote d'Ivoire,CIV,2011,4
+Cote d'Ivoire,CIV,2012,3.97
+Cote d'Ivoire,CIV,2013,3.92
+Cote d'Ivoire,CIV,2014,3.88
+Cote d'Ivoire,CIV,2015,3.84
+Cote d'Ivoire,CIV,2016,3.82
+Cote d'Ivoire,CIV,2017,3.81
+Croatia,HRV,1990,3.05
+Croatia,HRV,1991,3.14
+Croatia,HRV,1992,3.32
+Croatia,HRV,1993,3.33
+Croatia,HRV,1994,3.28
+Croatia,HRV,1995,3.31
+Croatia,HRV,1996,3.28
+Croatia,HRV,1997,3.38
+Croatia,HRV,1998,3.42
+Croatia,HRV,1999,3.57
+Croatia,HRV,2000,3.61
+Croatia,HRV,2001,3.69
+Croatia,HRV,2002,3.67
+Croatia,HRV,2003,3.71
+Croatia,HRV,2004,3.56
+Croatia,HRV,2005,3.75
+Croatia,HRV,2006,3.74
+Croatia,HRV,2007,3.74
+Croatia,HRV,2008,3.97
+Croatia,HRV,2009,4.13
+Croatia,HRV,2010,3.82
+Croatia,HRV,2011,3.84
+Croatia,HRV,2012,4.05
+Croatia,HRV,2013,3.85
+Croatia,HRV,2014,3.8
+Croatia,HRV,2015,3.77
+Croatia,HRV,2016,4.03
+Croatia,HRV,2017,4.13
+Cuba,CUB,1990,1.54
+Cuba,CUB,1991,1.54
+Cuba,CUB,1992,1.55
+Cuba,CUB,1993,1.62
+Cuba,CUB,1994,1.76
+Cuba,CUB,1995,1.77
+Cuba,CUB,1996,1.89
+Cuba,CUB,1997,2.09
+Cuba,CUB,1998,2.16
+Cuba,CUB,1999,2.34
+Cuba,CUB,2000,2.4
+Cuba,CUB,2001,2.49
+Cuba,CUB,2002,2.63
+Cuba,CUB,2003,2.75
+Cuba,CUB,2004,2.88
+Cuba,CUB,2005,3
+Cuba,CUB,2006,3.26
+Cuba,CUB,2007,3.29
+Cuba,CUB,2008,3.19
+Cuba,CUB,2009,3.34
+Cuba,CUB,2010,3.45
+Cuba,CUB,2011,3.5
+Cuba,CUB,2012,3.6
+Cuba,CUB,2013,3.59
+Cuba,CUB,2014,3.62
+Cuba,CUB,2015,3.68
+Cuba,CUB,2016,3.75
+Cuba,CUB,2017,3.84
+Cyprus,CYP,1990,2.69
+Cyprus,CYP,1991,2.74
+Cyprus,CYP,1992,2.69
+Cyprus,CYP,1993,2.81
+Cyprus,CYP,1994,2.91
+Cyprus,CYP,1995,2.98
+Cyprus,CYP,1996,3.07
+Cyprus,CYP,1997,3.12
+Cyprus,CYP,1998,3.17
+Cyprus,CYP,1999,3.15
+Cyprus,CYP,2000,3.25
+Cyprus,CYP,2001,3.34
+Cyprus,CYP,2002,3.38
+Cyprus,CYP,2003,3.44
+Cyprus,CYP,2004,3.53
+Cyprus,CYP,2005,3.47
+Cyprus,CYP,2006,3.53
+Cyprus,CYP,2007,3.78
+Cyprus,CYP,2008,3.81
+Cyprus,CYP,2009,3.98
+Cyprus,CYP,2010,4.07
+Cyprus,CYP,2011,4.27
+Cyprus,CYP,2012,4.47
+Cyprus,CYP,2013,4.5
+Cyprus,CYP,2014,4.34
+Cyprus,CYP,2015,4.4
+Cyprus,CYP,2016,4.45
+Cyprus,CYP,2017,4.45
+Czechia,CZE,1990,3.15
+Czechia,CZE,1991,3.11
+Czechia,CZE,1992,3.28
+Czechia,CZE,1993,3.31
+Czechia,CZE,1994,3.47
+Czechia,CZE,1995,3.49
+Czechia,CZE,1996,3.89
+Czechia,CZE,1997,4
+Czechia,CZE,1998,4.22
+Czechia,CZE,1999,4.41
+Czechia,CZE,2000,4.35
+Czechia,CZE,2001,4.36
+Czechia,CZE,2002,4.52
+Czechia,CZE,2003,4.63
+Czechia,CZE,2004,4.95
+Czechia,CZE,2005,4.83
+Czechia,CZE,2006,4.95
+Czechia,CZE,2007,5.19
+Czechia,CZE,2008,5.1
+Czechia,CZE,2009,5.2
+Czechia,CZE,2010,5.32
+Czechia,CZE,2011,5.25
+Czechia,CZE,2012,5.18
+Czechia,CZE,2013,5.11
+Czechia,CZE,2014,5.13
+Czechia,CZE,2015,5.03
+Czechia,CZE,2016,4.82
+Czechia,CZE,2017,4.84
+Democratic Republic of Congo,COD,1990,3.55
+Democratic Republic of Congo,COD,1991,3.59
+Democratic Republic of Congo,COD,1992,3.64
+Democratic Republic of Congo,COD,1993,3.65
+Democratic Republic of Congo,COD,1994,3.7
+Democratic Republic of Congo,COD,1995,3.76
+Democratic Republic of Congo,COD,1996,3.73
+Democratic Republic of Congo,COD,1997,3.87
+Democratic Republic of Congo,COD,1998,3.89
+Democratic Republic of Congo,COD,1999,3.93
+Democratic Republic of Congo,COD,2000,3.95
+Democratic Republic of Congo,COD,2001,3.92
+Democratic Republic of Congo,COD,2002,3.9
+Democratic Republic of Congo,COD,2003,3.94
+Democratic Republic of Congo,COD,2004,3.95
+Democratic Republic of Congo,COD,2005,3.99
+Democratic Republic of Congo,COD,2006,4.01
+Democratic Republic of Congo,COD,2007,4.05
+Democratic Republic of Congo,COD,2008,4.11
+Democratic Republic of Congo,COD,2009,4.16
+Democratic Republic of Congo,COD,2010,4.22
+Democratic Republic of Congo,COD,2011,4.27
+Democratic Republic of Congo,COD,2012,4.3
+Democratic Republic of Congo,COD,2013,4.31
+Democratic Republic of Congo,COD,2014,4.31
+Democratic Republic of Congo,COD,2015,4.32
+Democratic Republic of Congo,COD,2016,4.33
+Democratic Republic of Congo,COD,2017,4.33
+Denmark,DNK,1990,2.01
+Denmark,DNK,1991,2.13
+Denmark,DNK,1992,2.15
+Denmark,DNK,1993,2.2
+Denmark,DNK,1994,2.29
+Denmark,DNK,1995,2.25
+Denmark,DNK,1996,2.47
+Denmark,DNK,1997,2.52
+Denmark,DNK,1998,2.77
+Denmark,DNK,1999,2.83
+Denmark,DNK,2000,2.88
+Denmark,DNK,2001,2.78
+Denmark,DNK,2002,2.83
+Denmark,DNK,2003,2.95
+Denmark,DNK,2004,2.91
+Denmark,DNK,2005,2.89
+Denmark,DNK,2006,2.96
+Denmark,DNK,2007,2.89
+Denmark,DNK,2008,2.85
+Denmark,DNK,2009,3
+Denmark,DNK,2010,3.01
+Denmark,DNK,2011,3.08
+Denmark,DNK,2012,3.07
+Denmark,DNK,2013,3.16
+Denmark,DNK,2014,3.22
+Denmark,DNK,2015,3.02
+Denmark,DNK,2016,2.96
+Denmark,DNK,2017,2.96
+Djibouti,DJI,1990,2.32
+Djibouti,DJI,1991,2.35
+Djibouti,DJI,1992,2.39
+Djibouti,DJI,1993,2.43
+Djibouti,DJI,1994,2.46
+Djibouti,DJI,1995,2.49
+Djibouti,DJI,1996,2.5
+Djibouti,DJI,1997,2.52
+Djibouti,DJI,1998,2.53
+Djibouti,DJI,1999,2.51
+Djibouti,DJI,2000,2.52
+Djibouti,DJI,2001,2.53
+Djibouti,DJI,2002,2.56
+Djibouti,DJI,2003,2.59
+Djibouti,DJI,2004,2.63
+Djibouti,DJI,2005,2.68
+Djibouti,DJI,2006,2.73
+Djibouti,DJI,2007,2.79
+Djibouti,DJI,2008,2.84
+Djibouti,DJI,2009,2.89
+Djibouti,DJI,2010,2.95
+Djibouti,DJI,2011,2.98
+Djibouti,DJI,2012,3.01
+Djibouti,DJI,2013,3.04
+Djibouti,DJI,2014,3.06
+Djibouti,DJI,2015,3.07
+Djibouti,DJI,2016,3.11
+Djibouti,DJI,2017,3.13
+Dominica,DMA,1990,4.01
+Dominica,DMA,1991,3.96
+Dominica,DMA,1992,3.99
+Dominica,DMA,1993,4.08
+Dominica,DMA,1994,4.24
+Dominica,DMA,1995,4.39
+Dominica,DMA,1996,4.56
+Dominica,DMA,1997,4.7
+Dominica,DMA,1998,4.78
+Dominica,DMA,1999,4.98
+Dominica,DMA,2000,5.07
+Dominica,DMA,2001,5.17
+Dominica,DMA,2002,5.29
+Dominica,DMA,2003,5.34
+Dominica,DMA,2004,5.37
+Dominica,DMA,2005,5.38
+Dominica,DMA,2006,5.48
+Dominica,DMA,2007,5.45
+Dominica,DMA,2008,5.44
+Dominica,DMA,2009,5.5
+Dominica,DMA,2010,5.53
+Dominica,DMA,2011,5.49
+Dominica,DMA,2012,5.44
+Dominica,DMA,2013,5.43
+Dominica,DMA,2014,5.27
+Dominica,DMA,2015,5.44
+Dominica,DMA,2016,5.42
+Dominica,DMA,2017,5.43
+Dominican Republic,DOM,1990,3.8
+Dominican Republic,DOM,1991,3.77
+Dominican Republic,DOM,1992,3.72
+Dominican Republic,DOM,1993,3.6
+Dominican Republic,DOM,1994,3.78
+Dominican Republic,DOM,1995,3.96
+Dominican Republic,DOM,1996,3.98
+Dominican Republic,DOM,1997,4.07
+Dominican Republic,DOM,1998,4.09
+Dominican Republic,DOM,1999,4.36
+Dominican Republic,DOM,2000,4.4
+Dominican Republic,DOM,2001,4.42
+Dominican Republic,DOM,2002,4.46
+Dominican Republic,DOM,2003,4.5
+Dominican Republic,DOM,2004,4.41
+Dominican Republic,DOM,2005,4.23
+Dominican Republic,DOM,2006,4
+Dominican Republic,DOM,2007,3.88
+Dominican Republic,DOM,2008,3.98
+Dominican Republic,DOM,2009,4.21
+Dominican Republic,DOM,2010,4.46
+Dominican Republic,DOM,2011,4.56
+Dominican Republic,DOM,2012,4.67
+Dominican Republic,DOM,2013,4.68
+Dominican Republic,DOM,2014,4.71
+Dominican Republic,DOM,2015,4.75
+Dominican Republic,DOM,2016,4.86
+Dominican Republic,DOM,2017,4.9
+East Asia & Pacific,,1990,1.09
+East Asia & Pacific,,1991,1.09
+East Asia & Pacific,,1992,1.09
+East Asia & Pacific,,1993,1.1
+East Asia & Pacific,,1994,1.11
+East Asia & Pacific,,1995,1.14
+East Asia & Pacific,,1996,1.18
+East Asia & Pacific,,1997,1.22
+East Asia & Pacific,,1998,1.3
+East Asia & Pacific,,1999,1.37
+East Asia & Pacific,,2000,1.46
+East Asia & Pacific,,2001,1.54
+East Asia & Pacific,,2002,1.62
+East Asia & Pacific,,2003,1.63
+East Asia & Pacific,,2004,1.62
+East Asia & Pacific,,2005,1.65
+East Asia & Pacific,,2006,1.66
+East Asia & Pacific,,2007,1.69
+East Asia & Pacific,,2008,1.71
+East Asia & Pacific,,2009,1.72
+East Asia & Pacific,,2010,1.73
+East Asia & Pacific,,2011,1.77
+East Asia & Pacific,,2012,1.83
+East Asia & Pacific,,2013,1.86
+East Asia & Pacific,,2014,1.89
+East Asia & Pacific,,2015,1.93
+East Asia & Pacific,,2016,1.97
+East Asia & Pacific,,2017,2.01
+Eastern Europe,,1990,4.87
+Eastern Europe,,1991,5
+Eastern Europe,,1992,5.29
+Eastern Europe,,1993,5.48
+Eastern Europe,,1994,5.64
+Eastern Europe,,1995,5.72
+Eastern Europe,,1996,5.82
+Eastern Europe,,1997,5.81
+Eastern Europe,,1998,5.93
+Eastern Europe,,1999,6.03
+Eastern Europe,,2000,6.23
+Eastern Europe,,2001,6.21
+Eastern Europe,,2002,6.13
+Eastern Europe,,2003,6.06
+Eastern Europe,,2004,6.11
+Eastern Europe,,2005,6.14
+Eastern Europe,,2006,6.09
+Eastern Europe,,2007,6.03
+Eastern Europe,,2008,5.97
+Eastern Europe,,2009,5.87
+Eastern Europe,,2010,5.9
+Eastern Europe,,2011,5.79
+Eastern Europe,,2012,5.79
+Eastern Europe,,2013,5.82
+Eastern Europe,,2014,5.85
+Eastern Europe,,2015,5.95
+Eastern Europe,,2016,6
+Eastern Europe,,2017,6.04
+Eastern Sub-Saharan Africa,,1990,2.18
+Eastern Sub-Saharan Africa,,1991,2.18
+Eastern Sub-Saharan Africa,,1992,2.19
+Eastern Sub-Saharan Africa,,1993,2.21
+Eastern Sub-Saharan Africa,,1994,2.21
+Eastern Sub-Saharan Africa,,1995,2.22
+Eastern Sub-Saharan Africa,,1996,2.23
+Eastern Sub-Saharan Africa,,1997,2.24
+Eastern Sub-Saharan Africa,,1998,2.25
+Eastern Sub-Saharan Africa,,1999,2.26
+Eastern Sub-Saharan Africa,,2000,2.27
+Eastern Sub-Saharan Africa,,2001,2.33
+Eastern Sub-Saharan Africa,,2002,2.4
+Eastern Sub-Saharan Africa,,2003,2.47
+Eastern Sub-Saharan Africa,,2004,2.56
+Eastern Sub-Saharan Africa,,2005,2.67
+Eastern Sub-Saharan Africa,,2006,2.79
+Eastern Sub-Saharan Africa,,2007,2.89
+Eastern Sub-Saharan Africa,,2008,2.99
+Eastern Sub-Saharan Africa,,2009,3.07
+Eastern Sub-Saharan Africa,,2010,3.16
+Eastern Sub-Saharan Africa,,2011,3.24
+Eastern Sub-Saharan Africa,,2012,3.32
+Eastern Sub-Saharan Africa,,2013,3.4
+Eastern Sub-Saharan Africa,,2014,3.42
+Eastern Sub-Saharan Africa,,2015,3.47
+Eastern Sub-Saharan Africa,,2016,3.51
+Eastern Sub-Saharan Africa,,2017,3.52
+Ecuador,ECU,1990,2.29
+Ecuador,ECU,1991,2.35
+Ecuador,ECU,1992,2.24
+Ecuador,ECU,1993,2.19
+Ecuador,ECU,1994,2.35
+Ecuador,ECU,1995,2.42
+Ecuador,ECU,1996,2.45
+Ecuador,ECU,1997,2.5
+Ecuador,ECU,1998,2.46
+Ecuador,ECU,1999,2.65
+Ecuador,ECU,2000,2.68
+Ecuador,ECU,2001,2.83
+Ecuador,ECU,2002,2.56
+Ecuador,ECU,2003,2.42
+Ecuador,ECU,2004,2.5
+Ecuador,ECU,2005,2.58
+Ecuador,ECU,2006,2.58
+Ecuador,ECU,2007,2.73
+Ecuador,ECU,2008,2.83
+Ecuador,ECU,2009,2.97
+Ecuador,ECU,2010,3.01
+Ecuador,ECU,2011,3.01
+Ecuador,ECU,2012,3.03
+Ecuador,ECU,2013,3.05
+Ecuador,ECU,2014,3.18
+Ecuador,ECU,2015,3.23
+Ecuador,ECU,2016,3.13
+Ecuador,ECU,2017,3.13
+Egypt,EGY,1990,2.14
+Egypt,EGY,1991,2.14
+Egypt,EGY,1992,2.13
+Egypt,EGY,1993,2.16
+Egypt,EGY,1994,2.22
+Egypt,EGY,1995,2.28
+Egypt,EGY,1996,2.22
+Egypt,EGY,1997,2.2
+Egypt,EGY,1998,2.17
+Egypt,EGY,1999,2.26
+Egypt,EGY,2000,2.44
+Egypt,EGY,2001,2.45
+Egypt,EGY,2002,2.52
+Egypt,EGY,2003,2.59
+Egypt,EGY,2004,2.65
+Egypt,EGY,2005,2.65
+Egypt,EGY,2006,2.73
+Egypt,EGY,2007,2.77
+Egypt,EGY,2008,2.8
+Egypt,EGY,2009,2.84
+Egypt,EGY,2010,2.85
+Egypt,EGY,2011,3.06
+Egypt,EGY,2012,2.93
+Egypt,EGY,2013,3.06
+Egypt,EGY,2014,2.96
+Egypt,EGY,2015,2.94
+Egypt,EGY,2016,2.93
+Egypt,EGY,2017,2.98
+El Salvador,SLV,1990,3.03
+El Salvador,SLV,1991,2.89
+El Salvador,SLV,1992,2.67
+El Salvador,SLV,1993,2.76
+El Salvador,SLV,1994,2.5
+El Salvador,SLV,1995,2.84
+El Salvador,SLV,1996,2.58
+El Salvador,SLV,1997,2.62
+El Salvador,SLV,1998,2.9
+El Salvador,SLV,1999,2.77
+El Salvador,SLV,2000,3.05
+El Salvador,SLV,2001,3.03
+El Salvador,SLV,2002,3.1
+El Salvador,SLV,2003,3.43
+El Salvador,SLV,2004,3.67
+El Salvador,SLV,2005,3.86
+El Salvador,SLV,2006,3.98
+El Salvador,SLV,2007,4.16
+El Salvador,SLV,2008,4.31
+El Salvador,SLV,2009,4.36
+El Salvador,SLV,2010,4.37
+El Salvador,SLV,2011,4.32
+El Salvador,SLV,2012,4.31
+El Salvador,SLV,2013,4.41
+El Salvador,SLV,2014,4.83
+El Salvador,SLV,2015,4.99
+El Salvador,SLV,2016,4.93
+El Salvador,SLV,2017,4.88
+Equatorial Guinea,GNQ,1990,3.8
+Equatorial Guinea,GNQ,1991,3.83
+Equatorial Guinea,GNQ,1992,3.88
+Equatorial Guinea,GNQ,1993,3.84
+Equatorial Guinea,GNQ,1994,3.81
+Equatorial Guinea,GNQ,1995,3.83
+Equatorial Guinea,GNQ,1996,3.74
+Equatorial Guinea,GNQ,1997,3.73
+Equatorial Guinea,GNQ,1998,3.67
+Equatorial Guinea,GNQ,1999,3.59
+Equatorial Guinea,GNQ,2000,3.52
+Equatorial Guinea,GNQ,2001,3.45
+Equatorial Guinea,GNQ,2002,3.36
+Equatorial Guinea,GNQ,2003,3.29
+Equatorial Guinea,GNQ,2004,3.16
+Equatorial Guinea,GNQ,2005,3.12
+Equatorial Guinea,GNQ,2006,3.08
+Equatorial Guinea,GNQ,2007,3.09
+Equatorial Guinea,GNQ,2008,3.05
+Equatorial Guinea,GNQ,2009,3.07
+Equatorial Guinea,GNQ,2010,2.97
+Equatorial Guinea,GNQ,2011,3
+Equatorial Guinea,GNQ,2012,3.05
+Equatorial Guinea,GNQ,2013,3.13
+Equatorial Guinea,GNQ,2014,3.23
+Equatorial Guinea,GNQ,2015,3.28
+Equatorial Guinea,GNQ,2016,3.34
+Equatorial Guinea,GNQ,2017,3.44
+Eritrea,ERI,1990,3.38
+Eritrea,ERI,1991,3.5
+Eritrea,ERI,1992,3.62
+Eritrea,ERI,1993,3.75
+Eritrea,ERI,1994,3.86
+Eritrea,ERI,1995,3.81
+Eritrea,ERI,1996,4.09
+Eritrea,ERI,1997,4.12
+Eritrea,ERI,1998,4.14
+Eritrea,ERI,1999,4.13
+Eritrea,ERI,2000,3.91
+Eritrea,ERI,2001,4.06
+Eritrea,ERI,2002,4.06
+Eritrea,ERI,2003,4.07
+Eritrea,ERI,2004,4.04
+Eritrea,ERI,2005,3.95
+Eritrea,ERI,2006,4
+Eritrea,ERI,2007,3.99
+Eritrea,ERI,2008,3.96
+Eritrea,ERI,2009,3.94
+Eritrea,ERI,2010,3.89
+Eritrea,ERI,2011,3.87
+Eritrea,ERI,2012,3.85
+Eritrea,ERI,2013,3.83
+Eritrea,ERI,2014,3.81
+Eritrea,ERI,2015,3.76
+Eritrea,ERI,2016,3.74
+Eritrea,ERI,2017,3.71
+Estonia,EST,1990,3.89
+Estonia,EST,1991,4.12
+Estonia,EST,1992,4.49
+Estonia,EST,1993,4.78
+Estonia,EST,1994,5.07
+Estonia,EST,1995,5.33
+Estonia,EST,1996,5.32
+Estonia,EST,1997,5.61
+Estonia,EST,1998,5.65
+Estonia,EST,1999,5.38
+Estonia,EST,2000,4.98
+Estonia,EST,2001,5.39
+Estonia,EST,2002,5.68
+Estonia,EST,2003,5.73
+Estonia,EST,2004,6.18
+Estonia,EST,2005,5.81
+Estonia,EST,2006,5.84
+Estonia,EST,2007,6.31
+Estonia,EST,2008,6.09
+Estonia,EST,2009,6.45
+Estonia,EST,2010,6.64
+Estonia,EST,2011,6.66
+Estonia,EST,2012,6.77
+Estonia,EST,2013,6.12
+Estonia,EST,2014,6.29
+Estonia,EST,2015,6.38
+Estonia,EST,2016,6.52
+Estonia,EST,2017,6.68
+Eswatini,SWZ,1990,4.55
+Eswatini,SWZ,1991,4.57
+Eswatini,SWZ,1992,4.58
+Eswatini,SWZ,1993,4.66
+Eswatini,SWZ,1994,4.85
+Eswatini,SWZ,1995,5.01
+Eswatini,SWZ,1996,5.49
+Eswatini,SWZ,1997,5.77
+Eswatini,SWZ,1998,5.86
+Eswatini,SWZ,1999,5.67
+Eswatini,SWZ,2000,5.31
+Eswatini,SWZ,2001,5.27
+Eswatini,SWZ,2002,5.03
+Eswatini,SWZ,2003,5.09
+Eswatini,SWZ,2004,5.04
+Eswatini,SWZ,2005,4.94
+Eswatini,SWZ,2006,5.07
+Eswatini,SWZ,2007,5.14
+Eswatini,SWZ,2008,5.16
+Eswatini,SWZ,2009,5.16
+Eswatini,SWZ,2010,5.2
+Eswatini,SWZ,2011,5.27
+Eswatini,SWZ,2012,5.32
+Eswatini,SWZ,2013,5.36
+Eswatini,SWZ,2014,5.46
+Eswatini,SWZ,2015,5.66
+Eswatini,SWZ,2016,5.77
+Eswatini,SWZ,2017,5.73
+Ethiopia,ETH,1990,2.02
+Ethiopia,ETH,1991,2.03
+Ethiopia,ETH,1992,2.04
+Ethiopia,ETH,1993,2.03
+Ethiopia,ETH,1994,2.01
+Ethiopia,ETH,1995,2.01
+Ethiopia,ETH,1996,1.97
+Ethiopia,ETH,1997,1.94
+Ethiopia,ETH,1998,1.91
+Ethiopia,ETH,1999,1.88
+Ethiopia,ETH,2000,1.87
+Ethiopia,ETH,2001,1.89
+Ethiopia,ETH,2002,1.92
+Ethiopia,ETH,2003,1.96
+Ethiopia,ETH,2004,1.99
+Ethiopia,ETH,2005,2.04
+Ethiopia,ETH,2006,2.1
+Ethiopia,ETH,2007,2.17
+Ethiopia,ETH,2008,2.24
+Ethiopia,ETH,2009,2.29
+Ethiopia,ETH,2010,2.4
+Ethiopia,ETH,2011,2.51
+Ethiopia,ETH,2012,2.67
+Ethiopia,ETH,2013,2.92
+Ethiopia,ETH,2014,2.97
+Ethiopia,ETH,2015,3.06
+Ethiopia,ETH,2016,3.15
+Ethiopia,ETH,2017,3.17
+Europe,,1990,3.64
+Europe,,1991,3.76
+Europe,,1992,3.96
+Europe,,1993,4.13
+Europe,,1994,4.29
+Europe,,1995,4.34
+Europe,,1996,4.36
+Europe,,1997,4.35
+Europe,,1998,4.42
+Europe,,1999,4.51
+Europe,,2000,4.62
+Europe,,2001,4.64
+Europe,,2002,4.61
+Europe,,2003,4.59
+Europe,,2004,4.63
+Europe,,2005,4.68
+Europe,,2006,4.65
+Europe,,2007,4.62
+Europe,,2008,4.59
+Europe,,2009,4.53
+Europe,,2010,4.56
+Europe,,2011,4.5
+Europe,,2012,4.52
+Europe,,2013,4.52
+Europe,,2014,4.54
+Europe,,2015,4.6
+Europe,,2016,4.59
+Europe,,2017,4.59
+Europe & Central Asia,,1990,3.62
+Europe & Central Asia,,1991,3.75
+Europe & Central Asia,,1992,3.94
+Europe & Central Asia,,1993,4.1
+Europe & Central Asia,,1994,4.27
+Europe & Central Asia,,1995,4.32
+Europe & Central Asia,,1996,4.35
+Europe & Central Asia,,1997,4.34
+Europe & Central Asia,,1998,4.41
+Europe & Central Asia,,1999,4.49
+Europe & Central Asia,,2000,4.6
+Europe & Central Asia,,2001,4.62
+Europe & Central Asia,,2002,4.58
+Europe & Central Asia,,2003,4.56
+Europe & Central Asia,,2004,4.59
+Europe & Central Asia,,2005,4.63
+Europe & Central Asia,,2006,4.6
+Europe & Central Asia,,2007,4.56
+Europe & Central Asia,,2008,4.52
+Europe & Central Asia,,2009,4.45
+Europe & Central Asia,,2010,4.47
+Europe & Central Asia,,2011,4.4
+Europe & Central Asia,,2012,4.41
+Europe & Central Asia,,2013,4.4
+Europe & Central Asia,,2014,4.42
+Europe & Central Asia,,2015,4.47
+Europe & Central Asia,,2016,4.48
+Europe & Central Asia,,2017,4.49
+Fiji,FJI,1990,2
+Fiji,FJI,1991,1.99
+Fiji,FJI,1992,1.97
+Fiji,FJI,1993,1.94
+Fiji,FJI,1994,1.91
+Fiji,FJI,1995,1.89
+Fiji,FJI,1996,1.85
+Fiji,FJI,1997,1.82
+Fiji,FJI,1998,1.78
+Fiji,FJI,1999,1.78
+Fiji,FJI,2000,1.79
+Fiji,FJI,2001,1.81
+Fiji,FJI,2002,1.74
+Fiji,FJI,2003,1.78
+Fiji,FJI,2004,1.86
+Fiji,FJI,2005,2.01
+Fiji,FJI,2006,2.15
+Fiji,FJI,2007,2.2
+Fiji,FJI,2008,2.12
+Fiji,FJI,2009,2.06
+Fiji,FJI,2010,2.14
+Fiji,FJI,2011,2.27
+Fiji,FJI,2012,2.3
+Fiji,FJI,2013,2.35
+Fiji,FJI,2014,2.33
+Fiji,FJI,2015,2.33
+Fiji,FJI,2016,2.32
+Fiji,FJI,2017,2.27
+Finland,FIN,1990,4.08
+Finland,FIN,1991,4.11
+Finland,FIN,1992,3.96
+Finland,FIN,1993,3.88
+Finland,FIN,1994,3.89
+Finland,FIN,1995,3.88
+Finland,FIN,1996,3.99
+Finland,FIN,1997,3.8
+Finland,FIN,1998,3.75
+Finland,FIN,1999,3.71
+Finland,FIN,2000,3.45
+Finland,FIN,2001,3.51
+Finland,FIN,2002,3.39
+Finland,FIN,2003,3.44
+Finland,FIN,2004,3.22
+Finland,FIN,2005,3.19
+Finland,FIN,2006,3.42
+Finland,FIN,2007,3.38
+Finland,FIN,2008,3.29
+Finland,FIN,2009,3.19
+Finland,FIN,2010,3.24
+Finland,FIN,2011,3.25
+Finland,FIN,2012,3.09
+Finland,FIN,2013,3.2
+Finland,FIN,2014,3.32
+Finland,FIN,2015,3.36
+Finland,FIN,2016,3.37
+Finland,FIN,2017,3.38
+France,FRA,1990,2.95
+France,FRA,1991,3.05
+France,FRA,1992,3.14
+France,FRA,1993,3.16
+France,FRA,1994,3.22
+France,FRA,1995,3.22
+France,FRA,1996,3.17
+France,FRA,1997,3.12
+France,FRA,1998,3.08
+France,FRA,1999,3.05
+France,FRA,2000,3.07
+France,FRA,2001,3.1
+France,FRA,2002,3.12
+France,FRA,2003,3.18
+France,FRA,2004,3.17
+France,FRA,2005,3.31
+France,FRA,2006,3.25
+France,FRA,2007,3.29
+France,FRA,2008,3.21
+France,FRA,2009,3.22
+France,FRA,2010,3.25
+France,FRA,2011,3.34
+France,FRA,2012,3.4
+France,FRA,2013,3.47
+France,FRA,2014,3.48
+France,FRA,2015,3.61
+France,FRA,2016,3.6
+France,FRA,2017,3.57
+Gabon,GAB,1990,3.85
+Gabon,GAB,1991,3.87
+Gabon,GAB,1992,3.98
+Gabon,GAB,1993,3.99
+Gabon,GAB,1994,3.92
+Gabon,GAB,1995,3.98
+Gabon,GAB,1996,3.84
+Gabon,GAB,1997,3.79
+Gabon,GAB,1998,3.72
+Gabon,GAB,1999,3.61
+Gabon,GAB,2000,3.6
+Gabon,GAB,2001,3.57
+Gabon,GAB,2002,3.64
+Gabon,GAB,2003,3.62
+Gabon,GAB,2004,3.64
+Gabon,GAB,2005,3.76
+Gabon,GAB,2006,3.81
+Gabon,GAB,2007,4.07
+Gabon,GAB,2008,4.2
+Gabon,GAB,2009,4.41
+Gabon,GAB,2010,4.61
+Gabon,GAB,2011,4.67
+Gabon,GAB,2012,4.79
+Gabon,GAB,2013,4.92
+Gabon,GAB,2014,5
+Gabon,GAB,2015,5.08
+Gabon,GAB,2016,5.19
+Gabon,GAB,2017,5.28
+Gambia,GMB,1990,1.7
+Gambia,GMB,1991,1.7
+Gambia,GMB,1992,1.72
+Gambia,GMB,1993,1.73
+Gambia,GMB,1994,1.73
+Gambia,GMB,1995,1.74
+Gambia,GMB,1996,1.8
+Gambia,GMB,1997,1.83
+Gambia,GMB,1998,1.88
+Gambia,GMB,1999,1.92
+Gambia,GMB,2000,1.96
+Gambia,GMB,2001,2
+Gambia,GMB,2002,2.04
+Gambia,GMB,2003,2.07
+Gambia,GMB,2004,2.07
+Gambia,GMB,2005,2.1
+Gambia,GMB,2006,2.16
+Gambia,GMB,2007,2.23
+Gambia,GMB,2008,2.28
+Gambia,GMB,2009,2.35
+Gambia,GMB,2010,2.41
+Gambia,GMB,2011,2.43
+Gambia,GMB,2012,2.43
+Gambia,GMB,2013,2.42
+Gambia,GMB,2014,2.43
+Gambia,GMB,2015,2.44
+Gambia,GMB,2016,2.45
+Gambia,GMB,2017,2.46
+Georgia,GEO,1990,3.38
+Georgia,GEO,1991,3.49
+Georgia,GEO,1992,3.76
+Georgia,GEO,1993,4.09
+Georgia,GEO,1994,4.11
+Georgia,GEO,1995,4.75
+Georgia,GEO,1996,4.92
+Georgia,GEO,1997,5.19
+Georgia,GEO,1998,5.39
+Georgia,GEO,1999,5.27
+Georgia,GEO,2000,5.05
+Georgia,GEO,2001,4.96
+Georgia,GEO,2002,4.47
+Georgia,GEO,2003,4.2
+Georgia,GEO,2004,4.46
+Georgia,GEO,2005,4.82
+Georgia,GEO,2006,5.17
+Georgia,GEO,2007,5.35
+Georgia,GEO,2008,5.38
+Georgia,GEO,2009,5.19
+Georgia,GEO,2010,5.45
+Georgia,GEO,2011,5.63
+Georgia,GEO,2012,6.05
+Georgia,GEO,2013,5.84
+Georgia,GEO,2014,5.7
+Georgia,GEO,2015,5.77
+Georgia,GEO,2016,5.99
+Georgia,GEO,2017,6.11
+Germany,DEU,1990,2.8
+Germany,DEU,1991,2.9
+Germany,DEU,1992,2.98
+Germany,DEU,1993,3.01
+Germany,DEU,1994,3.12
+Germany,DEU,1995,3.11
+Germany,DEU,1996,3.14
+Germany,DEU,1997,3.22
+Germany,DEU,1998,3.28
+Germany,DEU,1999,3.29
+Germany,DEU,2000,3.38
+Germany,DEU,2001,3.37
+Germany,DEU,2002,3.34
+Germany,DEU,2003,3.36
+Germany,DEU,2004,3.35
+Germany,DEU,2005,3.31
+Germany,DEU,2006,3.36
+Germany,DEU,2007,3.39
+Germany,DEU,2008,3.4
+Germany,DEU,2009,3.42
+Germany,DEU,2010,3.45
+Germany,DEU,2011,3.35
+Germany,DEU,2012,3.32
+Germany,DEU,2013,3.23
+Germany,DEU,2014,3.27
+Germany,DEU,2015,3.23
+Germany,DEU,2016,3.21
+Germany,DEU,2017,3.23
+Ghana,GHA,1990,6.23
+Ghana,GHA,1991,6.2
+Ghana,GHA,1992,6.18
+Ghana,GHA,1993,6.2
+Ghana,GHA,1994,6.19
+Ghana,GHA,1995,6.13
+Ghana,GHA,1996,5.92
+Ghana,GHA,1997,5.83
+Ghana,GHA,1998,5.74
+Ghana,GHA,1999,5.68
+Ghana,GHA,2000,5.6
+Ghana,GHA,2001,5.91
+Ghana,GHA,2002,6.24
+Ghana,GHA,2003,6.6
+Ghana,GHA,2004,6.98
+Ghana,GHA,2005,7.11
+Ghana,GHA,2006,7.23
+Ghana,GHA,2007,7.18
+Ghana,GHA,2008,7.62
+Ghana,GHA,2009,8.01
+Ghana,GHA,2010,8.35
+Ghana,GHA,2011,8.68
+Ghana,GHA,2012,9.04
+Ghana,GHA,2013,9.37
+Ghana,GHA,2014,9.68
+Ghana,GHA,2015,9.95
+Ghana,GHA,2016,10.24
+Ghana,GHA,2017,10.52
+Greece,GRC,1990,3.43
+Greece,GRC,1991,3.65
+Greece,GRC,1992,3.73
+Greece,GRC,1993,3.84
+Greece,GRC,1994,4.16
+Greece,GRC,1995,4.53
+Greece,GRC,1996,4.59
+Greece,GRC,1997,4.64
+Greece,GRC,1998,4.3
+Greece,GRC,1999,4.21
+Greece,GRC,2000,4.32
+Greece,GRC,2001,4.47
+Greece,GRC,2002,4.09
+Greece,GRC,2003,4.12
+Greece,GRC,2004,4.11
+Greece,GRC,2005,4.15
+Greece,GRC,2006,4.33
+Greece,GRC,2007,4.45
+Greece,GRC,2008,4.54
+Greece,GRC,2009,4.77
+Greece,GRC,2010,4.65
+Greece,GRC,2011,4.65
+Greece,GRC,2012,4.67
+Greece,GRC,2013,4.57
+Greece,GRC,2014,4.69
+Greece,GRC,2015,4.76
+Greece,GRC,2016,4.54
+Greece,GRC,2017,4.5
+Greenland,GRL,1990,3.13
+Greenland,GRL,1991,3.01
+Greenland,GRL,1992,2.9
+Greenland,GRL,1993,2.78
+Greenland,GRL,1994,2.68
+Greenland,GRL,1995,2.59
+Greenland,GRL,1996,2.5
+Greenland,GRL,1997,2.43
+Greenland,GRL,1998,2.43
+Greenland,GRL,1999,2.4
+Greenland,GRL,2000,2.36
+Greenland,GRL,2001,2.33
+Greenland,GRL,2002,2.29
+Greenland,GRL,2003,2.29
+Greenland,GRL,2004,2.3
+Greenland,GRL,2005,2.34
+Greenland,GRL,2006,2.39
+Greenland,GRL,2007,2.44
+Greenland,GRL,2008,2.5
+Greenland,GRL,2009,2.56
+Greenland,GRL,2010,2.63
+Greenland,GRL,2011,2.74
+Greenland,GRL,2012,2.85
+Greenland,GRL,2013,2.96
+Greenland,GRL,2014,3.04
+Greenland,GRL,2015,2.79
+Greenland,GRL,2016,2.92
+Greenland,GRL,2017,2.98
+Grenada,GRD,1990,3.36
+Grenada,GRD,1991,3.36
+Grenada,GRD,1992,3.42
+Grenada,GRD,1993,3.45
+Grenada,GRD,1994,3.65
+Grenada,GRD,1995,3.82
+Grenada,GRD,1996,4.14
+Grenada,GRD,1997,4.33
+Grenada,GRD,1998,4.57
+Grenada,GRD,1999,4.86
+Grenada,GRD,2000,5.03
+Grenada,GRD,2001,5.21
+Grenada,GRD,2002,5.24
+Grenada,GRD,2003,5.41
+Grenada,GRD,2004,5.48
+Grenada,GRD,2005,5.45
+Grenada,GRD,2006,5.51
+Grenada,GRD,2007,5.46
+Grenada,GRD,2008,5.22
+Grenada,GRD,2009,5.19
+Grenada,GRD,2010,5.1
+Grenada,GRD,2011,5.06
+Grenada,GRD,2012,4.68
+Grenada,GRD,2013,4.57
+Grenada,GRD,2014,4.44
+Grenada,GRD,2015,4.33
+Grenada,GRD,2016,3.83
+Grenada,GRD,2017,4.11
+Guam,GUM,1990,3.64
+Guam,GUM,1991,3.6
+Guam,GUM,1992,3.58
+Guam,GUM,1993,3.58
+Guam,GUM,1994,3.55
+Guam,GUM,1995,3.73
+Guam,GUM,1996,3.87
+Guam,GUM,1997,3.88
+Guam,GUM,1998,4.05
+Guam,GUM,1999,4.31
+Guam,GUM,2000,4.46
+Guam,GUM,2001,4.55
+Guam,GUM,2002,4.66
+Guam,GUM,2003,4.73
+Guam,GUM,2004,4.79
+Guam,GUM,2005,4.95
+Guam,GUM,2006,5.09
+Guam,GUM,2007,5.27
+Guam,GUM,2008,5.24
+Guam,GUM,2009,5.22
+Guam,GUM,2010,5.17
+Guam,GUM,2011,5.2
+Guam,GUM,2012,5.04
+Guam,GUM,2013,5.02
+Guam,GUM,2014,5.02
+Guam,GUM,2015,4.82
+Guam,GUM,2016,4.81
+Guam,GUM,2017,4.75
+Guatemala,GTM,1990,7.02
+Guatemala,GTM,1991,6.66
+Guatemala,GTM,1992,6.63
+Guatemala,GTM,1993,6.87
+Guatemala,GTM,1994,6.99
+Guatemala,GTM,1995,7.69
+Guatemala,GTM,1996,7.25
+Guatemala,GTM,1997,6.89
+Guatemala,GTM,1998,6.79
+Guatemala,GTM,1999,6.34
+Guatemala,GTM,2000,5.8
+Guatemala,GTM,2001,6.11
+Guatemala,GTM,2002,5.59
+Guatemala,GTM,2003,5.54
+Guatemala,GTM,2004,5.15
+Guatemala,GTM,2005,5.11
+Guatemala,GTM,2006,5.17
+Guatemala,GTM,2007,4.84
+Guatemala,GTM,2008,4.8
+Guatemala,GTM,2009,4.42
+Guatemala,GTM,2010,4.19
+Guatemala,GTM,2011,3.98
+Guatemala,GTM,2012,3.95
+Guatemala,GTM,2013,4.16
+Guatemala,GTM,2014,3.91
+Guatemala,GTM,2015,3.95
+Guatemala,GTM,2016,4.36
+Guatemala,GTM,2017,4.52
+Guinea,GIN,1990,1.67
+Guinea,GIN,1991,1.68
+Guinea,GIN,1992,1.71
+Guinea,GIN,1993,1.73
+Guinea,GIN,1994,1.76
+Guinea,GIN,1995,1.79
+Guinea,GIN,1996,1.83
+Guinea,GIN,1997,1.87
+Guinea,GIN,1998,1.91
+Guinea,GIN,1999,1.96
+Guinea,GIN,2000,1.98
+Guinea,GIN,2001,2.02
+Guinea,GIN,2002,2.06
+Guinea,GIN,2003,2.1
+Guinea,GIN,2004,2.13
+Guinea,GIN,2005,2.14
+Guinea,GIN,2006,2.21
+Guinea,GIN,2007,2.26
+Guinea,GIN,2008,2.29
+Guinea,GIN,2009,2.33
+Guinea,GIN,2010,2.37
+Guinea,GIN,2011,2.38
+Guinea,GIN,2012,2.39
+Guinea,GIN,2013,2.39
+Guinea,GIN,2014,2.4
+Guinea,GIN,2015,2.4
+Guinea,GIN,2016,2.41
+Guinea,GIN,2017,2.4
+Guinea-Bissau,GNB,1990,2.53
+Guinea-Bissau,GNB,1991,2.54
+Guinea-Bissau,GNB,1992,2.55
+Guinea-Bissau,GNB,1993,2.56
+Guinea-Bissau,GNB,1994,2.58
+Guinea-Bissau,GNB,1995,2.59
+Guinea-Bissau,GNB,1996,2.61
+Guinea-Bissau,GNB,1997,2.63
+Guinea-Bissau,GNB,1998,2.66
+Guinea-Bissau,GNB,1999,2.69
+Guinea-Bissau,GNB,2000,2.71
+Guinea-Bissau,GNB,2001,2.77
+Guinea-Bissau,GNB,2002,2.79
+Guinea-Bissau,GNB,2003,2.82
+Guinea-Bissau,GNB,2004,2.86
+Guinea-Bissau,GNB,2005,2.9
+Guinea-Bissau,GNB,2006,2.9
+Guinea-Bissau,GNB,2007,2.91
+Guinea-Bissau,GNB,2008,2.92
+Guinea-Bissau,GNB,2009,2.93
+Guinea-Bissau,GNB,2010,2.97
+Guinea-Bissau,GNB,2011,3.01
+Guinea-Bissau,GNB,2012,3.01
+Guinea-Bissau,GNB,2013,3.02
+Guinea-Bissau,GNB,2014,3.02
+Guinea-Bissau,GNB,2015,3.04
+Guinea-Bissau,GNB,2016,3.04
+Guinea-Bissau,GNB,2017,3.04
+Guyana,GUY,1990,2.82
+Guyana,GUY,1991,2.86
+Guyana,GUY,1992,2.88
+Guyana,GUY,1993,2.69
+Guyana,GUY,1994,2.75
+Guyana,GUY,1995,3.02
+Guyana,GUY,1996,3.08
+Guyana,GUY,1997,3.21
+Guyana,GUY,1998,3.23
+Guyana,GUY,1999,3.03
+Guyana,GUY,2000,2.55
+Guyana,GUY,2001,3.22
+Guyana,GUY,2002,3.78
+Guyana,GUY,2003,4.16
+Guyana,GUY,2004,4.18
+Guyana,GUY,2005,4.05
+Guyana,GUY,2006,4.12
+Guyana,GUY,2007,4.02
+Guyana,GUY,2008,4.06
+Guyana,GUY,2009,4.1
+Guyana,GUY,2010,4.25
+Guyana,GUY,2011,4.34
+Guyana,GUY,2012,4.43
+Guyana,GUY,2013,4.37
+Guyana,GUY,2014,4.33
+Guyana,GUY,2015,4.31
+Guyana,GUY,2016,4.29
+Guyana,GUY,2017,4.28
+Haiti,HTI,1990,2.32
+Haiti,HTI,1991,2.32
+Haiti,HTI,1992,2.33
+Haiti,HTI,1993,2.33
+Haiti,HTI,1994,2.3
+Haiti,HTI,1995,2.34
+Haiti,HTI,1996,2.36
+Haiti,HTI,1997,2.41
+Haiti,HTI,1998,2.47
+Haiti,HTI,1999,2.5
+Haiti,HTI,2000,2.56
+Haiti,HTI,2001,2.59
+Haiti,HTI,2002,2.63
+Haiti,HTI,2003,2.66
+Haiti,HTI,2004,2.7
+Haiti,HTI,2005,2.75
+Haiti,HTI,2006,2.77
+Haiti,HTI,2007,2.81
+Haiti,HTI,2008,2.83
+Haiti,HTI,2009,2.86
+Haiti,HTI,2010,2.89
+Haiti,HTI,2011,2.93
+Haiti,HTI,2012,2.97
+Haiti,HTI,2013,3.01
+Haiti,HTI,2014,3.05
+Haiti,HTI,2015,3.08
+Haiti,HTI,2016,3.13
+Haiti,HTI,2017,3.16
+High SDI,,1990,2.93
+High SDI,,1991,2.99
+High SDI,,1992,3.05
+High SDI,,1993,3.1
+High SDI,,1994,3.16
+High SDI,,1995,3.17
+High SDI,,1996,3.18
+High SDI,,1997,3.2
+High SDI,,1998,3.23
+High SDI,,1999,3.25
+High SDI,,2000,3.25
+High SDI,,2001,3.27
+High SDI,,2002,3.26
+High SDI,,2003,3.24
+High SDI,,2004,3.19
+High SDI,,2005,3.18
+High SDI,,2006,3.16
+High SDI,,2007,3.15
+High SDI,,2008,3.12
+High SDI,,2009,3.1
+High SDI,,2010,3.11
+High SDI,,2011,3.09
+High SDI,,2012,3.12
+High SDI,,2013,3.13
+High SDI,,2014,3.12
+High SDI,,2015,3.16
+High SDI,,2016,3.19
+High SDI,,2017,3.2
+High income,,1990,3.02
+High income,,1991,3.08
+High income,,1992,3.14
+High income,,1993,3.19
+High income,,1994,3.25
+High income,,1995,3.26
+High income,,1996,3.28
+High income,,1997,3.29
+High income,,1998,3.32
+High income,,1999,3.33
+High income,,2000,3.33
+High income,,2001,3.33
+High income,,2002,3.31
+High income,,2003,3.29
+High income,,2004,3.24
+High income,,2005,3.23
+High income,,2006,3.21
+High income,,2007,3.18
+High income,,2008,3.15
+High income,,2009,3.12
+High income,,2010,3.13
+High income,,2011,3.1
+High income,,2012,3.13
+High income,,2013,3.14
+High income,,2014,3.13
+High income,,2015,3.16
+High income,,2016,3.18
+High income,,2017,3.2
+High-middle SDI,,1990,1.9
+High-middle SDI,,1991,1.92
+High-middle SDI,,1992,1.99
+High-middle SDI,,1993,2.13
+High-middle SDI,,1994,2.22
+High-middle SDI,,1995,2.27
+High-middle SDI,,1996,2.3
+High-middle SDI,,1997,2.32
+High-middle SDI,,1998,2.42
+High-middle SDI,,1999,2.57
+High-middle SDI,,2000,2.75
+High-middle SDI,,2001,2.88
+High-middle SDI,,2002,2.96
+High-middle SDI,,2003,2.94
+High-middle SDI,,2004,2.91
+High-middle SDI,,2005,2.97
+High-middle SDI,,2006,2.95
+High-middle SDI,,2007,2.95
+High-middle SDI,,2008,2.97
+High-middle SDI,,2009,2.92
+High-middle SDI,,2010,2.94
+High-middle SDI,,2011,2.95
+High-middle SDI,,2012,2.99
+High-middle SDI,,2013,3.03
+High-middle SDI,,2014,3.05
+High-middle SDI,,2015,3.12
+High-middle SDI,,2016,3.15
+High-middle SDI,,2017,3.18
+Honduras,HND,1990,5.53
+Honduras,HND,1991,5.55
+Honduras,HND,1992,4.95
+Honduras,HND,1993,5.09
+Honduras,HND,1994,5.18
+Honduras,HND,1995,4.47
+Honduras,HND,1996,4.45
+Honduras,HND,1997,4.38
+Honduras,HND,1998,4.33
+Honduras,HND,1999,4.3
+Honduras,HND,2000,4.29
+Honduras,HND,2001,4.28
+Honduras,HND,2002,4.28
+Honduras,HND,2003,4.29
+Honduras,HND,2004,4.28
+Honduras,HND,2005,4.27
+Honduras,HND,2006,4.24
+Honduras,HND,2007,4.21
+Honduras,HND,2008,4.2
+Honduras,HND,2009,4.16
+Honduras,HND,2010,4.11
+Honduras,HND,2011,4.09
+Honduras,HND,2012,4.1
+Honduras,HND,2013,4.12
+Honduras,HND,2014,4.13
+Honduras,HND,2015,4.13
+Honduras,HND,2016,4.14
+Honduras,HND,2017,4.14
+Hungary,HUN,1990,3.22
+Hungary,HUN,1991,3.29
+Hungary,HUN,1992,3.43
+Hungary,HUN,1993,3.47
+Hungary,HUN,1994,3.65
+Hungary,HUN,1995,3.6
+Hungary,HUN,1996,3.73
+Hungary,HUN,1997,3.82
+Hungary,HUN,1998,4.04
+Hungary,HUN,1999,4.15
+Hungary,HUN,2000,4.18
+Hungary,HUN,2001,4.19
+Hungary,HUN,2002,4.24
+Hungary,HUN,2003,4.21
+Hungary,HUN,2004,4.23
+Hungary,HUN,2005,4.28
+Hungary,HUN,2006,4.29
+Hungary,HUN,2007,4.2
+Hungary,HUN,2008,4.24
+Hungary,HUN,2009,4.28
+Hungary,HUN,2010,4.34
+Hungary,HUN,2011,4.17
+Hungary,HUN,2012,4.14
+Hungary,HUN,2013,4
+Hungary,HUN,2014,4.03
+Hungary,HUN,2015,3.9
+Hungary,HUN,2016,3.93
+Hungary,HUN,2017,3.99
+Iceland,ISL,1990,2.76
+Iceland,ISL,1991,2.86
+Iceland,ISL,1992,2.83
+Iceland,ISL,1993,2.85
+Iceland,ISL,1994,2.99
+Iceland,ISL,1995,3.01
+Iceland,ISL,1996,3.07
+Iceland,ISL,1997,3.05
+Iceland,ISL,1998,3.18
+Iceland,ISL,1999,3.24
+Iceland,ISL,2000,3.28
+Iceland,ISL,2001,3.29
+Iceland,ISL,2002,3.29
+Iceland,ISL,2003,3.33
+Iceland,ISL,2004,3.35
+Iceland,ISL,2005,3.44
+Iceland,ISL,2006,3.6
+Iceland,ISL,2007,3.79
+Iceland,ISL,2008,3.95
+Iceland,ISL,2009,4.18
+Iceland,ISL,2010,4.34
+Iceland,ISL,2011,4.43
+Iceland,ISL,2012,4.62
+Iceland,ISL,2013,4.77
+Iceland,ISL,2014,4.96
+Iceland,ISL,2015,5.09
+Iceland,ISL,2016,5.44
+Iceland,ISL,2017,6.32
+India,IND,1990,1.04
+India,IND,1991,1.03
+India,IND,1992,0.99
+India,IND,1993,1.02
+India,IND,1994,1.04
+India,IND,1995,1.05
+India,IND,1996,1.06
+India,IND,1997,1.08
+India,IND,1998,1.09
+India,IND,1999,1.07
+India,IND,2000,1.07
+India,IND,2001,1.07
+India,IND,2002,1.11
+India,IND,2003,1.15
+India,IND,2004,1.15
+India,IND,2005,1.16
+India,IND,2006,1.23
+India,IND,2007,1.31
+India,IND,2008,1.37
+India,IND,2009,1.41
+India,IND,2010,1.4
+India,IND,2011,1.38
+India,IND,2012,1.42
+India,IND,2013,1.41
+India,IND,2014,1.36
+India,IND,2015,1.35
+India,IND,2016,1.35
+India,IND,2017,1.35
+Indonesia,IDN,1990,2.26
+Indonesia,IDN,1991,2.29
+Indonesia,IDN,1992,2.33
+Indonesia,IDN,1993,2.35
+Indonesia,IDN,1994,2.38
+Indonesia,IDN,1995,2.4
+Indonesia,IDN,1996,2.39
+Indonesia,IDN,1997,2.4
+Indonesia,IDN,1998,2.41
+Indonesia,IDN,1999,2.47
+Indonesia,IDN,2000,2.57
+Indonesia,IDN,2001,2.63
+Indonesia,IDN,2002,2.69
+Indonesia,IDN,2003,2.76
+Indonesia,IDN,2004,2.83
+Indonesia,IDN,2005,2.89
+Indonesia,IDN,2006,2.94
+Indonesia,IDN,2007,2.99
+Indonesia,IDN,2008,3
+Indonesia,IDN,2009,3.02
+Indonesia,IDN,2010,3.02
+Indonesia,IDN,2011,2.98
+Indonesia,IDN,2012,3.03
+Indonesia,IDN,2013,3.05
+Indonesia,IDN,2014,3.05
+Indonesia,IDN,2015,3.05
+Indonesia,IDN,2016,3.05
+Indonesia,IDN,2017,3.05
+Iran,IRN,1990,1.41
+Iran,IRN,1991,1.4
+Iran,IRN,1992,1.41
+Iran,IRN,1993,1.4
+Iran,IRN,1994,1.4
+Iran,IRN,1995,1.41
+Iran,IRN,1996,1.44
+Iran,IRN,1997,1.45
+Iran,IRN,1998,1.48
+Iran,IRN,1999,1.53
+Iran,IRN,2000,1.58
+Iran,IRN,2001,1.6
+Iran,IRN,2002,1.65
+Iran,IRN,2003,1.71
+Iran,IRN,2004,1.76
+Iran,IRN,2005,1.82
+Iran,IRN,2006,1.88
+Iran,IRN,2007,1.93
+Iran,IRN,2008,2
+Iran,IRN,2009,2.07
+Iran,IRN,2010,2.11
+Iran,IRN,2011,2.12
+Iran,IRN,2012,2.16
+Iran,IRN,2013,2.21
+Iran,IRN,2014,2.3
+Iran,IRN,2015,2.48
+Iran,IRN,2016,2.42
+Iran,IRN,2017,2.45
+Iraq,IRQ,1990,1.36
+Iraq,IRQ,1991,1.35
+Iraq,IRQ,1992,1.35
+Iraq,IRQ,1993,1.35
+Iraq,IRQ,1994,1.37
+Iraq,IRQ,1995,1.37
+Iraq,IRQ,1996,1.37
+Iraq,IRQ,1997,1.44
+Iraq,IRQ,1998,1.45
+Iraq,IRQ,1999,1.53
+Iraq,IRQ,2000,1.61
+Iraq,IRQ,2001,1.61
+Iraq,IRQ,2002,1.67
+Iraq,IRQ,2003,1.67
+Iraq,IRQ,2004,1.69
+Iraq,IRQ,2005,1.73
+Iraq,IRQ,2006,1.76
+Iraq,IRQ,2007,1.82
+Iraq,IRQ,2008,1.89
+Iraq,IRQ,2009,1.95
+Iraq,IRQ,2010,2.04
+Iraq,IRQ,2011,2.09
+Iraq,IRQ,2012,2.17
+Iraq,IRQ,2013,2.25
+Iraq,IRQ,2014,2.33
+Iraq,IRQ,2015,2.28
+Iraq,IRQ,2016,2.22
+Iraq,IRQ,2017,2.24
+Ireland,IRL,1990,3.2
+Ireland,IRL,1991,3.72
+Ireland,IRL,1992,3.94
+Ireland,IRL,1993,3.98
+Ireland,IRL,1994,3.85
+Ireland,IRL,1995,3.96
+Ireland,IRL,1996,4.44
+Ireland,IRL,1997,4.34
+Ireland,IRL,1998,4.59
+Ireland,IRL,1999,4.28
+Ireland,IRL,2000,4.13
+Ireland,IRL,2001,4.19
+Ireland,IRL,2002,4.36
+Ireland,IRL,2003,3.93
+Ireland,IRL,2004,3.95
+Ireland,IRL,2005,3.96
+Ireland,IRL,2006,3.84
+Ireland,IRL,2007,3.94
+Ireland,IRL,2008,3.69
+Ireland,IRL,2009,3.87
+Ireland,IRL,2010,3.9
+Ireland,IRL,2011,4.05
+Ireland,IRL,2012,4.14
+Ireland,IRL,2013,4.39
+Ireland,IRL,2014,4.57
+Ireland,IRL,2015,4.31
+Ireland,IRL,2016,4.38
+Ireland,IRL,2017,4.54
+Israel,ISR,1990,2.67
+Israel,ISR,1991,2.84
+Israel,ISR,1992,2.94
+Israel,ISR,1993,3.1
+Israel,ISR,1994,3.25
+Israel,ISR,1995,3.44
+Israel,ISR,1996,3.63
+Israel,ISR,1997,3.98
+Israel,ISR,1998,4.03
+Israel,ISR,1999,3.98
+Israel,ISR,2000,4.16
+Israel,ISR,2001,4.25
+Israel,ISR,2002,4
+Israel,ISR,2003,4.06
+Israel,ISR,2004,4.05
+Israel,ISR,2005,3.87
+Israel,ISR,2006,3.89
+Israel,ISR,2007,4.08
+Israel,ISR,2008,4.38
+Israel,ISR,2009,4.14
+Israel,ISR,2010,4.24
+Israel,ISR,2011,4.03
+Israel,ISR,2012,4.23
+Israel,ISR,2013,4.18
+Israel,ISR,2014,4.14
+Israel,ISR,2015,4.5
+Israel,ISR,2016,4.52
+Israel,ISR,2017,4.47
+Italy,ITA,1990,2.88
+Italy,ITA,1991,2.99
+Italy,ITA,1992,3.1
+Italy,ITA,1993,3.11
+Italy,ITA,1994,3.29
+Italy,ITA,1995,3.38
+Italy,ITA,1996,3.38
+Italy,ITA,1997,3.52
+Italy,ITA,1998,3.49
+Italy,ITA,1999,3.59
+Italy,ITA,2000,3.49
+Italy,ITA,2001,3.6
+Italy,ITA,2002,3.6
+Italy,ITA,2003,3.58
+Italy,ITA,2004,3.67
+Italy,ITA,2005,3.66
+Italy,ITA,2006,3.76
+Italy,ITA,2007,3.79
+Italy,ITA,2008,3.82
+Italy,ITA,2009,3.77
+Italy,ITA,2010,3.89
+Italy,ITA,2011,3.9
+Italy,ITA,2012,3.91
+Italy,ITA,2013,3.88
+Italy,ITA,2014,3.92
+Italy,ITA,2015,3.85
+Italy,ITA,2016,3.79
+Italy,ITA,2017,3.8
+Jamaica,JAM,1990,4.06
+Jamaica,JAM,1991,4.14
+Jamaica,JAM,1992,4.4
+Jamaica,JAM,1993,4.82
+Jamaica,JAM,1994,5.12
+Jamaica,JAM,1995,5.29
+Jamaica,JAM,1996,5.43
+Jamaica,JAM,1997,5.48
+Jamaica,JAM,1998,5.36
+Jamaica,JAM,1999,5.37
+Jamaica,JAM,2000,5.2
+Jamaica,JAM,2001,5.05
+Jamaica,JAM,2002,5.12
+Jamaica,JAM,2003,4.64
+Jamaica,JAM,2004,4.61
+Jamaica,JAM,2005,5.05
+Jamaica,JAM,2006,4.96
+Jamaica,JAM,2007,5.38
+Jamaica,JAM,2008,5.57
+Jamaica,JAM,2009,5.16
+Jamaica,JAM,2010,4.37
+Jamaica,JAM,2011,4.73
+Jamaica,JAM,2012,5.3
+Jamaica,JAM,2013,5.36
+Jamaica,JAM,2014,5.54
+Jamaica,JAM,2015,5.74
+Jamaica,JAM,2016,5.64
+Jamaica,JAM,2017,5.68
+Japan,JPN,1990,1.98
+Japan,JPN,1991,2.02
+Japan,JPN,1992,2.09
+Japan,JPN,1993,2.17
+Japan,JPN,1994,2.24
+Japan,JPN,1995,2.28
+Japan,JPN,1996,2.36
+Japan,JPN,1997,2.43
+Japan,JPN,1998,2.58
+Japan,JPN,1999,2.7
+Japan,JPN,2000,2.75
+Japan,JPN,2001,2.81
+Japan,JPN,2002,2.85
+Japan,JPN,2003,2.91
+Japan,JPN,2004,2.8
+Japan,JPN,2005,2.79
+Japan,JPN,2006,2.73
+Japan,JPN,2007,2.72
+Japan,JPN,2008,2.68
+Japan,JPN,2009,2.73
+Japan,JPN,2010,2.68
+Japan,JPN,2011,2.55
+Japan,JPN,2012,2.59
+Japan,JPN,2013,2.58
+Japan,JPN,2014,2.53
+Japan,JPN,2015,2.56
+Japan,JPN,2016,2.57
+Japan,JPN,2017,2.59
+Jordan,JOR,1990,1.97
+Jordan,JOR,1991,1.86
+Jordan,JOR,1992,1.93
+Jordan,JOR,1993,1.84
+Jordan,JOR,1994,1.85
+Jordan,JOR,1995,1.79
+Jordan,JOR,1996,1.68
+Jordan,JOR,1997,1.67
+Jordan,JOR,1998,1.64
+Jordan,JOR,1999,1.61
+Jordan,JOR,2000,1.59
+Jordan,JOR,2001,1.59
+Jordan,JOR,2002,1.6
+Jordan,JOR,2003,1.64
+Jordan,JOR,2004,1.65
+Jordan,JOR,2005,1.78
+Jordan,JOR,2006,1.93
+Jordan,JOR,2007,2.21
+Jordan,JOR,2008,2.55
+Jordan,JOR,2009,2.94
+Jordan,JOR,2010,3.22
+Jordan,JOR,2011,3.33
+Jordan,JOR,2012,3.39
+Jordan,JOR,2013,3.49
+Jordan,JOR,2014,3.56
+Jordan,JOR,2015,3.7
+Jordan,JOR,2016,3.75
+Jordan,JOR,2017,3.78
+Kazakhstan,KAZ,1990,3.99
+Kazakhstan,KAZ,1991,4.17
+Kazakhstan,KAZ,1992,4.32
+Kazakhstan,KAZ,1993,4.43
+Kazakhstan,KAZ,1994,4.57
+Kazakhstan,KAZ,1995,4.97
+Kazakhstan,KAZ,1996,5.27
+Kazakhstan,KAZ,1997,5.34
+Kazakhstan,KAZ,1998,5.37
+Kazakhstan,KAZ,1999,5.38
+Kazakhstan,KAZ,2000,5.61
+Kazakhstan,KAZ,2001,5.71
+Kazakhstan,KAZ,2002,5.56
+Kazakhstan,KAZ,2003,5.52
+Kazakhstan,KAZ,2004,5.53
+Kazakhstan,KAZ,2005,5.44
+Kazakhstan,KAZ,2006,5.41
+Kazakhstan,KAZ,2007,5.42
+Kazakhstan,KAZ,2008,5.04
+Kazakhstan,KAZ,2009,4.83
+Kazakhstan,KAZ,2010,4.87
+Kazakhstan,KAZ,2011,4.86
+Kazakhstan,KAZ,2012,4.87
+Kazakhstan,KAZ,2013,4.87
+Kazakhstan,KAZ,2014,4.83
+Kazakhstan,KAZ,2015,4.88
+Kazakhstan,KAZ,2016,5
+Kazakhstan,KAZ,2017,5.17
+Kenya,KEN,1990,2.86
+Kenya,KEN,1991,2.88
+Kenya,KEN,1992,2.88
+Kenya,KEN,1993,2.89
+Kenya,KEN,1994,2.88
+Kenya,KEN,1995,2.9
+Kenya,KEN,1996,2.89
+Kenya,KEN,1997,2.87
+Kenya,KEN,1998,2.89
+Kenya,KEN,1999,2.9
+Kenya,KEN,2000,2.91
+Kenya,KEN,2001,3.01
+Kenya,KEN,2002,3.12
+Kenya,KEN,2003,3.15
+Kenya,KEN,2004,3.55
+Kenya,KEN,2005,3.8
+Kenya,KEN,2006,3.98
+Kenya,KEN,2007,4.1
+Kenya,KEN,2008,4.16
+Kenya,KEN,2009,4.23
+Kenya,KEN,2010,4.21
+Kenya,KEN,2011,4.37
+Kenya,KEN,2012,4.46
+Kenya,KEN,2013,4.54
+Kenya,KEN,2014,4.62
+Kenya,KEN,2015,4.71
+Kenya,KEN,2016,4.77
+Kenya,KEN,2017,4.78
+Kiribati,KIR,1990,5.2
+Kiribati,KIR,1991,5.24
+Kiribati,KIR,1992,5.32
+Kiribati,KIR,1993,5.81
+Kiribati,KIR,1994,5.72
+Kiribati,KIR,1995,5.65
+Kiribati,KIR,1996,5.85
+Kiribati,KIR,1997,6.02
+Kiribati,KIR,1998,6.22
+Kiribati,KIR,1999,6.34
+Kiribati,KIR,2000,6.49
+Kiribati,KIR,2001,6.54
+Kiribati,KIR,2002,6.65
+Kiribati,KIR,2003,6.76
+Kiribati,KIR,2004,6.82
+Kiribati,KIR,2005,6.9
+Kiribati,KIR,2006,6.95
+Kiribati,KIR,2007,6.97
+Kiribati,KIR,2008,6.99
+Kiribati,KIR,2009,6.98
+Kiribati,KIR,2010,6.97
+Kiribati,KIR,2011,6.96
+Kiribati,KIR,2012,6.96
+Kiribati,KIR,2013,6.95
+Kiribati,KIR,2014,6.94
+Kiribati,KIR,2015,6.91
+Kiribati,KIR,2016,6.89
+Kiribati,KIR,2017,6.86
+Kuwait,KWT,1990,2.43
+Kuwait,KWT,1991,2.37
+Kuwait,KWT,1992,2.19
+Kuwait,KWT,1993,2.16
+Kuwait,KWT,1994,1.87
+Kuwait,KWT,1995,1.92
+Kuwait,KWT,1996,1.74
+Kuwait,KWT,1997,1.65
+Kuwait,KWT,1998,1.78
+Kuwait,KWT,1999,1.97
+Kuwait,KWT,2000,1.94
+Kuwait,KWT,2001,1.98
+Kuwait,KWT,2002,1.81
+Kuwait,KWT,2003,1.79
+Kuwait,KWT,2004,1.92
+Kuwait,KWT,2005,2.16
+Kuwait,KWT,2006,2.32
+Kuwait,KWT,2007,2.3
+Kuwait,KWT,2008,2.43
+Kuwait,KWT,2009,2.51
+Kuwait,KWT,2010,2.6
+Kuwait,KWT,2011,2.75
+Kuwait,KWT,2012,3.03
+Kuwait,KWT,2013,3.36
+Kuwait,KWT,2014,3.41
+Kuwait,KWT,2015,3.7
+Kuwait,KWT,2016,3.9
+Kuwait,KWT,2017,4.07
+Kyrgyzstan,KGZ,1990,3.61
+Kyrgyzstan,KGZ,1991,3.75
+Kyrgyzstan,KGZ,1992,3.96
+Kyrgyzstan,KGZ,1993,4.16
+Kyrgyzstan,KGZ,1994,4.49
+Kyrgyzstan,KGZ,1995,4.45
+Kyrgyzstan,KGZ,1996,4.73
+Kyrgyzstan,KGZ,1997,4.87
+Kyrgyzstan,KGZ,1998,4.97
+Kyrgyzstan,KGZ,1999,5.11
+Kyrgyzstan,KGZ,2000,5.05
+Kyrgyzstan,KGZ,2001,5.19
+Kyrgyzstan,KGZ,2002,5.07
+Kyrgyzstan,KGZ,2003,4.97
+Kyrgyzstan,KGZ,2004,4.98
+Kyrgyzstan,KGZ,2005,4.88
+Kyrgyzstan,KGZ,2006,4.76
+Kyrgyzstan,KGZ,2007,4.53
+Kyrgyzstan,KGZ,2008,4.33
+Kyrgyzstan,KGZ,2009,4.21
+Kyrgyzstan,KGZ,2010,4.23
+Kyrgyzstan,KGZ,2011,4.23
+Kyrgyzstan,KGZ,2012,4.26
+Kyrgyzstan,KGZ,2013,4.31
+Kyrgyzstan,KGZ,2014,4.33
+Kyrgyzstan,KGZ,2015,4.27
+Kyrgyzstan,KGZ,2016,4.19
+Kyrgyzstan,KGZ,2017,4.18
+Laos,LAO,1990,2.71
+Laos,LAO,1991,2.68
+Laos,LAO,1992,2.64
+Laos,LAO,1993,2.6
+Laos,LAO,1994,2.56
+Laos,LAO,1995,2.52
+Laos,LAO,1996,2.53
+Laos,LAO,1997,2.56
+Laos,LAO,1998,2.59
+Laos,LAO,1999,2.62
+Laos,LAO,2000,2.68
+Laos,LAO,2001,2.7
+Laos,LAO,2002,2.72
+Laos,LAO,2003,2.76
+Laos,LAO,2004,2.8
+Laos,LAO,2005,2.83
+Laos,LAO,2006,2.89
+Laos,LAO,2007,2.94
+Laos,LAO,2008,2.98
+Laos,LAO,2009,3.02
+Laos,LAO,2010,3.06
+Laos,LAO,2011,3.06
+Laos,LAO,2012,3.06
+Laos,LAO,2013,3.06
+Laos,LAO,2014,3.07
+Laos,LAO,2015,3.08
+Laos,LAO,2016,3.1
+Laos,LAO,2017,3.13
+Latin America & Caribbean,,1990,3.81
+Latin America & Caribbean,,1991,3.83
+Latin America & Caribbean,,1992,3.86
+Latin America & Caribbean,,1993,3.9
+Latin America & Caribbean,,1994,3.97
+Latin America & Caribbean,,1995,4.02
+Latin America & Caribbean,,1996,4.05
+Latin America & Caribbean,,1997,4.07
+Latin America & Caribbean,,1998,4.09
+Latin America & Caribbean,,1999,4.12
+Latin America & Caribbean,,2000,4.09
+Latin America & Caribbean,,2001,4.1
+Latin America & Caribbean,,2002,4.09
+Latin America & Caribbean,,2003,4.05
+Latin America & Caribbean,,2004,4
+Latin America & Caribbean,,2005,3.95
+Latin America & Caribbean,,2006,4.03
+Latin America & Caribbean,,2007,4.11
+Latin America & Caribbean,,2008,4.19
+Latin America & Caribbean,,2009,4.21
+Latin America & Caribbean,,2010,4.26
+Latin America & Caribbean,,2011,4.26
+Latin America & Caribbean,,2012,4.27
+Latin America & Caribbean,,2013,4.26
+Latin America & Caribbean,,2014,4.29
+Latin America & Caribbean,,2015,4.32
+Latin America & Caribbean,,2016,4.4
+Latin America & Caribbean,,2017,4.49
+Latvia,LVA,1990,4.03
+Latvia,LVA,1991,4.36
+Latvia,LVA,1992,4.64
+Latvia,LVA,1993,4.89
+Latvia,LVA,1994,5.17
+Latvia,LVA,1995,5.18
+Latvia,LVA,1996,5.23
+Latvia,LVA,1997,5.18
+Latvia,LVA,1998,5.23
+Latvia,LVA,1999,5.11
+Latvia,LVA,2000,5.43
+Latvia,LVA,2001,5.61
+Latvia,LVA,2002,5.69
+Latvia,LVA,2003,5.44
+Latvia,LVA,2004,5.66
+Latvia,LVA,2005,6.1
+Latvia,LVA,2006,6.04
+Latvia,LVA,2007,6.25
+Latvia,LVA,2008,6.45
+Latvia,LVA,2009,6.4
+Latvia,LVA,2010,6.79
+Latvia,LVA,2011,6.64
+Latvia,LVA,2012,6.94
+Latvia,LVA,2013,6.61
+Latvia,LVA,2014,6.84
+Latvia,LVA,2015,6.93
+Latvia,LVA,2016,6.96
+Latvia,LVA,2017,7.09
+Lebanon,LBN,1990,2.67
+Lebanon,LBN,1991,2.58
+Lebanon,LBN,1992,2.51
+Lebanon,LBN,1993,2.44
+Lebanon,LBN,1994,2.4
+Lebanon,LBN,1995,2.32
+Lebanon,LBN,1996,2.3
+Lebanon,LBN,1997,2.27
+Lebanon,LBN,1998,2.22
+Lebanon,LBN,1999,2.24
+Lebanon,LBN,2000,2.22
+Lebanon,LBN,2001,2.24
+Lebanon,LBN,2002,2.26
+Lebanon,LBN,2003,2.28
+Lebanon,LBN,2004,2.34
+Lebanon,LBN,2005,2.38
+Lebanon,LBN,2006,2.49
+Lebanon,LBN,2007,2.6
+Lebanon,LBN,2008,2.72
+Lebanon,LBN,2009,2.84
+Lebanon,LBN,2010,2.94
+Lebanon,LBN,2011,3.07
+Lebanon,LBN,2012,3.17
+Lebanon,LBN,2013,3.26
+Lebanon,LBN,2014,3.34
+Lebanon,LBN,2015,3.41
+Lebanon,LBN,2016,3.48
+Lebanon,LBN,2017,3.48
+Lesotho,LSO,1990,1.79
+Lesotho,LSO,1991,1.85
+Lesotho,LSO,1992,1.92
+Lesotho,LSO,1993,2
+Lesotho,LSO,1994,2.12
+Lesotho,LSO,1995,2.28
+Lesotho,LSO,1996,2.41
+Lesotho,LSO,1997,2.57
+Lesotho,LSO,1998,2.49
+Lesotho,LSO,1999,2.45
+Lesotho,LSO,2000,2.23
+Lesotho,LSO,2001,2.29
+Lesotho,LSO,2002,2.27
+Lesotho,LSO,2003,2.13
+Lesotho,LSO,2004,2.16
+Lesotho,LSO,2005,2.14
+Lesotho,LSO,2006,2.22
+Lesotho,LSO,2007,2.18
+Lesotho,LSO,2008,2.07
+Lesotho,LSO,2009,2.05
+Lesotho,LSO,2010,2
+Lesotho,LSO,2011,2.01
+Lesotho,LSO,2012,1.96
+Lesotho,LSO,2013,1.91
+Lesotho,LSO,2014,1.91
+Lesotho,LSO,2015,1.9
+Lesotho,LSO,2016,1.94
+Lesotho,LSO,2017,1.99
+Liberia,LBR,1990,1.56
+Liberia,LBR,1991,1.58
+Liberia,LBR,1992,1.59
+Liberia,LBR,1993,1.63
+Liberia,LBR,1994,1.65
+Liberia,LBR,1995,1.6
+Liberia,LBR,1996,1.71
+Liberia,LBR,1997,1.75
+Liberia,LBR,1998,1.79
+Liberia,LBR,1999,1.82
+Liberia,LBR,2000,1.83
+Liberia,LBR,2001,1.72
+Liberia,LBR,2002,1.6
+Liberia,LBR,2003,1.51
+Liberia,LBR,2004,1.4
+Liberia,LBR,2005,1.29
+Liberia,LBR,2006,1.3
+Liberia,LBR,2007,1.31
+Liberia,LBR,2008,1.31
+Liberia,LBR,2009,1.31
+Liberia,LBR,2010,1.33
+Liberia,LBR,2011,1.34
+Liberia,LBR,2012,1.34
+Liberia,LBR,2013,1.34
+Liberia,LBR,2014,1.33
+Liberia,LBR,2015,1.34
+Liberia,LBR,2016,1.34
+Liberia,LBR,2017,1.35
+Libya,LBY,1990,2.35
+Libya,LBY,1991,2.36
+Libya,LBY,1992,2.38
+Libya,LBY,1993,2.39
+Libya,LBY,1994,2.39
+Libya,LBY,1995,2.4
+Libya,LBY,1996,2.39
+Libya,LBY,1997,2.38
+Libya,LBY,1998,2.41
+Libya,LBY,1999,2.47
+Libya,LBY,2000,2.5
+Libya,LBY,2001,2.56
+Libya,LBY,2002,2.53
+Libya,LBY,2003,2.66
+Libya,LBY,2004,2.73
+Libya,LBY,2005,2.65
+Libya,LBY,2006,2.83
+Libya,LBY,2007,2.99
+Libya,LBY,2008,3.1
+Libya,LBY,2009,2.87
+Libya,LBY,2010,2.84
+Libya,LBY,2011,3.08
+Libya,LBY,2012,3.2
+Libya,LBY,2013,3.15
+Libya,LBY,2014,3.19
+Libya,LBY,2015,3.31
+Libya,LBY,2016,3.29
+Libya,LBY,2017,3.34
+Lithuania,LTU,1990,4.7
+Lithuania,LTU,1991,4.88
+Lithuania,LTU,1992,5.11
+Lithuania,LTU,1993,5.42
+Lithuania,LTU,1994,5.58
+Lithuania,LTU,1995,5.45
+Lithuania,LTU,1996,5.4
+Lithuania,LTU,1997,5.56
+Lithuania,LTU,1998,5.57
+Lithuania,LTU,1999,5.67
+Lithuania,LTU,2000,5.6
+Lithuania,LTU,2001,5.8
+Lithuania,LTU,2002,6.14
+Lithuania,LTU,2003,6
+Lithuania,LTU,2004,6.1
+Lithuania,LTU,2005,6.02
+Lithuania,LTU,2006,5.85
+Lithuania,LTU,2007,6.07
+Lithuania,LTU,2008,5.87
+Lithuania,LTU,2009,6.21
+Lithuania,LTU,2010,6.33
+Lithuania,LTU,2011,6.08
+Lithuania,LTU,2012,6.2
+Lithuania,LTU,2013,6.44
+Lithuania,LTU,2014,6.71
+Lithuania,LTU,2015,6.5
+Lithuania,LTU,2016,6.69
+Lithuania,LTU,2017,6.81
+Low SDI,,1990,1.39
+Low SDI,,1991,1.39
+Low SDI,,1992,1.36
+Low SDI,,1993,1.4
+Low SDI,,1994,1.43
+Low SDI,,1995,1.44
+Low SDI,,1996,1.46
+Low SDI,,1997,1.47
+Low SDI,,1998,1.47
+Low SDI,,1999,1.45
+Low SDI,,2000,1.44
+Low SDI,,2001,1.45
+Low SDI,,2002,1.48
+Low SDI,,2003,1.54
+Low SDI,,2004,1.54
+Low SDI,,2005,1.54
+Low SDI,,2006,1.59
+Low SDI,,2007,1.66
+Low SDI,,2008,1.72
+Low SDI,,2009,1.77
+Low SDI,,2010,1.78
+Low SDI,,2011,1.81
+Low SDI,,2012,1.87
+Low SDI,,2013,1.9
+Low SDI,,2014,1.89
+Low SDI,,2015,1.88
+Low SDI,,2016,1.87
+Low SDI,,2017,1.88
+Low income,,1990,2.26
+Low income,,1991,2.26
+Low income,,1992,2.28
+Low income,,1993,2.31
+Low income,,1994,2.33
+Low income,,1995,2.35
+Low income,,1996,2.37
+Low income,,1997,2.39
+Low income,,1998,2.4
+Low income,,1999,2.41
+Low income,,2000,2.42
+Low income,,2001,2.45
+Low income,,2002,2.49
+Low income,,2003,2.53
+Low income,,2004,2.56
+Low income,,2005,2.62
+Low income,,2006,2.68
+Low income,,2007,2.74
+Low income,,2008,2.8
+Low income,,2009,2.84
+Low income,,2010,2.9
+Low income,,2011,2.95
+Low income,,2012,3
+Low income,,2013,3.05
+Low income,,2014,3.06
+Low income,,2015,3.09
+Low income,,2016,3.12
+Low income,,2017,3.13
+Low-middle SDI,,1990,1.23
+Low-middle SDI,,1991,1.23
+Low-middle SDI,,1992,1.2
+Low-middle SDI,,1993,1.22
+Low-middle SDI,,1994,1.24
+Low-middle SDI,,1995,1.25
+Low-middle SDI,,1996,1.25
+Low-middle SDI,,1997,1.27
+Low-middle SDI,,1998,1.29
+Low-middle SDI,,1999,1.28
+Low-middle SDI,,2000,1.28
+Low-middle SDI,,2001,1.3
+Low-middle SDI,,2002,1.34
+Low-middle SDI,,2003,1.37
+Low-middle SDI,,2004,1.4
+Low-middle SDI,,2005,1.42
+Low-middle SDI,,2006,1.48
+Low-middle SDI,,2007,1.56
+Low-middle SDI,,2008,1.61
+Low-middle SDI,,2009,1.67
+Low-middle SDI,,2010,1.68
+Low-middle SDI,,2011,1.67
+Low-middle SDI,,2012,1.71
+Low-middle SDI,,2013,1.73
+Low-middle SDI,,2014,1.68
+Low-middle SDI,,2015,1.69
+Low-middle SDI,,2016,1.71
+Low-middle SDI,,2017,1.71
+Lower-middle income,,1990,1.37
+Lower-middle income,,1991,1.37
+Lower-middle income,,1992,1.34
+Lower-middle income,,1993,1.37
+Lower-middle income,,1994,1.41
+Lower-middle income,,1995,1.43
+Lower-middle income,,1996,1.45
+Lower-middle income,,1997,1.45
+Lower-middle income,,1998,1.45
+Lower-middle income,,1999,1.43
+Lower-middle income,,2000,1.43
+Lower-middle income,,2001,1.43
+Lower-middle income,,2002,1.46
+Lower-middle income,,2003,1.5
+Lower-middle income,,2004,1.51
+Lower-middle income,,2005,1.51
+Lower-middle income,,2006,1.57
+Lower-middle income,,2007,1.63
+Lower-middle income,,2008,1.68
+Lower-middle income,,2009,1.7
+Lower-middle income,,2010,1.69
+Lower-middle income,,2011,1.68
+Lower-middle income,,2012,1.71
+Lower-middle income,,2013,1.72
+Lower-middle income,,2014,1.68
+Lower-middle income,,2015,1.71
+Lower-middle income,,2016,1.71
+Lower-middle income,,2017,1.71
+Luxembourg,LUX,1990,2.92
+Luxembourg,LUX,1991,2.94
+Luxembourg,LUX,1992,2.83
+Luxembourg,LUX,1993,2.92
+Luxembourg,LUX,1994,3.1
+Luxembourg,LUX,1995,2.99
+Luxembourg,LUX,1996,2.86
+Luxembourg,LUX,1997,2.87
+Luxembourg,LUX,1998,2.94
+Luxembourg,LUX,1999,2.85
+Luxembourg,LUX,2000,2.85
+Luxembourg,LUX,2001,2.92
+Luxembourg,LUX,2002,2.94
+Luxembourg,LUX,2003,3
+Luxembourg,LUX,2004,3.01
+Luxembourg,LUX,2005,2.98
+Luxembourg,LUX,2006,2.98
+Luxembourg,LUX,2007,2.86
+Luxembourg,LUX,2008,2.78
+Luxembourg,LUX,2009,2.72
+Luxembourg,LUX,2010,2.62
+Luxembourg,LUX,2011,2.63
+Luxembourg,LUX,2012,2.6
+Luxembourg,LUX,2013,2.52
+Luxembourg,LUX,2014,2.6
+Luxembourg,LUX,2015,2.67
+Luxembourg,LUX,2016,2.79
+Luxembourg,LUX,2017,2.84
+Madagascar,MDG,1990,2.86
+Madagascar,MDG,1991,2.83
+Madagascar,MDG,1992,2.79
+Madagascar,MDG,1993,2.84
+Madagascar,MDG,1994,2.88
+Madagascar,MDG,1995,2.87
+Madagascar,MDG,1996,2.96
+Madagascar,MDG,1997,2.92
+Madagascar,MDG,1998,2.98
+Madagascar,MDG,1999,3.03
+Madagascar,MDG,2000,2.99
+Madagascar,MDG,2001,3.02
+Madagascar,MDG,2002,3.02
+Madagascar,MDG,2003,3.09
+Madagascar,MDG,2004,3.09
+Madagascar,MDG,2005,3.18
+Madagascar,MDG,2006,3.22
+Madagascar,MDG,2007,3.23
+Madagascar,MDG,2008,3.25
+Madagascar,MDG,2009,3.27
+Madagascar,MDG,2010,3.3
+Madagascar,MDG,2011,3.3
+Madagascar,MDG,2012,3.3
+Madagascar,MDG,2013,3.31
+Madagascar,MDG,2014,3.32
+Madagascar,MDG,2015,3.33
+Madagascar,MDG,2016,3.33
+Madagascar,MDG,2017,3.33
+Malawi,MWI,1990,2.71
+Malawi,MWI,1991,2.72
+Malawi,MWI,1992,2.75
+Malawi,MWI,1993,2.78
+Malawi,MWI,1994,2.83
+Malawi,MWI,1995,2.89
+Malawi,MWI,1996,3.01
+Malawi,MWI,1997,3.16
+Malawi,MWI,1998,3.31
+Malawi,MWI,1999,3.47
+Malawi,MWI,2000,3.65
+Malawi,MWI,2001,3.83
+Malawi,MWI,2002,4.03
+Malawi,MWI,2003,4.23
+Malawi,MWI,2004,4.52
+Malawi,MWI,2005,4.84
+Malawi,MWI,2006,5.18
+Malawi,MWI,2007,5.46
+Malawi,MWI,2008,5.68
+Malawi,MWI,2009,5.88
+Malawi,MWI,2010,6.02
+Malawi,MWI,2011,6.06
+Malawi,MWI,2012,6.02
+Malawi,MWI,2013,5.94
+Malawi,MWI,2014,5.85
+Malawi,MWI,2015,5.77
+Malawi,MWI,2016,5.69
+Malawi,MWI,2017,5.66
+Malaysia,MYS,1990,2.19
+Malaysia,MYS,1991,2.28
+Malaysia,MYS,1992,2.34
+Malaysia,MYS,1993,2.39
+Malaysia,MYS,1994,2.54
+Malaysia,MYS,1995,2.61
+Malaysia,MYS,1996,2.68
+Malaysia,MYS,1997,2.75
+Malaysia,MYS,1998,2.77
+Malaysia,MYS,1999,2.79
+Malaysia,MYS,2000,2.81
+Malaysia,MYS,2001,2.78
+Malaysia,MYS,2002,2.77
+Malaysia,MYS,2003,2.78
+Malaysia,MYS,2004,2.77
+Malaysia,MYS,2005,2.73
+Malaysia,MYS,2006,2.74
+Malaysia,MYS,2007,2.78
+Malaysia,MYS,2008,2.89
+Malaysia,MYS,2009,2.96
+Malaysia,MYS,2010,2.93
+Malaysia,MYS,2011,2.86
+Malaysia,MYS,2012,2.82
+Malaysia,MYS,2013,2.81
+Malaysia,MYS,2014,2.84
+Malaysia,MYS,2015,2.83
+Malaysia,MYS,2016,2.78
+Malaysia,MYS,2017,2.83
+Maldives,MDV,1990,1.22
+Maldives,MDV,1991,1.24
+Maldives,MDV,1992,1.24
+Maldives,MDV,1993,1.24
+Maldives,MDV,1994,1.27
+Maldives,MDV,1995,1.33
+Maldives,MDV,1996,1.4
+Maldives,MDV,1997,1.45
+Maldives,MDV,1998,1.51
+Maldives,MDV,1999,1.61
+Maldives,MDV,2000,1.74
+Maldives,MDV,2001,1.82
+Maldives,MDV,2002,1.9
+Maldives,MDV,2003,2.04
+Maldives,MDV,2004,2.21
+Maldives,MDV,2005,2.41
+Maldives,MDV,2006,2.65
+Maldives,MDV,2007,2.84
+Maldives,MDV,2008,2.94
+Maldives,MDV,2009,2.92
+Maldives,MDV,2010,2.99
+Maldives,MDV,2011,3.1
+Maldives,MDV,2012,3.09
+Maldives,MDV,2013,3.19
+Maldives,MDV,2014,3.29
+Maldives,MDV,2015,3.33
+Maldives,MDV,2016,3.38
+Maldives,MDV,2017,3.39
+Mali,MLI,1990,2.16
+Mali,MLI,1991,2.15
+Mali,MLI,1992,2.16
+Mali,MLI,1993,2.18
+Mali,MLI,1994,2.19
+Mali,MLI,1995,2.17
+Mali,MLI,1996,2.22
+Mali,MLI,1997,2.27
+Mali,MLI,1998,2.34
+Mali,MLI,1999,2.41
+Mali,MLI,2000,2.48
+Mali,MLI,2001,2.54
+Mali,MLI,2002,2.6
+Mali,MLI,2003,2.69
+Mali,MLI,2004,2.78
+Mali,MLI,2005,2.87
+Mali,MLI,2006,2.93
+Mali,MLI,2007,3
+Mali,MLI,2008,3.08
+Mali,MLI,2009,3.17
+Mali,MLI,2010,3.21
+Mali,MLI,2011,3.21
+Mali,MLI,2012,3.21
+Mali,MLI,2013,3.2
+Mali,MLI,2014,3.19
+Mali,MLI,2015,3.17
+Mali,MLI,2016,3.15
+Mali,MLI,2017,3.16
+Malta,MLT,1990,3.57
+Malta,MLT,1991,3.81
+Malta,MLT,1992,4.04
+Malta,MLT,1993,4.25
+Malta,MLT,1994,4.53
+Malta,MLT,1995,4.61
+Malta,MLT,1996,4.6
+Malta,MLT,1997,4.65
+Malta,MLT,1998,4.69
+Malta,MLT,1999,4.59
+Malta,MLT,2000,4.41
+Malta,MLT,2001,4.36
+Malta,MLT,2002,4.51
+Malta,MLT,2003,4.56
+Malta,MLT,2004,4.58
+Malta,MLT,2005,4.7
+Malta,MLT,2006,4.99
+Malta,MLT,2007,5.13
+Malta,MLT,2008,5.3
+Malta,MLT,2009,5.46
+Malta,MLT,2010,5.61
+Malta,MLT,2011,5.3
+Malta,MLT,2012,5.29
+Malta,MLT,2013,5.23
+Malta,MLT,2014,5.13
+Malta,MLT,2015,5.05
+Malta,MLT,2016,5.11
+Malta,MLT,2017,5.15
+Marshall Islands,MHL,1990,3.41
+Marshall Islands,MHL,1991,3.19
+Marshall Islands,MHL,1992,3.05
+Marshall Islands,MHL,1993,2.84
+Marshall Islands,MHL,1994,2.71
+Marshall Islands,MHL,1995,2.63
+Marshall Islands,MHL,1996,2.52
+Marshall Islands,MHL,1997,2.47
+Marshall Islands,MHL,1998,2.42
+Marshall Islands,MHL,1999,2.42
+Marshall Islands,MHL,2000,2.41
+Marshall Islands,MHL,2001,2.39
+Marshall Islands,MHL,2002,2.42
+Marshall Islands,MHL,2003,2.43
+Marshall Islands,MHL,2004,2.43
+Marshall Islands,MHL,2005,2.43
+Marshall Islands,MHL,2006,2.45
+Marshall Islands,MHL,2007,2.48
+Marshall Islands,MHL,2008,2.51
+Marshall Islands,MHL,2009,2.54
+Marshall Islands,MHL,2010,2.57
+Marshall Islands,MHL,2011,2.6
+Marshall Islands,MHL,2012,2.63
+Marshall Islands,MHL,2013,2.65
+Marshall Islands,MHL,2014,2.68
+Marshall Islands,MHL,2015,2.71
+Marshall Islands,MHL,2016,2.75
+Marshall Islands,MHL,2017,2.76
+Mauritania,MRT,1990,2.62
+Mauritania,MRT,1991,2.62
+Mauritania,MRT,1992,2.62
+Mauritania,MRT,1993,2.64
+Mauritania,MRT,1994,2.65
+Mauritania,MRT,1995,2.64
+Mauritania,MRT,1996,2.68
+Mauritania,MRT,1997,2.75
+Mauritania,MRT,1998,2.81
+Mauritania,MRT,1999,2.85
+Mauritania,MRT,2000,2.92
+Mauritania,MRT,2001,2.96
+Mauritania,MRT,2002,3
+Mauritania,MRT,2003,3.05
+Mauritania,MRT,2004,3.1
+Mauritania,MRT,2005,3.15
+Mauritania,MRT,2006,3.17
+Mauritania,MRT,2007,3.21
+Mauritania,MRT,2008,3.24
+Mauritania,MRT,2009,3.28
+Mauritania,MRT,2010,3.31
+Mauritania,MRT,2011,3.31
+Mauritania,MRT,2012,3.31
+Mauritania,MRT,2013,3.31
+Mauritania,MRT,2014,3.32
+Mauritania,MRT,2015,3.32
+Mauritania,MRT,2016,3.32
+Mauritania,MRT,2017,3.36
+Mauritius,MUS,1990,2.51
+Mauritius,MUS,1991,2.56
+Mauritius,MUS,1992,2.36
+Mauritius,MUS,1993,2.62
+Mauritius,MUS,1994,3.05
+Mauritius,MUS,1995,3.26
+Mauritius,MUS,1996,3.36
+Mauritius,MUS,1997,3.42
+Mauritius,MUS,1998,3.12
+Mauritius,MUS,1999,2.81
+Mauritius,MUS,2000,2.65
+Mauritius,MUS,2001,2.64
+Mauritius,MUS,2002,3.02
+Mauritius,MUS,2003,2.81
+Mauritius,MUS,2004,2.95
+Mauritius,MUS,2005,3.09
+Mauritius,MUS,2006,3.06
+Mauritius,MUS,2007,3.28
+Mauritius,MUS,2008,3.52
+Mauritius,MUS,2009,3.64
+Mauritius,MUS,2010,3.66
+Mauritius,MUS,2011,4.09
+Mauritius,MUS,2012,3.84
+Mauritius,MUS,2013,3.98
+Mauritius,MUS,2014,3.8
+Mauritius,MUS,2015,3.69
+Mauritius,MUS,2016,4.28
+Mauritius,MUS,2017,4.4
+Mexico,MEX,1990,6.37
+Mexico,MEX,1991,6.45
+Mexico,MEX,1992,6.51
+Mexico,MEX,1993,6.5
+Mexico,MEX,1994,6.52
+Mexico,MEX,1995,6.3
+Mexico,MEX,1996,6.21
+Mexico,MEX,1997,6.17
+Mexico,MEX,1998,6.2
+Mexico,MEX,1999,6.04
+Mexico,MEX,2000,5.91
+Mexico,MEX,2001,5.61
+Mexico,MEX,2002,5.54
+Mexico,MEX,2003,5.5
+Mexico,MEX,2004,5.4
+Mexico,MEX,2005,5.3
+Mexico,MEX,2006,5.25
+Mexico,MEX,2007,5.24
+Mexico,MEX,2008,5.31
+Mexico,MEX,2009,5.09
+Mexico,MEX,2010,5.32
+Mexico,MEX,2011,5.3
+Mexico,MEX,2012,5.09
+Mexico,MEX,2013,4.82
+Mexico,MEX,2014,4.67
+Mexico,MEX,2015,4.68
+Mexico,MEX,2016,4.78
+Mexico,MEX,2017,4.91
+Middle East & North Africa,,1990,1.51
+Middle East & North Africa,,1991,1.52
+Middle East & North Africa,,1992,1.53
+Middle East & North Africa,,1993,1.53
+Middle East & North Africa,,1994,1.55
+Middle East & North Africa,,1995,1.56
+Middle East & North Africa,,1996,1.56
+Middle East & North Africa,,1997,1.58
+Middle East & North Africa,,1998,1.59
+Middle East & North Africa,,1999,1.61
+Middle East & North Africa,,2000,1.66
+Middle East & North Africa,,2001,1.68
+Middle East & North Africa,,2002,1.72
+Middle East & North Africa,,2003,1.76
+Middle East & North Africa,,2004,1.8
+Middle East & North Africa,,2005,1.84
+Middle East & North Africa,,2006,1.89
+Middle East & North Africa,,2007,1.92
+Middle East & North Africa,,2008,1.96
+Middle East & North Africa,,2009,2
+Middle East & North Africa,,2010,2.03
+Middle East & North Africa,,2011,2.09
+Middle East & North Africa,,2012,2.12
+Middle East & North Africa,,2013,2.18
+Middle East & North Africa,,2014,2.22
+Middle East & North Africa,,2015,2.3
+Middle East & North Africa,,2016,2.3
+Middle East & North Africa,,2017,2.34
+Middle SDI,,1990,1.17
+Middle SDI,,1991,1.17
+Middle SDI,,1992,1.17
+Middle SDI,,1993,1.18
+Middle SDI,,1994,1.2
+Middle SDI,,1995,1.24
+Middle SDI,,1996,1.28
+Middle SDI,,1997,1.33
+Middle SDI,,1998,1.39
+Middle SDI,,1999,1.44
+Middle SDI,,2000,1.52
+Middle SDI,,2001,1.6
+Middle SDI,,2002,1.67
+Middle SDI,,2003,1.67
+Middle SDI,,2004,1.65
+Middle SDI,,2005,1.67
+Middle SDI,,2006,1.71
+Middle SDI,,2007,1.75
+Middle SDI,,2008,1.78
+Middle SDI,,2009,1.78
+Middle SDI,,2010,1.78
+Middle SDI,,2011,1.8
+Middle SDI,,2012,1.84
+Middle SDI,,2013,1.84
+Middle SDI,,2014,1.86
+Middle SDI,,2015,1.91
+Middle SDI,,2016,1.96
+Middle SDI,,2017,1.99
+Moldova,MDA,1990,3.58
+Moldova,MDA,1991,3.61
+Moldova,MDA,1992,3.87
+Moldova,MDA,1993,4.02
+Moldova,MDA,1994,4.3
+Moldova,MDA,1995,4.5
+Moldova,MDA,1996,4.75
+Moldova,MDA,1997,4.88
+Moldova,MDA,1998,5.16
+Moldova,MDA,1999,5.62
+Moldova,MDA,2000,5.83
+Moldova,MDA,2001,5.66
+Moldova,MDA,2002,5.65
+Moldova,MDA,2003,5.72
+Moldova,MDA,2004,5.94
+Moldova,MDA,2005,6.08
+Moldova,MDA,2006,5.9
+Moldova,MDA,2007,5.92
+Moldova,MDA,2008,6.02
+Moldova,MDA,2009,6.34
+Moldova,MDA,2010,6.62
+Moldova,MDA,2011,6.65
+Moldova,MDA,2012,6.51
+Moldova,MDA,2013,6.53
+Moldova,MDA,2014,6.52
+Moldova,MDA,2015,6.6
+Moldova,MDA,2016,6.98
+Moldova,MDA,2017,7.22
+Mongolia,MNG,1990,3.52
+Mongolia,MNG,1991,3.51
+Mongolia,MNG,1992,3.51
+Mongolia,MNG,1993,3.44
+Mongolia,MNG,1994,3.42
+Mongolia,MNG,1995,3.4
+Mongolia,MNG,1996,3.48
+Mongolia,MNG,1997,3.38
+Mongolia,MNG,1998,3.4
+Mongolia,MNG,1999,3.48
+Mongolia,MNG,2000,3.83
+Mongolia,MNG,2001,4.11
+Mongolia,MNG,2002,4.37
+Mongolia,MNG,2003,4.58
+Mongolia,MNG,2004,4.75
+Mongolia,MNG,2005,4.95
+Mongolia,MNG,2006,5.12
+Mongolia,MNG,2007,5.4
+Mongolia,MNG,2008,5.18
+Mongolia,MNG,2009,4.93
+Mongolia,MNG,2010,4.96
+Mongolia,MNG,2011,5.04
+Mongolia,MNG,2012,4.98
+Mongolia,MNG,2013,5
+Mongolia,MNG,2014,4.99
+Mongolia,MNG,2015,5.05
+Mongolia,MNG,2016,5.31
+Mongolia,MNG,2017,5.38
+Montenegro,MNE,1990,3.12
+Montenegro,MNE,1991,3.2
+Montenegro,MNE,1992,3.11
+Montenegro,MNE,1993,3.06
+Montenegro,MNE,1994,2.98
+Montenegro,MNE,1995,2.89
+Montenegro,MNE,1996,2.77
+Montenegro,MNE,1997,2.73
+Montenegro,MNE,1998,2.68
+Montenegro,MNE,1999,2.65
+Montenegro,MNE,2000,2.55
+Montenegro,MNE,2001,2.53
+Montenegro,MNE,2002,2.53
+Montenegro,MNE,2003,2.6
+Montenegro,MNE,2004,2.69
+Montenegro,MNE,2005,2.8
+Montenegro,MNE,2006,2.87
+Montenegro,MNE,2007,2.9
+Montenegro,MNE,2008,2.91
+Montenegro,MNE,2009,2.97
+Montenegro,MNE,2010,2.97
+Montenegro,MNE,2011,2.91
+Montenegro,MNE,2012,2.79
+Montenegro,MNE,2013,2.8
+Montenegro,MNE,2014,2.77
+Montenegro,MNE,2015,2.73
+Montenegro,MNE,2016,2.67
+Montenegro,MNE,2017,2.68
+Morocco,MAR,1990,0.61
+Morocco,MAR,1991,0.62
+Morocco,MAR,1992,0.63
+Morocco,MAR,1993,0.63
+Morocco,MAR,1994,0.62
+Morocco,MAR,1995,0.62
+Morocco,MAR,1996,0.62
+Morocco,MAR,1997,0.61
+Morocco,MAR,1998,0.61
+Morocco,MAR,1999,0.61
+Morocco,MAR,2000,0.62
+Morocco,MAR,2001,0.64
+Morocco,MAR,2002,0.64
+Morocco,MAR,2003,0.66
+Morocco,MAR,2004,0.67
+Morocco,MAR,2005,0.69
+Morocco,MAR,2006,0.7
+Morocco,MAR,2007,0.71
+Morocco,MAR,2008,0.72
+Morocco,MAR,2009,0.74
+Morocco,MAR,2010,0.75
+Morocco,MAR,2011,0.78
+Morocco,MAR,2012,0.81
+Morocco,MAR,2013,0.84
+Morocco,MAR,2014,0.88
+Morocco,MAR,2015,0.91
+Morocco,MAR,2016,0.95
+Morocco,MAR,2017,0.96
+Mozambique,MOZ,1990,3.98
+Mozambique,MOZ,1991,3.97
+Mozambique,MOZ,1992,3.95
+Mozambique,MOZ,1993,3.98
+Mozambique,MOZ,1994,3.96
+Mozambique,MOZ,1995,3.97
+Mozambique,MOZ,1996,3.97
+Mozambique,MOZ,1997,3.96
+Mozambique,MOZ,1998,4.03
+Mozambique,MOZ,1999,4.09
+Mozambique,MOZ,2000,4.17
+Mozambique,MOZ,2001,4.31
+Mozambique,MOZ,2002,4.44
+Mozambique,MOZ,2003,4.55
+Mozambique,MOZ,2004,4.66
+Mozambique,MOZ,2005,4.75
+Mozambique,MOZ,2006,4.85
+Mozambique,MOZ,2007,4.89
+Mozambique,MOZ,2008,4.97
+Mozambique,MOZ,2009,5.02
+Mozambique,MOZ,2010,5.07
+Mozambique,MOZ,2011,5.12
+Mozambique,MOZ,2012,5.17
+Mozambique,MOZ,2013,5.2
+Mozambique,MOZ,2014,5.18
+Mozambique,MOZ,2015,5.16
+Mozambique,MOZ,2016,5.15
+Mozambique,MOZ,2017,5.14
+Myanmar,MMR,1990,3.35
+Myanmar,MMR,1991,3.36
+Myanmar,MMR,1992,3.37
+Myanmar,MMR,1993,3.37
+Myanmar,MMR,1994,3.38
+Myanmar,MMR,1995,3.39
+Myanmar,MMR,1996,3.42
+Myanmar,MMR,1997,3.45
+Myanmar,MMR,1998,3.47
+Myanmar,MMR,1999,3.5
+Myanmar,MMR,2000,3.53
+Myanmar,MMR,2001,3.59
+Myanmar,MMR,2002,3.62
+Myanmar,MMR,2003,3.62
+Myanmar,MMR,2004,3.71
+Myanmar,MMR,2005,3.78
+Myanmar,MMR,2006,3.84
+Myanmar,MMR,2007,3.93
+Myanmar,MMR,2008,4
+Myanmar,MMR,2009,4.14
+Myanmar,MMR,2010,4.28
+Myanmar,MMR,2011,4.44
+Myanmar,MMR,2012,4.56
+Myanmar,MMR,2013,4.62
+Myanmar,MMR,2014,4.69
+Myanmar,MMR,2015,4.74
+Myanmar,MMR,2016,4.78
+Myanmar,MMR,2017,4.82
+Namibia,NAM,1990,5.09
+Namibia,NAM,1991,5.06
+Namibia,NAM,1992,5.05
+Namibia,NAM,1993,5
+Namibia,NAM,1994,5.01
+Namibia,NAM,1995,5.01
+Namibia,NAM,1996,5.14
+Namibia,NAM,1997,5.08
+Namibia,NAM,1998,5.04
+Namibia,NAM,1999,5.02
+Namibia,NAM,2000,5.03
+Namibia,NAM,2001,5.09
+Namibia,NAM,2002,5.16
+Namibia,NAM,2003,5.36
+Namibia,NAM,2004,5.64
+Namibia,NAM,2005,5.96
+Namibia,NAM,2006,6.39
+Namibia,NAM,2007,6.78
+Namibia,NAM,2008,7.22
+Namibia,NAM,2009,7.54
+Namibia,NAM,2010,7.95
+Namibia,NAM,2011,8.07
+Namibia,NAM,2012,7.94
+Namibia,NAM,2013,7.89
+Namibia,NAM,2014,7.8
+Namibia,NAM,2015,7.71
+Namibia,NAM,2016,7.64
+Namibia,NAM,2017,7.61
+Nepal,NPL,1990,1.71
+Nepal,NPL,1991,1.69
+Nepal,NPL,1992,1.65
+Nepal,NPL,1993,1.64
+Nepal,NPL,1994,1.63
+Nepal,NPL,1995,1.65
+Nepal,NPL,1996,1.64
+Nepal,NPL,1997,1.63
+Nepal,NPL,1998,1.59
+Nepal,NPL,1999,1.52
+Nepal,NPL,2000,1.49
+Nepal,NPL,2001,1.47
+Nepal,NPL,2002,1.44
+Nepal,NPL,2003,1.41
+Nepal,NPL,2004,1.41
+Nepal,NPL,2005,1.4
+Nepal,NPL,2006,1.4
+Nepal,NPL,2007,1.39
+Nepal,NPL,2008,1.4
+Nepal,NPL,2009,1.41
+Nepal,NPL,2010,1.41
+Nepal,NPL,2011,1.48
+Nepal,NPL,2012,1.53
+Nepal,NPL,2013,1.57
+Nepal,NPL,2014,1.61
+Nepal,NPL,2015,1.63
+Nepal,NPL,2016,1.66
+Nepal,NPL,2017,1.65
+Netherlands,NLD,1990,1.91
+Netherlands,NLD,1991,1.92
+Netherlands,NLD,1992,1.98
+Netherlands,NLD,1993,2.04
+Netherlands,NLD,1994,2.06
+Netherlands,NLD,1995,2.11
+Netherlands,NLD,1996,2.17
+Netherlands,NLD,1997,2.19
+Netherlands,NLD,1998,2.28
+Netherlands,NLD,1999,2.26
+Netherlands,NLD,2000,2.3
+Netherlands,NLD,2001,2.31
+Netherlands,NLD,2002,2.27
+Netherlands,NLD,2003,2.31
+Netherlands,NLD,2004,2.34
+Netherlands,NLD,2005,2.29
+Netherlands,NLD,2006,2.37
+Netherlands,NLD,2007,2.41
+Netherlands,NLD,2008,2.41
+Netherlands,NLD,2009,2.43
+Netherlands,NLD,2010,2.46
+Netherlands,NLD,2011,2.35
+Netherlands,NLD,2012,2.4
+Netherlands,NLD,2013,2.46
+Netherlands,NLD,2014,2.38
+Netherlands,NLD,2015,2.41
+Netherlands,NLD,2016,2.32
+Netherlands,NLD,2017,2.29
+New Zealand,NZL,1990,3.63
+New Zealand,NZL,1991,3.76
+New Zealand,NZL,1992,4.03
+New Zealand,NZL,1993,3.78
+New Zealand,NZL,1994,3.72
+New Zealand,NZL,1995,3.64
+New Zealand,NZL,1996,3.64
+New Zealand,NZL,1997,3.61
+New Zealand,NZL,1998,3.6
+New Zealand,NZL,1999,3.54
+New Zealand,NZL,2000,3.77
+New Zealand,NZL,2001,3.56
+New Zealand,NZL,2002,3.34
+New Zealand,NZL,2003,3.2
+New Zealand,NZL,2004,3.19
+New Zealand,NZL,2005,3.34
+New Zealand,NZL,2006,3.21
+New Zealand,NZL,2007,3.24
+New Zealand,NZL,2008,3.06
+New Zealand,NZL,2009,3.11
+New Zealand,NZL,2010,3.03
+New Zealand,NZL,2011,3.1
+New Zealand,NZL,2012,3.1
+New Zealand,NZL,2013,3.12
+New Zealand,NZL,2014,3.24
+New Zealand,NZL,2015,3.07
+New Zealand,NZL,2016,3.17
+New Zealand,NZL,2017,3.25
+Nicaragua,NIC,1990,3.79
+Nicaragua,NIC,1991,3.76
+Nicaragua,NIC,1992,3.94
+Nicaragua,NIC,1993,3.9
+Nicaragua,NIC,1994,3.9
+Nicaragua,NIC,1995,3.51
+Nicaragua,NIC,1996,3.34
+Nicaragua,NIC,1997,3.3
+Nicaragua,NIC,1998,3.32
+Nicaragua,NIC,1999,3.3
+Nicaragua,NIC,2000,3.18
+Nicaragua,NIC,2001,3.16
+Nicaragua,NIC,2002,3.2
+Nicaragua,NIC,2003,3.34
+Nicaragua,NIC,2004,3.32
+Nicaragua,NIC,2005,3.38
+Nicaragua,NIC,2006,3.46
+Nicaragua,NIC,2007,3.41
+Nicaragua,NIC,2008,3.38
+Nicaragua,NIC,2009,3.34
+Nicaragua,NIC,2010,3.33
+Nicaragua,NIC,2011,3.41
+Nicaragua,NIC,2012,3.54
+Nicaragua,NIC,2013,3.55
+Nicaragua,NIC,2014,3.41
+Nicaragua,NIC,2015,3.32
+Nicaragua,NIC,2016,3.37
+Nicaragua,NIC,2017,3.45
+Niger,NER,1990,2
+Niger,NER,1991,1.98
+Niger,NER,1992,1.98
+Niger,NER,1993,2
+Niger,NER,1994,2
+Niger,NER,1995,2.02
+Niger,NER,1996,2.05
+Niger,NER,1997,2.07
+Niger,NER,1998,2.11
+Niger,NER,1999,2.15
+Niger,NER,2000,2.18
+Niger,NER,2001,2.21
+Niger,NER,2002,2.24
+Niger,NER,2003,2.28
+Niger,NER,2004,2.3
+Niger,NER,2005,2.32
+Niger,NER,2006,2.36
+Niger,NER,2007,2.39
+Niger,NER,2008,2.41
+Niger,NER,2009,2.45
+Niger,NER,2010,2.5
+Niger,NER,2011,2.53
+Niger,NER,2012,2.55
+Niger,NER,2013,2.56
+Niger,NER,2014,2.58
+Niger,NER,2015,2.59
+Niger,NER,2016,2.6
+Niger,NER,2017,2.6
+Nigeria,NGA,1990,1.2
+Nigeria,NGA,1991,1.22
+Nigeria,NGA,1992,1.24
+Nigeria,NGA,1993,1.26
+Nigeria,NGA,1994,1.28
+Nigeria,NGA,1995,1.29
+Nigeria,NGA,1996,1.28
+Nigeria,NGA,1997,1.26
+Nigeria,NGA,1998,1.26
+Nigeria,NGA,1999,1.24
+Nigeria,NGA,2000,1.24
+Nigeria,NGA,2001,1.3
+Nigeria,NGA,2002,1.35
+Nigeria,NGA,2003,1.42
+Nigeria,NGA,2004,1.48
+Nigeria,NGA,2005,1.55
+Nigeria,NGA,2006,1.56
+Nigeria,NGA,2007,1.56
+Nigeria,NGA,2008,1.58
+Nigeria,NGA,2009,1.59
+Nigeria,NGA,2010,1.61
+Nigeria,NGA,2011,1.69
+Nigeria,NGA,2012,1.74
+Nigeria,NGA,2013,1.78
+Nigeria,NGA,2014,1.83
+Nigeria,NGA,2015,1.89
+Nigeria,NGA,2016,1.94
+Nigeria,NGA,2017,1.94
+North America,,1990,4.09
+North America,,1991,4.11
+North America,,1992,4.17
+North America,,1993,4.19
+North America,,1994,4.21
+North America,,1995,4.21
+North America,,1996,4.17
+North America,,1997,4.11
+North America,,1998,4.07
+North America,,1999,4
+North America,,2000,3.93
+North America,,2001,3.84
+North America,,2002,3.78
+North America,,2003,3.71
+North America,,2004,3.64
+North America,,2005,3.62
+North America,,2006,3.56
+North America,,2007,3.54
+North America,,2008,3.49
+North America,,2009,3.4
+North America,,2010,3.41
+North America,,2011,3.38
+North America,,2012,3.38
+North America,,2013,3.36
+North America,,2014,3.33
+North America,,2015,3.36
+North America,,2016,3.45
+North America,,2017,3.48
+North Korea,PRK,1990,1.85
+North Korea,PRK,1991,1.84
+North Korea,PRK,1992,1.84
+North Korea,PRK,1993,1.84
+North Korea,PRK,1994,1.83
+North Korea,PRK,1995,1.84
+North Korea,PRK,1996,1.87
+North Korea,PRK,1997,1.9
+North Korea,PRK,1998,1.92
+North Korea,PRK,1999,1.95
+North Korea,PRK,2000,1.97
+North Korea,PRK,2001,1.99
+North Korea,PRK,2002,2.02
+North Korea,PRK,2003,2.04
+North Korea,PRK,2004,2.06
+North Korea,PRK,2005,2.07
+North Korea,PRK,2006,2.08
+North Korea,PRK,2007,2.09
+North Korea,PRK,2008,2.11
+North Korea,PRK,2009,2.12
+North Korea,PRK,2010,2.14
+North Korea,PRK,2011,2.15
+North Korea,PRK,2012,2.17
+North Korea,PRK,2013,2.18
+North Korea,PRK,2014,2.2
+North Korea,PRK,2015,2.22
+North Korea,PRK,2016,2.25
+North Korea,PRK,2017,2.27
+North Macedonia,MKD,1990,2.14
+North Macedonia,MKD,1991,2.13
+North Macedonia,MKD,1992,2.21
+North Macedonia,MKD,1993,2.28
+North Macedonia,MKD,1994,2.26
+North Macedonia,MKD,1995,2.36
+North Macedonia,MKD,1996,2.43
+North Macedonia,MKD,1997,2.38
+North Macedonia,MKD,1998,2.39
+North Macedonia,MKD,1999,2.59
+North Macedonia,MKD,2000,2.65
+North Macedonia,MKD,2001,2.89
+North Macedonia,MKD,2002,3.13
+North Macedonia,MKD,2003,3.04
+North Macedonia,MKD,2004,2.92
+North Macedonia,MKD,2005,2.95
+North Macedonia,MKD,2006,3.02
+North Macedonia,MKD,2007,2.92
+North Macedonia,MKD,2008,2.94
+North Macedonia,MKD,2009,3.2
+North Macedonia,MKD,2010,3.26
+North Macedonia,MKD,2011,3.19
+North Macedonia,MKD,2012,3.03
+North Macedonia,MKD,2013,3.21
+North Macedonia,MKD,2014,3.11
+North Macedonia,MKD,2015,2.93
+North Macedonia,MKD,2016,3.04
+North Macedonia,MKD,2017,3.14
+Northern Mariana Islands,MNP,1990,3.85
+Northern Mariana Islands,MNP,1991,4
+Northern Mariana Islands,MNP,1992,4.16
+Northern Mariana Islands,MNP,1993,4.29
+Northern Mariana Islands,MNP,1994,4.4
+Northern Mariana Islands,MNP,1995,4.49
+Northern Mariana Islands,MNP,1996,4.53
+Northern Mariana Islands,MNP,1997,4.55
+Northern Mariana Islands,MNP,1998,4.57
+Northern Mariana Islands,MNP,1999,4.69
+Northern Mariana Islands,MNP,2000,4.76
+Northern Mariana Islands,MNP,2001,4.98
+Northern Mariana Islands,MNP,2002,5.08
+Northern Mariana Islands,MNP,2003,5.22
+Northern Mariana Islands,MNP,2004,5.29
+Northern Mariana Islands,MNP,2005,5.46
+Northern Mariana Islands,MNP,2006,5.67
+Northern Mariana Islands,MNP,2007,5.92
+Northern Mariana Islands,MNP,2008,6.01
+Northern Mariana Islands,MNP,2009,6.18
+Northern Mariana Islands,MNP,2010,6.28
+Northern Mariana Islands,MNP,2011,6.37
+Northern Mariana Islands,MNP,2012,6.34
+Northern Mariana Islands,MNP,2013,6.34
+Northern Mariana Islands,MNP,2014,6.35
+Northern Mariana Islands,MNP,2015,6.18
+Northern Mariana Islands,MNP,2016,6.22
+Northern Mariana Islands,MNP,2017,6.23
+Norway,NOR,1990,2.83
+Norway,NOR,1991,2.8
+Norway,NOR,1992,2.82
+Norway,NOR,1993,2.8
+Norway,NOR,1994,2.64
+Norway,NOR,1995,2.77
+Norway,NOR,1996,2.63
+Norway,NOR,1997,2.62
+Norway,NOR,1998,2.81
+Norway,NOR,1999,2.86
+Norway,NOR,2000,2.99
+Norway,NOR,2001,2.94
+Norway,NOR,2002,2.86
+Norway,NOR,2003,2.77
+Norway,NOR,2004,2.57
+Norway,NOR,2005,2.5
+Norway,NOR,2006,2.64
+Norway,NOR,2007,2.56
+Norway,NOR,2008,2.66
+Norway,NOR,2009,2.67
+Norway,NOR,2010,2.62
+Norway,NOR,2011,2.79
+Norway,NOR,2012,2.81
+Norway,NOR,2013,2.69
+Norway,NOR,2014,2.65
+Norway,NOR,2015,2.45
+Norway,NOR,2016,2.44
+Norway,NOR,2017,2.47
+Oman,OMN,1990,2.68
+Oman,OMN,1991,2.76
+Oman,OMN,1992,2.84
+Oman,OMN,1993,2.95
+Oman,OMN,1994,3.01
+Oman,OMN,1995,3.07
+Oman,OMN,1996,3.11
+Oman,OMN,1997,3.13
+Oman,OMN,1998,3.15
+Oman,OMN,1999,3.19
+Oman,OMN,2000,3.22
+Oman,OMN,2001,3.27
+Oman,OMN,2002,3.29
+Oman,OMN,2003,3.3
+Oman,OMN,2004,3.31
+Oman,OMN,2005,3.29
+Oman,OMN,2006,3.29
+Oman,OMN,2007,3.38
+Oman,OMN,2008,3.45
+Oman,OMN,2009,3.43
+Oman,OMN,2010,3.55
+Oman,OMN,2011,3.66
+Oman,OMN,2012,3.63
+Oman,OMN,2013,3.48
+Oman,OMN,2014,3.42
+Oman,OMN,2015,3.37
+Oman,OMN,2016,3.19
+Oman,OMN,2017,3.21
+Pakistan,PAK,1990,0.95
+Pakistan,PAK,1991,0.9
+Pakistan,PAK,1992,0.83
+Pakistan,PAK,1993,0.82
+Pakistan,PAK,1994,0.79
+Pakistan,PAK,1995,0.74
+Pakistan,PAK,1996,0.75
+Pakistan,PAK,1997,0.77
+Pakistan,PAK,1998,0.74
+Pakistan,PAK,1999,0.73
+Pakistan,PAK,2000,0.72
+Pakistan,PAK,2001,0.72
+Pakistan,PAK,2002,0.72
+Pakistan,PAK,2003,0.72
+Pakistan,PAK,2004,0.74
+Pakistan,PAK,2005,0.76
+Pakistan,PAK,2006,0.8
+Pakistan,PAK,2007,0.84
+Pakistan,PAK,2008,0.88
+Pakistan,PAK,2009,0.91
+Pakistan,PAK,2010,0.94
+Pakistan,PAK,2011,0.95
+Pakistan,PAK,2012,0.96
+Pakistan,PAK,2013,0.97
+Pakistan,PAK,2014,0.98
+Pakistan,PAK,2015,1
+Pakistan,PAK,2016,1.01
+Pakistan,PAK,2017,1.02
+Palestine,PSE,1990,3.14
+Palestine,PSE,1991,3.2
+Palestine,PSE,1992,3.25
+Palestine,PSE,1993,3.32
+Palestine,PSE,1994,3.38
+Palestine,PSE,1995,3.45
+Palestine,PSE,1996,3.4
+Palestine,PSE,1997,3.37
+Palestine,PSE,1998,3.36
+Palestine,PSE,1999,3.37
+Palestine,PSE,2000,3.36
+Palestine,PSE,2001,3.5
+Palestine,PSE,2002,3.6
+Palestine,PSE,2003,3.67
+Palestine,PSE,2004,3.72
+Palestine,PSE,2005,3.73
+Palestine,PSE,2006,3.75
+Palestine,PSE,2007,3.75
+Palestine,PSE,2008,3.7
+Palestine,PSE,2009,3.63
+Palestine,PSE,2010,3.55
+Palestine,PSE,2011,3.51
+Palestine,PSE,2012,3.49
+Palestine,PSE,2013,3.52
+Palestine,PSE,2014,3.45
+Palestine,PSE,2015,3.43
+Palestine,PSE,2016,3.47
+Palestine,PSE,2017,3.52
+Panama,PAN,1990,5.9
+Panama,PAN,1991,6.26
+Panama,PAN,1992,6.08
+Panama,PAN,1993,6.76
+Panama,PAN,1994,6.99
+Panama,PAN,1995,6.93
+Panama,PAN,1996,6.39
+Panama,PAN,1997,5.99
+Panama,PAN,1998,5.83
+Panama,PAN,1999,6.4
+Panama,PAN,2000,6.08
+Panama,PAN,2001,6.17
+Panama,PAN,2002,6.09
+Panama,PAN,2003,6.2
+Panama,PAN,2004,5.56
+Panama,PAN,2005,5.97
+Panama,PAN,2006,6.29
+Panama,PAN,2007,5.98
+Panama,PAN,2008,6
+Panama,PAN,2009,6.16
+Panama,PAN,2010,5.85
+Panama,PAN,2011,5.75
+Panama,PAN,2012,5.93
+Panama,PAN,2013,5.76
+Panama,PAN,2014,5.63
+Panama,PAN,2015,5.33
+Panama,PAN,2016,5.32
+Panama,PAN,2017,5.59
+Papua New Guinea,PNG,1990,3.05
+Papua New Guinea,PNG,1991,3.05
+Papua New Guinea,PNG,1992,3.04
+Papua New Guinea,PNG,1993,3.03
+Papua New Guinea,PNG,1994,3.02
+Papua New Guinea,PNG,1995,3.01
+Papua New Guinea,PNG,1996,3.01
+Papua New Guinea,PNG,1997,3.01
+Papua New Guinea,PNG,1998,3.01
+Papua New Guinea,PNG,1999,3.02
+Papua New Guinea,PNG,2000,3.02
+Papua New Guinea,PNG,2001,3.04
+Papua New Guinea,PNG,2002,3.05
+Papua New Guinea,PNG,2003,3.07
+Papua New Guinea,PNG,2004,3.08
+Papua New Guinea,PNG,2005,3.08
+Papua New Guinea,PNG,2006,3.09
+Papua New Guinea,PNG,2007,3.11
+Papua New Guinea,PNG,2008,3.13
+Papua New Guinea,PNG,2009,3.13
+Papua New Guinea,PNG,2010,3.15
+Papua New Guinea,PNG,2011,3.16
+Papua New Guinea,PNG,2012,3.18
+Papua New Guinea,PNG,2013,3.2
+Papua New Guinea,PNG,2014,3.21
+Papua New Guinea,PNG,2015,3.22
+Papua New Guinea,PNG,2016,3.22
+Papua New Guinea,PNG,2017,3.22
+Paraguay,PRY,1990,2.55
+Paraguay,PRY,1991,2.38
+Paraguay,PRY,1992,2.59
+Paraguay,PRY,1993,2.44
+Paraguay,PRY,1994,2.54
+Paraguay,PRY,1995,2.71
+Paraguay,PRY,1996,2.67
+Paraguay,PRY,1997,2.6
+Paraguay,PRY,1998,2.56
+Paraguay,PRY,1999,2.58
+Paraguay,PRY,2000,2.58
+Paraguay,PRY,2001,2.59
+Paraguay,PRY,2002,2.62
+Paraguay,PRY,2003,2.61
+Paraguay,PRY,2004,2.47
+Paraguay,PRY,2005,2.52
+Paraguay,PRY,2006,2.6
+Paraguay,PRY,2007,2.73
+Paraguay,PRY,2008,2.76
+Paraguay,PRY,2009,2.81
+Paraguay,PRY,2010,2.83
+Paraguay,PRY,2011,2.78
+Paraguay,PRY,2012,2.75
+Paraguay,PRY,2013,2.74
+Paraguay,PRY,2014,2.87
+Paraguay,PRY,2015,2.94
+Paraguay,PRY,2016,2.94
+Paraguay,PRY,2017,2.95
+Peru,PER,1990,2.34
+Peru,PER,1991,2.23
+Peru,PER,1992,2.16
+Peru,PER,1993,2.16
+Peru,PER,1994,2.04
+Peru,PER,1995,2.03
+Peru,PER,1996,2.2
+Peru,PER,1997,2.26
+Peru,PER,1998,2.29
+Peru,PER,1999,2.46
+Peru,PER,2000,2.53
+Peru,PER,2001,2.58
+Peru,PER,2002,2.61
+Peru,PER,2003,2.57
+Peru,PER,2004,2.66
+Peru,PER,2005,2.66
+Peru,PER,2006,2.72
+Peru,PER,2007,2.8
+Peru,PER,2008,2.82
+Peru,PER,2009,2.84
+Peru,PER,2010,2.88
+Peru,PER,2011,2.88
+Peru,PER,2012,2.91
+Peru,PER,2013,3.01
+Peru,PER,2014,3.07
+Peru,PER,2015,3.09
+Peru,PER,2016,3.1
+Peru,PER,2017,3.16
+Philippines,PHL,1990,3.6
+Philippines,PHL,1991,3.54
+Philippines,PHL,1992,3.14
+Philippines,PHL,1993,2.91
+Philippines,PHL,1994,2.81
+Philippines,PHL,1995,2.8
+Philippines,PHL,1996,2.73
+Philippines,PHL,1997,2.53
+Philippines,PHL,1998,2.59
+Philippines,PHL,1999,2.65
+Philippines,PHL,2000,2.53
+Philippines,PHL,2001,2.53
+Philippines,PHL,2002,2.55
+Philippines,PHL,2003,2.57
+Philippines,PHL,2004,2.68
+Philippines,PHL,2005,2.65
+Philippines,PHL,2006,2.67
+Philippines,PHL,2007,2.71
+Philippines,PHL,2008,2.76
+Philippines,PHL,2009,2.78
+Philippines,PHL,2010,2.81
+Philippines,PHL,2011,2.83
+Philippines,PHL,2012,2.86
+Philippines,PHL,2013,2.9
+Philippines,PHL,2014,2.97
+Philippines,PHL,2015,3.02
+Philippines,PHL,2016,3.06
+Philippines,PHL,2017,3.09
+Poland,POL,1990,5.39
+Poland,POL,1991,5.53
+Poland,POL,1992,5.54
+Poland,POL,1993,5.5
+Poland,POL,1994,5.58
+Poland,POL,1995,5.75
+Poland,POL,1996,5.73
+Poland,POL,1997,5.88
+Poland,POL,1998,5.97
+Poland,POL,1999,6.02
+Poland,POL,2000,5.82
+Poland,POL,2001,6.07
+Poland,POL,2002,6.1
+Poland,POL,2003,6.19
+Poland,POL,2004,6.42
+Poland,POL,2005,6.48
+Poland,POL,2006,6.57
+Poland,POL,2007,6.64
+Poland,POL,2008,6.8
+Poland,POL,2009,6.8
+Poland,POL,2010,7.21
+Poland,POL,2011,7.34
+Poland,POL,2012,7.34
+Poland,POL,2013,7.32
+Poland,POL,2014,7.19
+Poland,POL,2015,7.41
+Poland,POL,2016,7.45
+Poland,POL,2017,7.44
+Portugal,PRT,1990,3.32
+Portugal,PRT,1991,3.45
+Portugal,PRT,1992,3.58
+Portugal,PRT,1993,3.5
+Portugal,PRT,1994,3.61
+Portugal,PRT,1995,3.74
+Portugal,PRT,1996,3.87
+Portugal,PRT,1997,3.68
+Portugal,PRT,1998,3.83
+Portugal,PRT,1999,3.93
+Portugal,PRT,2000,3.95
+Portugal,PRT,2001,3.98
+Portugal,PRT,2002,4.03
+Portugal,PRT,2003,3.97
+Portugal,PRT,2004,4.11
+Portugal,PRT,2005,4.34
+Portugal,PRT,2006,4.38
+Portugal,PRT,2007,4.01
+Portugal,PRT,2008,3.96
+Portugal,PRT,2009,3.88
+Portugal,PRT,2010,3.88
+Portugal,PRT,2011,4.06
+Portugal,PRT,2012,4.22
+Portugal,PRT,2013,4.19
+Portugal,PRT,2014,4.16
+Portugal,PRT,2015,4.37
+Portugal,PRT,2016,4.31
+Portugal,PRT,2017,4.33
+Puerto Rico,PRI,1990,8.36
+Puerto Rico,PRI,1991,8.59
+Puerto Rico,PRI,1992,8.79
+Puerto Rico,PRI,1993,9.14
+Puerto Rico,PRI,1994,9.75
+Puerto Rico,PRI,1995,9.64
+Puerto Rico,PRI,1996,9.89
+Puerto Rico,PRI,1997,10.56
+Puerto Rico,PRI,1998,10.05
+Puerto Rico,PRI,1999,9.4
+Puerto Rico,PRI,2000,9.41
+Puerto Rico,PRI,2001,9.38
+Puerto Rico,PRI,2002,8.99
+Puerto Rico,PRI,2003,8.85
+Puerto Rico,PRI,2004,8.66
+Puerto Rico,PRI,2005,8.55
+Puerto Rico,PRI,2006,8.81
+Puerto Rico,PRI,2007,7.95
+Puerto Rico,PRI,2008,7.49
+Puerto Rico,PRI,2009,7.83
+Puerto Rico,PRI,2010,7.3
+Puerto Rico,PRI,2011,6.93
+Puerto Rico,PRI,2012,6.95
+Puerto Rico,PRI,2013,6.76
+Puerto Rico,PRI,2014,6.66
+Puerto Rico,PRI,2015,7.33
+Puerto Rico,PRI,2016,7
+Puerto Rico,PRI,2017,6.94
+Qatar,QAT,1990,3.04
+Qatar,QAT,1991,3.09
+Qatar,QAT,1992,3.19
+Qatar,QAT,1993,3.26
+Qatar,QAT,1994,3.37
+Qatar,QAT,1995,3.56
+Qatar,QAT,1996,3.51
+Qatar,QAT,1997,3.43
+Qatar,QAT,1998,3.32
+Qatar,QAT,1999,3.25
+Qatar,QAT,2000,3.22
+Qatar,QAT,2001,3.15
+Qatar,QAT,2002,3.58
+Qatar,QAT,2003,3.87
+Qatar,QAT,2004,4.16
+Qatar,QAT,2005,4.2
+Qatar,QAT,2006,4.14
+Qatar,QAT,2007,4.31
+Qatar,QAT,2008,4.52
+Qatar,QAT,2009,4.72
+Qatar,QAT,2010,4.94
+Qatar,QAT,2011,4.92
+Qatar,QAT,2012,4.98
+Qatar,QAT,2013,5.16
+Qatar,QAT,2014,5.22
+Qatar,QAT,2015,5.04
+Qatar,QAT,2016,5.11
+Qatar,QAT,2017,5.14
+Romania,ROU,1990,3.68
+Romania,ROU,1991,3.75
+Romania,ROU,1992,4.01
+Romania,ROU,1993,4.15
+Romania,ROU,1994,4.37
+Romania,ROU,1995,4.63
+Romania,ROU,1996,4.82
+Romania,ROU,1997,5.06
+Romania,ROU,1998,5.03
+Romania,ROU,1999,5
+Romania,ROU,2000,5.14
+Romania,ROU,2001,5.4
+Romania,ROU,2002,5.34
+Romania,ROU,2003,5.3
+Romania,ROU,2004,5.35
+Romania,ROU,2005,5.14
+Romania,ROU,2006,5.21
+Romania,ROU,2007,5.34
+Romania,ROU,2008,5.58
+Romania,ROU,2009,5.78
+Romania,ROU,2010,5.92
+Romania,ROU,2011,5.99
+Romania,ROU,2012,6.11
+Romania,ROU,2013,6.01
+Romania,ROU,2014,6.2
+Romania,ROU,2015,6.21
+Romania,ROU,2016,6.21
+Romania,ROU,2017,6.29
+Russia,RUS,1990,4.93
+Russia,RUS,1991,5.05
+Russia,RUS,1992,5.37
+Russia,RUS,1993,5.57
+Russia,RUS,1994,5.72
+Russia,RUS,1995,5.78
+Russia,RUS,1996,5.87
+Russia,RUS,1997,5.81
+Russia,RUS,1998,5.91
+Russia,RUS,1999,6.01
+Russia,RUS,2000,6.23
+Russia,RUS,2001,6.17
+Russia,RUS,2002,6.06
+Russia,RUS,2003,5.99
+Russia,RUS,2004,6.03
+Russia,RUS,2005,6.06
+Russia,RUS,2006,6
+Russia,RUS,2007,5.89
+Russia,RUS,2008,5.84
+Russia,RUS,2009,5.76
+Russia,RUS,2010,5.8
+Russia,RUS,2011,5.66
+Russia,RUS,2012,5.67
+Russia,RUS,2013,5.73
+Russia,RUS,2014,5.73
+Russia,RUS,2015,5.6
+Russia,RUS,2016,5.63
+Russia,RUS,2017,5.71
+Rwanda,RWA,1990,1.97
+Rwanda,RWA,1991,1.95
+Rwanda,RWA,1992,1.99
+Rwanda,RWA,1993,2.02
+Rwanda,RWA,1994,2.02
+Rwanda,RWA,1995,2
+Rwanda,RWA,1996,2.05
+Rwanda,RWA,1997,2.12
+Rwanda,RWA,1998,2.18
+Rwanda,RWA,1999,2.22
+Rwanda,RWA,2000,2.29
+Rwanda,RWA,2001,2.39
+Rwanda,RWA,2002,2.49
+Rwanda,RWA,2003,2.58
+Rwanda,RWA,2004,2.7
+Rwanda,RWA,2005,2.83
+Rwanda,RWA,2006,3.04
+Rwanda,RWA,2007,3.25
+Rwanda,RWA,2008,3.42
+Rwanda,RWA,2009,3.58
+Rwanda,RWA,2010,3.73
+Rwanda,RWA,2011,3.74
+Rwanda,RWA,2012,3.73
+Rwanda,RWA,2013,3.72
+Rwanda,RWA,2014,3.7
+Rwanda,RWA,2015,3.71
+Rwanda,RWA,2016,3.7
+Rwanda,RWA,2017,3.69
+Saint Lucia,LCA,1990,4.62
+Saint Lucia,LCA,1991,4.69
+Saint Lucia,LCA,1992,4.94
+Saint Lucia,LCA,1993,5.06
+Saint Lucia,LCA,1994,5.27
+Saint Lucia,LCA,1995,5.54
+Saint Lucia,LCA,1996,5.91
+Saint Lucia,LCA,1997,6.6
+Saint Lucia,LCA,1998,6.99
+Saint Lucia,LCA,1999,7.24
+Saint Lucia,LCA,2000,7.33
+Saint Lucia,LCA,2001,7.11
+Saint Lucia,LCA,2002,7.34
+Saint Lucia,LCA,2003,7.94
+Saint Lucia,LCA,2004,8.39
+Saint Lucia,LCA,2005,8.48
+Saint Lucia,LCA,2006,8.64
+Saint Lucia,LCA,2007,8.38
+Saint Lucia,LCA,2008,8.13
+Saint Lucia,LCA,2009,8.23
+Saint Lucia,LCA,2010,8.12
+Saint Lucia,LCA,2011,8.12
+Saint Lucia,LCA,2012,8.08
+Saint Lucia,LCA,2013,8.16
+Saint Lucia,LCA,2014,8.19
+Saint Lucia,LCA,2015,8.27
+Saint Lucia,LCA,2016,8.42
+Saint Lucia,LCA,2017,8.5
+Saint Vincent and the Grenadines,VCT,1990,5.07
+Saint Vincent and the Grenadines,VCT,1991,5.1
+Saint Vincent and the Grenadines,VCT,1992,5.15
+Saint Vincent and the Grenadines,VCT,1993,5.24
+Saint Vincent and the Grenadines,VCT,1994,5.44
+Saint Vincent and the Grenadines,VCT,1995,5.44
+Saint Vincent and the Grenadines,VCT,1996,5.37
+Saint Vincent and the Grenadines,VCT,1997,5.32
+Saint Vincent and the Grenadines,VCT,1998,5.31
+Saint Vincent and the Grenadines,VCT,1999,5.72
+Saint Vincent and the Grenadines,VCT,2000,6.28
+Saint Vincent and the Grenadines,VCT,2001,6.96
+Saint Vincent and the Grenadines,VCT,2002,7.39
+Saint Vincent and the Grenadines,VCT,2003,7.89
+Saint Vincent and the Grenadines,VCT,2004,7.85
+Saint Vincent and the Grenadines,VCT,2005,7.94
+Saint Vincent and the Grenadines,VCT,2006,7.93
+Saint Vincent and the Grenadines,VCT,2007,7.85
+Saint Vincent and the Grenadines,VCT,2008,7.66
+Saint Vincent and the Grenadines,VCT,2009,7.62
+Saint Vincent and the Grenadines,VCT,2010,7.76
+Saint Vincent and the Grenadines,VCT,2011,7.79
+Saint Vincent and the Grenadines,VCT,2012,7.64
+Saint Vincent and the Grenadines,VCT,2013,7.56
+Saint Vincent and the Grenadines,VCT,2014,7.61
+Saint Vincent and the Grenadines,VCT,2015,7.76
+Saint Vincent and the Grenadines,VCT,2016,7.79
+Saint Vincent and the Grenadines,VCT,2017,7.98
+Samoa,WSM,1990,3.3
+Samoa,WSM,1991,3.26
+Samoa,WSM,1992,3.24
+Samoa,WSM,1993,3.22
+Samoa,WSM,1994,3.22
+Samoa,WSM,1995,3.2
+Samoa,WSM,1996,3.21
+Samoa,WSM,1997,3.18
+Samoa,WSM,1998,3.17
+Samoa,WSM,1999,3.16
+Samoa,WSM,2000,3.16
+Samoa,WSM,2001,3.15
+Samoa,WSM,2002,3.14
+Samoa,WSM,2003,3.11
+Samoa,WSM,2004,3.09
+Samoa,WSM,2005,3.06
+Samoa,WSM,2006,3.09
+Samoa,WSM,2007,3.07
+Samoa,WSM,2008,3
+Samoa,WSM,2009,3
+Samoa,WSM,2010,2.94
+Samoa,WSM,2011,2.86
+Samoa,WSM,2012,2.85
+Samoa,WSM,2013,2.86
+Samoa,WSM,2014,2.87
+Samoa,WSM,2015,2.88
+Samoa,WSM,2016,2.89
+Samoa,WSM,2017,2.9
+Sao Tome and Principe,STP,1990,2.2
+Sao Tome and Principe,STP,1991,2.17
+Sao Tome and Principe,STP,1992,2.17
+Sao Tome and Principe,STP,1993,2.15
+Sao Tome and Principe,STP,1994,2.1
+Sao Tome and Principe,STP,1995,2.09
+Sao Tome and Principe,STP,1996,2.05
+Sao Tome and Principe,STP,1997,2.04
+Sao Tome and Principe,STP,1998,2.06
+Sao Tome and Principe,STP,1999,2.03
+Sao Tome and Principe,STP,2000,2.01
+Sao Tome and Principe,STP,2001,2.04
+Sao Tome and Principe,STP,2002,2.06
+Sao Tome and Principe,STP,2003,2.17
+Sao Tome and Principe,STP,2004,2.22
+Sao Tome and Principe,STP,2005,2.29
+Sao Tome and Principe,STP,2006,2.34
+Sao Tome and Principe,STP,2007,2.35
+Sao Tome and Principe,STP,2008,2.43
+Sao Tome and Principe,STP,2009,2.47
+Sao Tome and Principe,STP,2010,2.47
+Sao Tome and Principe,STP,2011,2.49
+Sao Tome and Principe,STP,2012,2.55
+Sao Tome and Principe,STP,2013,2.56
+Sao Tome and Principe,STP,2014,2.56
+Sao Tome and Principe,STP,2015,2.57
+Sao Tome and Principe,STP,2016,2.59
+Sao Tome and Principe,STP,2017,2.58
+Saudi Arabia,SAU,1990,3.67
+Saudi Arabia,SAU,1991,3.74
+Saudi Arabia,SAU,1992,3.82
+Saudi Arabia,SAU,1993,3.9
+Saudi Arabia,SAU,1994,3.99
+Saudi Arabia,SAU,1995,4.08
+Saudi Arabia,SAU,1996,4.12
+Saudi Arabia,SAU,1997,4.26
+Saudi Arabia,SAU,1998,4.32
+Saudi Arabia,SAU,1999,4.38
+Saudi Arabia,SAU,2000,4.39
+Saudi Arabia,SAU,2001,4.38
+Saudi Arabia,SAU,2002,4.32
+Saudi Arabia,SAU,2003,4.43
+Saudi Arabia,SAU,2004,4.5
+Saudi Arabia,SAU,2005,4.62
+Saudi Arabia,SAU,2006,4.71
+Saudi Arabia,SAU,2007,4.78
+Saudi Arabia,SAU,2008,4.81
+Saudi Arabia,SAU,2009,4.89
+Saudi Arabia,SAU,2010,5
+Saudi Arabia,SAU,2011,5.08
+Saudi Arabia,SAU,2012,5.12
+Saudi Arabia,SAU,2013,5.07
+Saudi Arabia,SAU,2014,5.1
+Saudi Arabia,SAU,2015,5.09
+Saudi Arabia,SAU,2016,5.07
+Saudi Arabia,SAU,2017,5.09
+Senegal,SEN,1990,3.76
+Senegal,SEN,1991,3.68
+Senegal,SEN,1992,3.65
+Senegal,SEN,1993,3.65
+Senegal,SEN,1994,3.62
+Senegal,SEN,1995,3.59
+Senegal,SEN,1996,3.62
+Senegal,SEN,1997,3.65
+Senegal,SEN,1998,3.69
+Senegal,SEN,1999,3.76
+Senegal,SEN,2000,3.78
+Senegal,SEN,2001,3.79
+Senegal,SEN,2002,3.81
+Senegal,SEN,2003,3.85
+Senegal,SEN,2004,3.89
+Senegal,SEN,2005,3.93
+Senegal,SEN,2006,3.96
+Senegal,SEN,2007,4.02
+Senegal,SEN,2008,4.03
+Senegal,SEN,2009,4.06
+Senegal,SEN,2010,4.08
+Senegal,SEN,2011,4.1
+Senegal,SEN,2012,4.12
+Senegal,SEN,2013,4.14
+Senegal,SEN,2014,4.13
+Senegal,SEN,2015,4.12
+Senegal,SEN,2016,4.13
+Senegal,SEN,2017,4.14
+Serbia,SRB,1990,2.92
+Serbia,SRB,1991,3.13
+Serbia,SRB,1992,2.92
+Serbia,SRB,1993,2.87
+Serbia,SRB,1994,2.82
+Serbia,SRB,1995,2.74
+Serbia,SRB,1996,2.7
+Serbia,SRB,1997,2.67
+Serbia,SRB,1998,2.89
+Serbia,SRB,1999,2.84
+Serbia,SRB,2000,3.02
+Serbia,SRB,2001,3.03
+Serbia,SRB,2002,3.11
+Serbia,SRB,2003,3.12
+Serbia,SRB,2004,3.14
+Serbia,SRB,2005,3.06
+Serbia,SRB,2006,3.13
+Serbia,SRB,2007,3.22
+Serbia,SRB,2008,3.25
+Serbia,SRB,2009,3.31
+Serbia,SRB,2010,3.45
+Serbia,SRB,2011,3.52
+Serbia,SRB,2012,3.46
+Serbia,SRB,2013,3.52
+Serbia,SRB,2014,3.48
+Serbia,SRB,2015,3.53
+Serbia,SRB,2016,3.45
+Serbia,SRB,2017,3.42
+Seychelles,SYC,1990,6.38
+Seychelles,SYC,1991,6.71
+Seychelles,SYC,1992,7
+Seychelles,SYC,1993,7.23
+Seychelles,SYC,1994,7.44
+Seychelles,SYC,1995,7.59
+Seychelles,SYC,1996,7.46
+Seychelles,SYC,1997,7.43
+Seychelles,SYC,1998,7.33
+Seychelles,SYC,1999,7.22
+Seychelles,SYC,2000,7.28
+Seychelles,SYC,2001,7.06
+Seychelles,SYC,2002,6.74
+Seychelles,SYC,2003,6.45
+Seychelles,SYC,2004,6.19
+Seychelles,SYC,2005,5.88
+Seychelles,SYC,2006,5.68
+Seychelles,SYC,2007,5.66
+Seychelles,SYC,2008,5.69
+Seychelles,SYC,2009,5.69
+Seychelles,SYC,2010,5.57
+Seychelles,SYC,2011,5.6
+Seychelles,SYC,2012,5.49
+Seychelles,SYC,2013,5.42
+Seychelles,SYC,2014,5.44
+Seychelles,SYC,2015,5.57
+Seychelles,SYC,2016,5.69
+Seychelles,SYC,2017,5.78
+Sierra Leone,SLE,1990,2.33
+Sierra Leone,SLE,1991,2.35
+Sierra Leone,SLE,1992,2.37
+Sierra Leone,SLE,1993,2.38
+Sierra Leone,SLE,1994,2.35
+Sierra Leone,SLE,1995,2.33
+Sierra Leone,SLE,1996,2.29
+Sierra Leone,SLE,1997,2.24
+Sierra Leone,SLE,1998,2.22
+Sierra Leone,SLE,1999,2.18
+Sierra Leone,SLE,2000,2.16
+Sierra Leone,SLE,2001,2.14
+Sierra Leone,SLE,2002,2.1
+Sierra Leone,SLE,2003,2.09
+Sierra Leone,SLE,2004,2.05
+Sierra Leone,SLE,2005,2.04
+Sierra Leone,SLE,2006,2.03
+Sierra Leone,SLE,2007,2
+Sierra Leone,SLE,2008,1.98
+Sierra Leone,SLE,2009,1.97
+Sierra Leone,SLE,2010,1.96
+Sierra Leone,SLE,2011,1.95
+Sierra Leone,SLE,2012,1.96
+Sierra Leone,SLE,2013,1.97
+Sierra Leone,SLE,2014,1.97
+Sierra Leone,SLE,2015,1.99
+Sierra Leone,SLE,2016,2
+Sierra Leone,SLE,2017,2.01
+Singapore,SGP,1990,1.7
+Singapore,SGP,1991,1.86
+Singapore,SGP,1992,1.88
+Singapore,SGP,1993,1.83
+Singapore,SGP,1994,1.87
+Singapore,SGP,1995,1.95
+Singapore,SGP,1996,2.1
+Singapore,SGP,1997,2.02
+Singapore,SGP,1998,1.94
+Singapore,SGP,1999,1.95
+Singapore,SGP,2000,1.97
+Singapore,SGP,2001,1.92
+Singapore,SGP,2002,1.97
+Singapore,SGP,2003,1.95
+Singapore,SGP,2004,1.81
+Singapore,SGP,2005,1.96
+Singapore,SGP,2006,1.85
+Singapore,SGP,2007,1.98
+Singapore,SGP,2008,2.06
+Singapore,SGP,2009,2.09
+Singapore,SGP,2010,2.1
+Singapore,SGP,2011,2.12
+Singapore,SGP,2012,2.02
+Singapore,SGP,2013,2.22
+Singapore,SGP,2014,2.17
+Singapore,SGP,2015,2.08
+Singapore,SGP,2016,2.12
+Singapore,SGP,2017,2.18
+Slovakia,SVK,1990,5.12
+Slovakia,SVK,1991,5.09
+Slovakia,SVK,1992,5.41
+Slovakia,SVK,1993,5.32
+Slovakia,SVK,1994,5.36
+Slovakia,SVK,1995,5.41
+Slovakia,SVK,1996,5.51
+Slovakia,SVK,1997,5.32
+Slovakia,SVK,1998,5.67
+Slovakia,SVK,1999,5.56
+Slovakia,SVK,2000,5.67
+Slovakia,SVK,2001,5.52
+Slovakia,SVK,2002,5.9
+Slovakia,SVK,2003,5.93
+Slovakia,SVK,2004,5.7
+Slovakia,SVK,2005,5.97
+Slovakia,SVK,2006,6.08
+Slovakia,SVK,2007,6
+Slovakia,SVK,2008,6.54
+Slovakia,SVK,2009,6.24
+Slovakia,SVK,2010,6.35
+Slovakia,SVK,2011,6.27
+Slovakia,SVK,2012,6.39
+Slovakia,SVK,2013,6.19
+Slovakia,SVK,2014,6.29
+Slovakia,SVK,2015,6.25
+Slovakia,SVK,2016,5.91
+Slovakia,SVK,2017,5.76
+Slovenia,SVN,1990,3.68
+Slovenia,SVN,1991,3.66
+Slovenia,SVN,1992,3.71
+Slovenia,SVN,1993,3.88
+Slovenia,SVN,1994,3.75
+Slovenia,SVN,1995,3.66
+Slovenia,SVN,1996,3.68
+Slovenia,SVN,1997,4.14
+Slovenia,SVN,1998,3.98
+Slovenia,SVN,1999,3.66
+Slovenia,SVN,2000,3.74
+Slovenia,SVN,2001,4.09
+Slovenia,SVN,2002,4.14
+Slovenia,SVN,2003,4.04
+Slovenia,SVN,2004,3.66
+Slovenia,SVN,2005,3.9
+Slovenia,SVN,2006,4.52
+Slovenia,SVN,2007,4.45
+Slovenia,SVN,2008,4.59
+Slovenia,SVN,2009,4.56
+Slovenia,SVN,2010,4.75
+Slovenia,SVN,2011,4.6
+Slovenia,SVN,2012,4.64
+Slovenia,SVN,2013,4.77
+Slovenia,SVN,2014,4.98
+Slovenia,SVN,2015,5.14
+Slovenia,SVN,2016,5.24
+Slovenia,SVN,2017,5.28
+Solomon Islands,SLB,1990,2.59
+Solomon Islands,SLB,1991,2.58
+Solomon Islands,SLB,1992,2.56
+Solomon Islands,SLB,1993,2.55
+Solomon Islands,SLB,1994,2.53
+Solomon Islands,SLB,1995,2.51
+Solomon Islands,SLB,1996,2.5
+Solomon Islands,SLB,1997,2.5
+Solomon Islands,SLB,1998,2.49
+Solomon Islands,SLB,1999,2.49
+Solomon Islands,SLB,2000,2.51
+Solomon Islands,SLB,2001,2.53
+Solomon Islands,SLB,2002,2.55
+Solomon Islands,SLB,2003,2.58
+Solomon Islands,SLB,2004,2.6
+Solomon Islands,SLB,2005,2.61
+Solomon Islands,SLB,2006,2.61
+Solomon Islands,SLB,2007,2.61
+Solomon Islands,SLB,2008,2.61
+Solomon Islands,SLB,2009,2.62
+Solomon Islands,SLB,2010,2.62
+Solomon Islands,SLB,2011,2.62
+Solomon Islands,SLB,2012,2.63
+Solomon Islands,SLB,2013,2.64
+Solomon Islands,SLB,2014,2.65
+Solomon Islands,SLB,2015,2.66
+Solomon Islands,SLB,2016,2.67
+Solomon Islands,SLB,2017,2.68
+Somalia,SOM,1990,2.17
+Somalia,SOM,1991,2.2
+Somalia,SOM,1992,2.25
+Somalia,SOM,1993,2.3
+Somalia,SOM,1994,2.33
+Somalia,SOM,1995,2.37
+Somalia,SOM,1996,2.4
+Somalia,SOM,1997,2.42
+Somalia,SOM,1998,2.44
+Somalia,SOM,1999,2.44
+Somalia,SOM,2000,2.45
+Somalia,SOM,2001,2.48
+Somalia,SOM,2002,2.5
+Somalia,SOM,2003,2.53
+Somalia,SOM,2004,2.57
+Somalia,SOM,2005,2.6
+Somalia,SOM,2006,2.64
+Somalia,SOM,2007,2.67
+Somalia,SOM,2008,2.69
+Somalia,SOM,2009,2.71
+Somalia,SOM,2010,2.74
+Somalia,SOM,2011,2.75
+Somalia,SOM,2012,2.76
+Somalia,SOM,2013,2.76
+Somalia,SOM,2014,2.77
+Somalia,SOM,2015,2.78
+Somalia,SOM,2016,2.8
+Somalia,SOM,2017,2.81
+South Africa,ZAF,1990,2.7
+South Africa,ZAF,1991,2.89
+South Africa,ZAF,1992,2.81
+South Africa,ZAF,1993,3.11
+South Africa,ZAF,1994,3.08
+South Africa,ZAF,1995,3.46
+South Africa,ZAF,1996,3.43
+South Africa,ZAF,1997,3.29
+South Africa,ZAF,1998,3.22
+South Africa,ZAF,1999,3.05
+South Africa,ZAF,2000,2.81
+South Africa,ZAF,2001,2.74
+South Africa,ZAF,2002,2.61
+South Africa,ZAF,2003,2.52
+South Africa,ZAF,2004,2.48
+South Africa,ZAF,2005,2.53
+South Africa,ZAF,2006,2.65
+South Africa,ZAF,2007,2.8
+South Africa,ZAF,2008,2.94
+South Africa,ZAF,2009,3.09
+South Africa,ZAF,2010,3.23
+South Africa,ZAF,2011,3.39
+South Africa,ZAF,2012,3.55
+South Africa,ZAF,2013,3.69
+South Africa,ZAF,2014,3.79
+South Africa,ZAF,2015,3.86
+South Africa,ZAF,2016,3.97
+South Africa,ZAF,2017,4.14
+South Asia,,1990,1.1
+South Asia,,1991,1.08
+South Asia,,1992,1.05
+South Asia,,1993,1.07
+South Asia,,1994,1.1
+South Asia,,1995,1.11
+South Asia,,1996,1.12
+South Asia,,1997,1.14
+South Asia,,1998,1.15
+South Asia,,1999,1.13
+South Asia,,2000,1.12
+South Asia,,2001,1.12
+South Asia,,2002,1.15
+South Asia,,2003,1.18
+South Asia,,2004,1.18
+South Asia,,2005,1.19
+South Asia,,2006,1.24
+South Asia,,2007,1.31
+South Asia,,2008,1.37
+South Asia,,2009,1.41
+South Asia,,2010,1.4
+South Asia,,2011,1.39
+South Asia,,2012,1.42
+South Asia,,2013,1.42
+South Asia,,2014,1.37
+South Asia,,2015,1.37
+South Asia,,2016,1.37
+South Asia,,2017,1.37
+South Korea,KOR,1990,2.46
+South Korea,KOR,1991,2.43
+South Korea,KOR,1992,2.39
+South Korea,KOR,1993,2.39
+South Korea,KOR,1994,2.4
+South Korea,KOR,1995,2.38
+South Korea,KOR,1996,2.42
+South Korea,KOR,1997,2.43
+South Korea,KOR,1998,2.52
+South Korea,KOR,1999,2.54
+South Korea,KOR,2000,2.56
+South Korea,KOR,2001,2.54
+South Korea,KOR,2002,2.49
+South Korea,KOR,2003,2.47
+South Korea,KOR,2004,2.42
+South Korea,KOR,2005,2.29
+South Korea,KOR,2006,2.29
+South Korea,KOR,2007,2.21
+South Korea,KOR,2008,2.19
+South Korea,KOR,2009,2.19
+South Korea,KOR,2010,2.25
+South Korea,KOR,2011,2.36
+South Korea,KOR,2012,2.47
+South Korea,KOR,2013,2.54
+South Korea,KOR,2014,2.58
+South Korea,KOR,2015,2.58
+South Korea,KOR,2016,2.57
+South Korea,KOR,2017,2.56
+South Sudan,SSD,1990,3.23
+South Sudan,SSD,1991,3.27
+South Sudan,SSD,1992,3.33
+South Sudan,SSD,1993,3.41
+South Sudan,SSD,1994,3.46
+South Sudan,SSD,1995,3.52
+South Sudan,SSD,1996,3.58
+South Sudan,SSD,1997,3.64
+South Sudan,SSD,1998,3.67
+South Sudan,SSD,1999,3.67
+South Sudan,SSD,2000,3.69
+South Sudan,SSD,2001,3.71
+South Sudan,SSD,2002,3.74
+South Sudan,SSD,2003,3.76
+South Sudan,SSD,2004,3.81
+South Sudan,SSD,2005,3.87
+South Sudan,SSD,2006,3.92
+South Sudan,SSD,2007,3.97
+South Sudan,SSD,2008,4.01
+South Sudan,SSD,2009,4.03
+South Sudan,SSD,2010,4.05
+South Sudan,SSD,2011,4.06
+South Sudan,SSD,2012,4.09
+South Sudan,SSD,2013,4.09
+South Sudan,SSD,2014,4.1
+South Sudan,SSD,2015,4.1
+South Sudan,SSD,2016,4.12
+South Sudan,SSD,2017,4.13
+Southern Sub-Saharan Africa,,1990,2.75
+Southern Sub-Saharan Africa,,1991,2.92
+Southern Sub-Saharan Africa,,1992,2.88
+Southern Sub-Saharan Africa,,1993,3.15
+Southern Sub-Saharan Africa,,1994,3.18
+Southern Sub-Saharan Africa,,1995,3.54
+Southern Sub-Saharan Africa,,1996,3.54
+Southern Sub-Saharan Africa,,1997,3.44
+Southern Sub-Saharan Africa,,1998,3.36
+Southern Sub-Saharan Africa,,1999,3.19
+Southern Sub-Saharan Africa,,2000,2.97
+Southern Sub-Saharan Africa,,2001,2.92
+Southern Sub-Saharan Africa,,2002,2.8
+Southern Sub-Saharan Africa,,2003,2.71
+Southern Sub-Saharan Africa,,2004,2.67
+Southern Sub-Saharan Africa,,2005,2.72
+Southern Sub-Saharan Africa,,2006,2.83
+Southern Sub-Saharan Africa,,2007,2.95
+Southern Sub-Saharan Africa,,2008,3.02
+Southern Sub-Saharan Africa,,2009,3.09
+Southern Sub-Saharan Africa,,2010,3.18
+Southern Sub-Saharan Africa,,2011,3.26
+Southern Sub-Saharan Africa,,2012,3.32
+Southern Sub-Saharan Africa,,2013,3.37
+Southern Sub-Saharan Africa,,2014,3.4
+Southern Sub-Saharan Africa,,2015,3.45
+Southern Sub-Saharan Africa,,2016,3.51
+Southern Sub-Saharan Africa,,2017,3.62
+Spain,ESP,1990,3.21
+Spain,ESP,1991,3.29
+Spain,ESP,1992,3.43
+Spain,ESP,1993,3.46
+Spain,ESP,1994,3.49
+Spain,ESP,1995,3.5
+Spain,ESP,1996,3.44
+Spain,ESP,1997,3.47
+Spain,ESP,1998,3.52
+Spain,ESP,1999,3.51
+Spain,ESP,2000,3.5
+Spain,ESP,2001,3.49
+Spain,ESP,2002,3.48
+Spain,ESP,2003,3.43
+Spain,ESP,2004,3.49
+Spain,ESP,2005,3.57
+Spain,ESP,2006,3.6
+Spain,ESP,2007,3.59
+Spain,ESP,2008,3.55
+Spain,ESP,2009,3.55
+Spain,ESP,2010,3.59
+Spain,ESP,2011,3.46
+Spain,ESP,2012,3.5
+Spain,ESP,2013,3.36
+Spain,ESP,2014,3.35
+Spain,ESP,2015,3.32
+Spain,ESP,2016,3.32
+Spain,ESP,2017,3.37
+Sri Lanka,LKA,1990,4.3
+Sri Lanka,LKA,1991,4.22
+Sri Lanka,LKA,1992,4.14
+Sri Lanka,LKA,1993,3.89
+Sri Lanka,LKA,1994,3.96
+Sri Lanka,LKA,1995,4.22
+Sri Lanka,LKA,1996,4.34
+Sri Lanka,LKA,1997,4.44
+Sri Lanka,LKA,1998,4.67
+Sri Lanka,LKA,1999,4.68
+Sri Lanka,LKA,2000,4.88
+Sri Lanka,LKA,2001,5.1
+Sri Lanka,LKA,2002,5.07
+Sri Lanka,LKA,2003,5.07
+Sri Lanka,LKA,2004,4.93
+Sri Lanka,LKA,2005,4.67
+Sri Lanka,LKA,2006,4.82
+Sri Lanka,LKA,2007,5.01
+Sri Lanka,LKA,2008,5.09
+Sri Lanka,LKA,2009,4.53
+Sri Lanka,LKA,2010,4.49
+Sri Lanka,LKA,2011,4.73
+Sri Lanka,LKA,2012,4.71
+Sri Lanka,LKA,2013,4.41
+Sri Lanka,LKA,2014,4.41
+Sri Lanka,LKA,2015,4.45
+Sri Lanka,LKA,2016,4.49
+Sri Lanka,LKA,2017,4.53
+Sub-Saharan Africa,,1990,2.2
+Sub-Saharan Africa,,1991,2.24
+Sub-Saharan Africa,,1992,2.25
+Sub-Saharan Africa,,1993,2.3
+Sub-Saharan Africa,,1994,2.32
+Sub-Saharan Africa,,1995,2.38
+Sub-Saharan Africa,,1996,2.38
+Sub-Saharan Africa,,1997,2.38
+Sub-Saharan Africa,,1998,2.39
+Sub-Saharan Africa,,1999,2.38
+Sub-Saharan Africa,,2000,2.37
+Sub-Saharan Africa,,2001,2.41
+Sub-Saharan Africa,,2002,2.44
+Sub-Saharan Africa,,2003,2.48
+Sub-Saharan Africa,,2004,2.53
+Sub-Saharan Africa,,2005,2.61
+Sub-Saharan Africa,,2006,2.68
+Sub-Saharan Africa,,2007,2.75
+Sub-Saharan Africa,,2008,2.82
+Sub-Saharan Africa,,2009,2.87
+Sub-Saharan Africa,,2010,2.93
+Sub-Saharan Africa,,2011,3.01
+Sub-Saharan Africa,,2012,3.07
+Sub-Saharan Africa,,2013,3.12
+Sub-Saharan Africa,,2014,3.16
+Sub-Saharan Africa,,2015,3.2
+Sub-Saharan Africa,,2016,3.24
+Sub-Saharan Africa,,2017,3.27
+Sudan,SDN,1990,2.02
+Sudan,SDN,1991,2.03
+Sudan,SDN,1992,2.04
+Sudan,SDN,1993,2.05
+Sudan,SDN,1994,2.06
+Sudan,SDN,1995,2.06
+Sudan,SDN,1996,2.06
+Sudan,SDN,1997,2.08
+Sudan,SDN,1998,2.11
+Sudan,SDN,1999,2.14
+Sudan,SDN,2000,2.2
+Sudan,SDN,2001,2.27
+Sudan,SDN,2002,2.33
+Sudan,SDN,2003,2.39
+Sudan,SDN,2004,2.46
+Sudan,SDN,2005,2.5
+Sudan,SDN,2006,2.54
+Sudan,SDN,2007,2.58
+Sudan,SDN,2008,2.61
+Sudan,SDN,2009,2.63
+Sudan,SDN,2010,2.65
+Sudan,SDN,2011,2.68
+Sudan,SDN,2012,2.72
+Sudan,SDN,2013,2.76
+Sudan,SDN,2014,2.8
+Sudan,SDN,2015,2.84
+Sudan,SDN,2016,2.89
+Sudan,SDN,2017,2.93
+Suriname,SUR,1990,2.12
+Suriname,SUR,1991,2.1
+Suriname,SUR,1992,2.16
+Suriname,SUR,1993,2.23
+Suriname,SUR,1994,2.25
+Suriname,SUR,1995,2.27
+Suriname,SUR,1996,2.42
+Suriname,SUR,1997,2.56
+Suriname,SUR,1998,2.72
+Suriname,SUR,1999,2.88
+Suriname,SUR,2000,3.1
+Suriname,SUR,2001,3.32
+Suriname,SUR,2002,3.36
+Suriname,SUR,2003,3.45
+Suriname,SUR,2004,3.51
+Suriname,SUR,2005,3.6
+Suriname,SUR,2006,3.7
+Suriname,SUR,2007,3.52
+Suriname,SUR,2008,3.55
+Suriname,SUR,2009,3.62
+Suriname,SUR,2010,3.59
+Suriname,SUR,2011,3.62
+Suriname,SUR,2012,3.65
+Suriname,SUR,2013,3.71
+Suriname,SUR,2014,3.7
+Suriname,SUR,2015,3.82
+Suriname,SUR,2016,3.85
+Suriname,SUR,2017,3.8
+Sweden,SWE,1990,2.33
+Sweden,SWE,1991,2.4
+Sweden,SWE,1992,2.36
+Sweden,SWE,1993,2.41
+Sweden,SWE,1994,2.47
+Sweden,SWE,1995,2.47
+Sweden,SWE,1996,2.4
+Sweden,SWE,1997,2.48
+Sweden,SWE,1998,2.47
+Sweden,SWE,1999,2.47
+Sweden,SWE,2000,2.45
+Sweden,SWE,2001,2.56
+Sweden,SWE,2002,2.51
+Sweden,SWE,2003,2.38
+Sweden,SWE,2004,2.39
+Sweden,SWE,2005,2.4
+Sweden,SWE,2006,2.44
+Sweden,SWE,2007,2.51
+Sweden,SWE,2008,2.48
+Sweden,SWE,2009,2.49
+Sweden,SWE,2010,2.55
+Sweden,SWE,2011,2.45
+Sweden,SWE,2012,2.39
+Sweden,SWE,2013,2.36
+Sweden,SWE,2014,2.37
+Sweden,SWE,2015,2.53
+Sweden,SWE,2016,2.47
+Sweden,SWE,2017,2.47
+Switzerland,CHE,1990,2.71
+Switzerland,CHE,1991,2.85
+Switzerland,CHE,1992,2.88
+Switzerland,CHE,1993,2.77
+Switzerland,CHE,1994,2.76
+Switzerland,CHE,1995,2.71
+Switzerland,CHE,1996,2.75
+Switzerland,CHE,1997,2.86
+Switzerland,CHE,1998,2.93
+Switzerland,CHE,1999,2.8
+Switzerland,CHE,2000,2.78
+Switzerland,CHE,2001,2.72
+Switzerland,CHE,2002,2.59
+Switzerland,CHE,2003,2.58
+Switzerland,CHE,2004,2.59
+Switzerland,CHE,2005,2.56
+Switzerland,CHE,2006,2.47
+Switzerland,CHE,2007,2.54
+Switzerland,CHE,2008,2.66
+Switzerland,CHE,2009,2.85
+Switzerland,CHE,2010,2.7
+Switzerland,CHE,2011,2.76
+Switzerland,CHE,2012,2.73
+Switzerland,CHE,2013,2.87
+Switzerland,CHE,2014,2.91
+Switzerland,CHE,2015,2.98
+Switzerland,CHE,2016,2.86
+Switzerland,CHE,2017,2.8
+Syria,SYR,1990,3.38
+Syria,SYR,1991,3.43
+Syria,SYR,1992,3.49
+Syria,SYR,1993,3.59
+Syria,SYR,1994,3.66
+Syria,SYR,1995,3.74
+Syria,SYR,1996,3.79
+Syria,SYR,1997,3.87
+Syria,SYR,1998,3.91
+Syria,SYR,1999,3.92
+Syria,SYR,2000,4.03
+Syria,SYR,2001,4.12
+Syria,SYR,2002,4.21
+Syria,SYR,2003,4.24
+Syria,SYR,2004,4.28
+Syria,SYR,2005,4.4
+Syria,SYR,2006,4.36
+Syria,SYR,2007,4.46
+Syria,SYR,2008,4.42
+Syria,SYR,2009,4.37
+Syria,SYR,2010,4.24
+Syria,SYR,2011,4.24
+Syria,SYR,2012,4.22
+Syria,SYR,2013,4.2
+Syria,SYR,2014,4.2
+Syria,SYR,2015,4.19
+Syria,SYR,2016,4.19
+Syria,SYR,2017,4.23
+Taiwan,TWN,1990,1.58
+Taiwan,TWN,1991,1.62
+Taiwan,TWN,1992,1.69
+Taiwan,TWN,1993,1.66
+Taiwan,TWN,1994,1.72
+Taiwan,TWN,1995,1.72
+Taiwan,TWN,1996,1.77
+Taiwan,TWN,1997,1.84
+Taiwan,TWN,1998,1.85
+Taiwan,TWN,1999,1.86
+Taiwan,TWN,2000,1.89
+Taiwan,TWN,2001,1.94
+Taiwan,TWN,2002,2
+Taiwan,TWN,2003,1.99
+Taiwan,TWN,2004,2.07
+Taiwan,TWN,2005,2.11
+Taiwan,TWN,2006,2.18
+Taiwan,TWN,2007,2.11
+Taiwan,TWN,2008,2.14
+Taiwan,TWN,2009,2.1
+Taiwan,TWN,2010,2.09
+Taiwan,TWN,2011,2.14
+Taiwan,TWN,2012,2.03
+Taiwan,TWN,2013,2.07
+Taiwan,TWN,2014,2.06
+Taiwan,TWN,2015,2.11
+Taiwan,TWN,2016,2.15
+Taiwan,TWN,2017,2.17
+Tajikistan,TJK,1990,2.42
+Tajikistan,TJK,1991,2.51
+Tajikistan,TJK,1992,2.66
+Tajikistan,TJK,1993,2.68
+Tajikistan,TJK,1994,2.77
+Tajikistan,TJK,1995,2.86
+Tajikistan,TJK,1996,2.99
+Tajikistan,TJK,1997,3.04
+Tajikistan,TJK,1998,2.95
+Tajikistan,TJK,1999,2.86
+Tajikistan,TJK,2000,2.77
+Tajikistan,TJK,2001,2.55
+Tajikistan,TJK,2002,2.65
+Tajikistan,TJK,2003,2.62
+Tajikistan,TJK,2004,2.66
+Tajikistan,TJK,2005,2.73
+Tajikistan,TJK,2006,2.81
+Tajikistan,TJK,2007,2.89
+Tajikistan,TJK,2008,2.92
+Tajikistan,TJK,2009,2.92
+Tajikistan,TJK,2010,2.91
+Tajikistan,TJK,2011,2.87
+Tajikistan,TJK,2012,2.85
+Tajikistan,TJK,2013,2.79
+Tajikistan,TJK,2014,2.71
+Tajikistan,TJK,2015,2.65
+Tajikistan,TJK,2016,2.56
+Tajikistan,TJK,2017,2.6
+Tanzania,TZA,1990,2.64
+Tanzania,TZA,1991,2.65
+Tanzania,TZA,1992,2.67
+Tanzania,TZA,1993,2.69
+Tanzania,TZA,1994,2.71
+Tanzania,TZA,1995,2.73
+Tanzania,TZA,1996,2.79
+Tanzania,TZA,1997,2.85
+Tanzania,TZA,1998,2.9
+Tanzania,TZA,1999,2.99
+Tanzania,TZA,2000,3.07
+Tanzania,TZA,2001,3.18
+Tanzania,TZA,2002,3.23
+Tanzania,TZA,2003,3.24
+Tanzania,TZA,2004,3.27
+Tanzania,TZA,2005,3.39
+Tanzania,TZA,2006,3.48
+Tanzania,TZA,2007,3.55
+Tanzania,TZA,2008,3.62
+Tanzania,TZA,2009,3.66
+Tanzania,TZA,2010,3.7
+Tanzania,TZA,2011,3.69
+Tanzania,TZA,2012,3.67
+Tanzania,TZA,2013,3.62
+Tanzania,TZA,2014,3.59
+Tanzania,TZA,2015,3.57
+Tanzania,TZA,2016,3.59
+Tanzania,TZA,2017,3.6
+Thailand,THA,1990,2.42
+Thailand,THA,1991,2.5
+Thailand,THA,1992,2.64
+Thailand,THA,1993,2.78
+Thailand,THA,1994,2.91
+Thailand,THA,1995,2.97
+Thailand,THA,1996,2.86
+Thailand,THA,1997,2.66
+Thailand,THA,1998,2.48
+Thailand,THA,1999,2.48
+Thailand,THA,2000,2.52
+Thailand,THA,2001,2.64
+Thailand,THA,2002,2.7
+Thailand,THA,2003,2.9
+Thailand,THA,2004,2.97
+Thailand,THA,2005,3.09
+Thailand,THA,2006,3.09
+Thailand,THA,2007,3.11
+Thailand,THA,2008,3.18
+Thailand,THA,2009,3.26
+Thailand,THA,2010,3.34
+Thailand,THA,2011,3.47
+Thailand,THA,2012,3.57
+Thailand,THA,2013,3.74
+Thailand,THA,2014,3.96
+Thailand,THA,2015,4.16
+Thailand,THA,2016,4.27
+Thailand,THA,2017,4.36
+Timor,TLS,1990,1.73
+Timor,TLS,1991,1.72
+Timor,TLS,1992,1.72
+Timor,TLS,1993,1.71
+Timor,TLS,1994,1.71
+Timor,TLS,1995,1.7
+Timor,TLS,1996,1.69
+Timor,TLS,1997,1.69
+Timor,TLS,1998,1.71
+Timor,TLS,1999,1.76
+Timor,TLS,2000,1.83
+Timor,TLS,2001,1.89
+Timor,TLS,2002,1.97
+Timor,TLS,2003,2.04
+Timor,TLS,2004,2.09
+Timor,TLS,2005,2.13
+Timor,TLS,2006,2.17
+Timor,TLS,2007,2.22
+Timor,TLS,2008,2.26
+Timor,TLS,2009,2.3
+Timor,TLS,2010,2.37
+Timor,TLS,2011,2.41
+Timor,TLS,2012,2.45
+Timor,TLS,2013,2.49
+Timor,TLS,2014,2.53
+Timor,TLS,2015,2.58
+Timor,TLS,2016,2.61
+Timor,TLS,2017,2.64
+Togo,TGO,1990,2.31
+Togo,TGO,1991,2.34
+Togo,TGO,1992,2.4
+Togo,TGO,1993,2.48
+Togo,TGO,1994,2.55
+Togo,TGO,1995,2.65
+Togo,TGO,1996,2.74
+Togo,TGO,1997,2.79
+Togo,TGO,1998,2.89
+Togo,TGO,1999,2.96
+Togo,TGO,2000,3.03
+Togo,TGO,2001,3.13
+Togo,TGO,2002,3.2
+Togo,TGO,2003,3.32
+Togo,TGO,2004,3.42
+Togo,TGO,2005,3.49
+Togo,TGO,2006,3.57
+Togo,TGO,2007,3.59
+Togo,TGO,2008,3.67
+Togo,TGO,2009,3.69
+Togo,TGO,2010,3.72
+Togo,TGO,2011,3.71
+Togo,TGO,2012,3.67
+Togo,TGO,2013,3.66
+Togo,TGO,2014,3.61
+Togo,TGO,2015,3.61
+Togo,TGO,2016,3.6
+Togo,TGO,2017,3.58
+Tonga,TON,1990,1.38
+Tonga,TON,1991,1.38
+Tonga,TON,1992,1.37
+Tonga,TON,1993,1.35
+Tonga,TON,1994,1.35
+Tonga,TON,1995,1.34
+Tonga,TON,1996,1.33
+Tonga,TON,1997,1.36
+Tonga,TON,1998,1.44
+Tonga,TON,1999,1.46
+Tonga,TON,2000,1.51
+Tonga,TON,2001,1.57
+Tonga,TON,2002,1.63
+Tonga,TON,2003,1.7
+Tonga,TON,2004,1.77
+Tonga,TON,2005,1.81
+Tonga,TON,2006,1.85
+Tonga,TON,2007,1.89
+Tonga,TON,2008,1.92
+Tonga,TON,2009,1.95
+Tonga,TON,2010,1.97
+Tonga,TON,2011,1.99
+Tonga,TON,2012,2.01
+Tonga,TON,2013,2.02
+Tonga,TON,2014,2.02
+Tonga,TON,2015,2.03
+Tonga,TON,2016,2.03
+Tonga,TON,2017,2.03
+Trinidad and Tobago,TTO,1990,3.68
+Trinidad and Tobago,TTO,1991,3.85
+Trinidad and Tobago,TTO,1992,4.28
+Trinidad and Tobago,TTO,1993,4.22
+Trinidad and Tobago,TTO,1994,3.87
+Trinidad and Tobago,TTO,1995,3.73
+Trinidad and Tobago,TTO,1996,4.1
+Trinidad and Tobago,TTO,1997,4.04
+Trinidad and Tobago,TTO,1998,3.91
+Trinidad and Tobago,TTO,1999,4
+Trinidad and Tobago,TTO,2000,4.17
+Trinidad and Tobago,TTO,2001,4.31
+Trinidad and Tobago,TTO,2002,4.69
+Trinidad and Tobago,TTO,2003,4.46
+Trinidad and Tobago,TTO,2004,4.47
+Trinidad and Tobago,TTO,2005,4.62
+Trinidad and Tobago,TTO,2006,4.52
+Trinidad and Tobago,TTO,2007,4.64
+Trinidad and Tobago,TTO,2008,4.74
+Trinidad and Tobago,TTO,2009,4.66
+Trinidad and Tobago,TTO,2010,4.56
+Trinidad and Tobago,TTO,2011,4.37
+Trinidad and Tobago,TTO,2012,4.51
+Trinidad and Tobago,TTO,2013,4.61
+Trinidad and Tobago,TTO,2014,4.68
+Trinidad and Tobago,TTO,2015,4.74
+Trinidad and Tobago,TTO,2016,4.81
+Trinidad and Tobago,TTO,2017,4.86
+Tunisia,TUN,1990,2.14
+Tunisia,TUN,1991,2.17
+Tunisia,TUN,1992,2.21
+Tunisia,TUN,1993,2.26
+Tunisia,TUN,1994,2.31
+Tunisia,TUN,1995,2.31
+Tunisia,TUN,1996,2.3
+Tunisia,TUN,1997,2.35
+Tunisia,TUN,1998,2.38
+Tunisia,TUN,1999,2.38
+Tunisia,TUN,2000,2.4
+Tunisia,TUN,2001,2.44
+Tunisia,TUN,2002,2.49
+Tunisia,TUN,2003,2.54
+Tunisia,TUN,2004,2.58
+Tunisia,TUN,2005,2.63
+Tunisia,TUN,2006,2.67
+Tunisia,TUN,2007,2.71
+Tunisia,TUN,2008,2.75
+Tunisia,TUN,2009,2.79
+Tunisia,TUN,2010,2.82
+Tunisia,TUN,2011,2.86
+Tunisia,TUN,2012,2.91
+Tunisia,TUN,2013,2.95
+Tunisia,TUN,2014,2.99
+Tunisia,TUN,2015,3.03
+Tunisia,TUN,2016,3.07
+Tunisia,TUN,2017,3.09
+Turkey,TUR,1990,3.12
+Turkey,TUR,1991,3.12
+Turkey,TUR,1992,3.15
+Turkey,TUR,1993,3.18
+Turkey,TUR,1994,3.19
+Turkey,TUR,1995,3.19
+Turkey,TUR,1996,3.15
+Turkey,TUR,1997,3.13
+Turkey,TUR,1998,3.09
+Turkey,TUR,1999,3.02
+Turkey,TUR,2000,3.04
+Turkey,TUR,2001,3.04
+Turkey,TUR,2002,2.93
+Turkey,TUR,2003,2.84
+Turkey,TUR,2004,2.82
+Turkey,TUR,2005,2.84
+Turkey,TUR,2006,2.89
+Turkey,TUR,2007,2.91
+Turkey,TUR,2008,2.96
+Turkey,TUR,2009,2.99
+Turkey,TUR,2010,3.07
+Turkey,TUR,2011,3.19
+Turkey,TUR,2012,3.31
+Turkey,TUR,2013,3.43
+Turkey,TUR,2014,3.58
+Turkey,TUR,2015,3.75
+Turkey,TUR,2016,3.94
+Turkey,TUR,2017,4.02
+Turkmenistan,TKM,1990,2.94
+Turkmenistan,TKM,1991,2.9
+Turkmenistan,TKM,1992,2.94
+Turkmenistan,TKM,1993,3.15
+Turkmenistan,TKM,1994,3.29
+Turkmenistan,TKM,1995,3.55
+Turkmenistan,TKM,1996,3.9
+Turkmenistan,TKM,1997,4.07
+Turkmenistan,TKM,1998,4.45
+Turkmenistan,TKM,1999,4.47
+Turkmenistan,TKM,2000,4.41
+Turkmenistan,TKM,2001,4.34
+Turkmenistan,TKM,2002,4.26
+Turkmenistan,TKM,2003,4.12
+Turkmenistan,TKM,2004,4.03
+Turkmenistan,TKM,2005,3.96
+Turkmenistan,TKM,2006,3.8
+Turkmenistan,TKM,2007,3.77
+Turkmenistan,TKM,2008,3.74
+Turkmenistan,TKM,2009,3.64
+Turkmenistan,TKM,2010,3.55
+Turkmenistan,TKM,2011,3.34
+Turkmenistan,TKM,2012,3.34
+Turkmenistan,TKM,2013,3.34
+Turkmenistan,TKM,2014,3.51
+Turkmenistan,TKM,2015,3.58
+Turkmenistan,TKM,2016,3.71
+Turkmenistan,TKM,2017,3.77
+Uganda,UGA,1990,0.77
+Uganda,UGA,1991,0.77
+Uganda,UGA,1992,0.78
+Uganda,UGA,1993,0.8
+Uganda,UGA,1994,0.81
+Uganda,UGA,1995,0.83
+Uganda,UGA,1996,0.84
+Uganda,UGA,1997,0.85
+Uganda,UGA,1998,0.84
+Uganda,UGA,1999,0.84
+Uganda,UGA,2000,0.83
+Uganda,UGA,2001,0.87
+Uganda,UGA,2002,0.91
+Uganda,UGA,2003,0.95
+Uganda,UGA,2004,1
+Uganda,UGA,2005,1.05
+Uganda,UGA,2006,1.15
+Uganda,UGA,2007,1.24
+Uganda,UGA,2008,1.35
+Uganda,UGA,2009,1.45
+Uganda,UGA,2010,1.54
+Uganda,UGA,2011,1.65
+Uganda,UGA,2012,1.72
+Uganda,UGA,2013,1.77
+Uganda,UGA,2014,1.81
+Uganda,UGA,2015,1.87
+Uganda,UGA,2016,1.94
+Uganda,UGA,2017,1.94
+Ukraine,UKR,1990,4.87
+Ukraine,UKR,1991,5.01
+Ukraine,UKR,1992,5.19
+Ukraine,UKR,1993,5.19
+Ukraine,UKR,1994,5.34
+Ukraine,UKR,1995,5.53
+Ukraine,UKR,1996,5.72
+Ukraine,UKR,1997,5.83
+Ukraine,UKR,1998,5.98
+Ukraine,UKR,1999,6.11
+Ukraine,UKR,2000,6.28
+Ukraine,UKR,2001,6.42
+Ukraine,UKR,2002,6.44
+Ukraine,UKR,2003,6.38
+Ukraine,UKR,2004,6.51
+Ukraine,UKR,2005,6.61
+Ukraine,UKR,2006,6.63
+Ukraine,UKR,2007,6.69
+Ukraine,UKR,2008,6.56
+Ukraine,UKR,2009,6.3
+Ukraine,UKR,2010,6.26
+Ukraine,UKR,2011,6.25
+Ukraine,UKR,2012,6.18
+Ukraine,UKR,2013,6.07
+Ukraine,UKR,2014,6.16
+Ukraine,UKR,2015,7.03
+Ukraine,UKR,2016,7.19
+Ukraine,UKR,2017,7.11
+United Arab Emirates,ARE,1990,2.32
+United Arab Emirates,ARE,1991,2.35
+United Arab Emirates,ARE,1992,2.36
+United Arab Emirates,ARE,1993,2.36
+United Arab Emirates,ARE,1994,2.37
+United Arab Emirates,ARE,1995,2.29
+United Arab Emirates,ARE,1996,2.29
+United Arab Emirates,ARE,1997,2.28
+United Arab Emirates,ARE,1998,2.36
+United Arab Emirates,ARE,1999,2.44
+United Arab Emirates,ARE,2000,2.47
+United Arab Emirates,ARE,2001,2.4
+United Arab Emirates,ARE,2002,2.42
+United Arab Emirates,ARE,2003,2.6
+United Arab Emirates,ARE,2004,2.85
+United Arab Emirates,ARE,2005,3.04
+United Arab Emirates,ARE,2006,3.14
+United Arab Emirates,ARE,2007,3.28
+United Arab Emirates,ARE,2008,3.25
+United Arab Emirates,ARE,2009,3.32
+United Arab Emirates,ARE,2010,3.37
+United Arab Emirates,ARE,2011,3.38
+United Arab Emirates,ARE,2012,3.42
+United Arab Emirates,ARE,2013,3.44
+United Arab Emirates,ARE,2014,3.47
+United Arab Emirates,ARE,2015,3.51
+United Arab Emirates,ARE,2016,3.54
+United Arab Emirates,ARE,2017,3.56
+United Kingdom,GBR,1990,2.96
+United Kingdom,GBR,1991,3.08
+United Kingdom,GBR,1992,3.12
+United Kingdom,GBR,1993,3.18
+United Kingdom,GBR,1994,3.26
+United Kingdom,GBR,1995,3.31
+United Kingdom,GBR,1996,3.32
+United Kingdom,GBR,1997,3.32
+United Kingdom,GBR,1998,3.36
+United Kingdom,GBR,1999,3.38
+United Kingdom,GBR,2000,3.35
+United Kingdom,GBR,2001,3.41
+United Kingdom,GBR,2002,3.4
+United Kingdom,GBR,2003,3.34
+United Kingdom,GBR,2004,3.34
+United Kingdom,GBR,2005,3.35
+United Kingdom,GBR,2006,3.52
+United Kingdom,GBR,2007,3.57
+United Kingdom,GBR,2008,3.52
+United Kingdom,GBR,2009,3.55
+United Kingdom,GBR,2010,3.44
+United Kingdom,GBR,2011,3.42
+United Kingdom,GBR,2012,3.45
+United Kingdom,GBR,2013,3.53
+United Kingdom,GBR,2014,3.42
+United Kingdom,GBR,2015,3.4
+United Kingdom,GBR,2016,3.41
+United Kingdom,GBR,2017,3.41
+United States,USA,1990,4.13
+United States,USA,1991,4.15
+United States,USA,1992,4.21
+United States,USA,1993,4.23
+United States,USA,1994,4.26
+United States,USA,1995,4.26
+United States,USA,1996,4.23
+United States,USA,1997,4.14
+United States,USA,1998,4.11
+United States,USA,1999,4.04
+United States,USA,2000,3.99
+United States,USA,2001,3.89
+United States,USA,2002,3.84
+United States,USA,2003,3.75
+United States,USA,2004,3.69
+United States,USA,2005,3.67
+United States,USA,2006,3.61
+United States,USA,2007,3.59
+United States,USA,2008,3.55
+United States,USA,2009,3.44
+United States,USA,2010,3.45
+United States,USA,2011,3.43
+United States,USA,2012,3.43
+United States,USA,2013,3.41
+United States,USA,2014,3.38
+United States,USA,2015,3.41
+United States,USA,2016,3.51
+United States,USA,2017,3.53
+Upper-middle income,,1990,1.32
+Upper-middle income,,1991,1.34
+Upper-middle income,,1992,1.38
+Upper-middle income,,1993,1.45
+Upper-middle income,,1994,1.5
+Upper-middle income,,1995,1.52
+Upper-middle income,,1996,1.55
+Upper-middle income,,1997,1.58
+Upper-middle income,,1998,1.66
+Upper-middle income,,1999,1.77
+Upper-middle income,,2000,1.91
+Upper-middle income,,2001,2.03
+Upper-middle income,,2002,2.13
+Upper-middle income,,2003,2.12
+Upper-middle income,,2004,2.09
+Upper-middle income,,2005,2.14
+Upper-middle income,,2006,2.14
+Upper-middle income,,2007,2.16
+Upper-middle income,,2008,2.19
+Upper-middle income,,2009,2.18
+Upper-middle income,,2010,2.2
+Upper-middle income,,2011,2.24
+Upper-middle income,,2012,2.3
+Upper-middle income,,2013,2.34
+Upper-middle income,,2014,2.38
+Upper-middle income,,2015,2.41
+Upper-middle income,,2016,2.46
+Upper-middle income,,2017,2.51
+Uruguay,URY,1990,4.19
+Uruguay,URY,1991,3.84
+Uruguay,URY,1992,4.18
+Uruguay,URY,1993,4.17
+Uruguay,URY,1994,4.24
+Uruguay,URY,1995,4.08
+Uruguay,URY,1996,4.2
+Uruguay,URY,1997,4.37
+Uruguay,URY,1998,4.45
+Uruguay,URY,1999,4.7
+Uruguay,URY,2000,4.51
+Uruguay,URY,2001,4.22
+Uruguay,URY,2002,4.27
+Uruguay,URY,2003,4.02
+Uruguay,URY,2004,3.94
+Uruguay,URY,2005,3.85
+Uruguay,URY,2006,3.92
+Uruguay,URY,2007,3.92
+Uruguay,URY,2008,3.87
+Uruguay,URY,2009,4.03
+Uruguay,URY,2010,4
+Uruguay,URY,2011,4.21
+Uruguay,URY,2012,4.22
+Uruguay,URY,2013,4.23
+Uruguay,URY,2014,4.18
+Uruguay,URY,2015,4.2
+Uruguay,URY,2016,4.17
+Uruguay,URY,2017,4.2
+Uzbekistan,UZB,1990,3.09
+Uzbekistan,UZB,1991,3.21
+Uzbekistan,UZB,1992,3.13
+Uzbekistan,UZB,1993,3.17
+Uzbekistan,UZB,1994,3.35
+Uzbekistan,UZB,1995,3.52
+Uzbekistan,UZB,1996,3.72
+Uzbekistan,UZB,1997,3.77
+Uzbekistan,UZB,1998,3.7
+Uzbekistan,UZB,1999,3.61
+Uzbekistan,UZB,2000,3.45
+Uzbekistan,UZB,2001,3.34
+Uzbekistan,UZB,2002,3.24
+Uzbekistan,UZB,2003,3.16
+Uzbekistan,UZB,2004,3.15
+Uzbekistan,UZB,2005,3.13
+Uzbekistan,UZB,2006,3.08
+Uzbekistan,UZB,2007,3.04
+Uzbekistan,UZB,2008,3.01
+Uzbekistan,UZB,2009,2.94
+Uzbekistan,UZB,2010,2.82
+Uzbekistan,UZB,2011,2.77
+Uzbekistan,UZB,2012,2.74
+Uzbekistan,UZB,2013,2.76
+Uzbekistan,UZB,2014,2.74
+Uzbekistan,UZB,2015,2.82
+Uzbekistan,UZB,2016,2.93
+Uzbekistan,UZB,2017,3.01
+Vanuatu,VUT,1990,3.45
+Vanuatu,VUT,1991,3.41
+Vanuatu,VUT,1992,3.4
+Vanuatu,VUT,1993,3.37
+Vanuatu,VUT,1994,3.34
+Vanuatu,VUT,1995,3.32
+Vanuatu,VUT,1996,3.31
+Vanuatu,VUT,1997,3.31
+Vanuatu,VUT,1998,3.31
+Vanuatu,VUT,1999,3.31
+Vanuatu,VUT,2000,3.33
+Vanuatu,VUT,2001,3.35
+Vanuatu,VUT,2002,3.38
+Vanuatu,VUT,2003,3.42
+Vanuatu,VUT,2004,3.46
+Vanuatu,VUT,2005,3.48
+Vanuatu,VUT,2006,3.5
+Vanuatu,VUT,2007,3.52
+Vanuatu,VUT,2008,3.54
+Vanuatu,VUT,2009,3.57
+Vanuatu,VUT,2010,3.59
+Vanuatu,VUT,2011,3.59
+Vanuatu,VUT,2012,3.62
+Vanuatu,VUT,2013,3.64
+Vanuatu,VUT,2014,3.66
+Vanuatu,VUT,2015,3.67
+Vanuatu,VUT,2016,3.68
+Vanuatu,VUT,2017,3.7
+Venezuela,VEN,1990,5.41
+Venezuela,VEN,1991,5.88
+Venezuela,VEN,1992,6.34
+Venezuela,VEN,1993,6.91
+Venezuela,VEN,1994,6.56
+Venezuela,VEN,1995,6.48
+Venezuela,VEN,1996,6.31
+Venezuela,VEN,1997,6.23
+Venezuela,VEN,1998,6.55
+Venezuela,VEN,1999,6.65
+Venezuela,VEN,2000,7.21
+Venezuela,VEN,2001,7.2
+Venezuela,VEN,2002,6.32
+Venezuela,VEN,2003,6.58
+Venezuela,VEN,2004,6.46
+Venezuela,VEN,2005,6.34
+Venezuela,VEN,2006,6.78
+Venezuela,VEN,2007,7.15
+Venezuela,VEN,2008,7.23
+Venezuela,VEN,2009,7.14
+Venezuela,VEN,2010,6.83
+Venezuela,VEN,2011,6.99
+Venezuela,VEN,2012,7.31
+Venezuela,VEN,2013,7.16
+Venezuela,VEN,2014,7.22
+Venezuela,VEN,2015,7.38
+Venezuela,VEN,2016,7.51
+Venezuela,VEN,2017,7.54
+Vietnam,VNM,1990,1.79
+Vietnam,VNM,1991,1.82
+Vietnam,VNM,1992,1.86
+Vietnam,VNM,1993,1.89
+Vietnam,VNM,1994,1.93
+Vietnam,VNM,1995,1.96
+Vietnam,VNM,1996,1.97
+Vietnam,VNM,1997,1.97
+Vietnam,VNM,1998,1.96
+Vietnam,VNM,1999,1.95
+Vietnam,VNM,2000,1.95
+Vietnam,VNM,2001,1.97
+Vietnam,VNM,2002,2
+Vietnam,VNM,2003,2.03
+Vietnam,VNM,2004,2.06
+Vietnam,VNM,2005,2.1
+Vietnam,VNM,2006,2.12
+Vietnam,VNM,2007,2.15
+Vietnam,VNM,2008,2.17
+Vietnam,VNM,2009,2.2
+Vietnam,VNM,2010,2.23
+Vietnam,VNM,2011,2.26
+Vietnam,VNM,2012,2.28
+Vietnam,VNM,2013,2.31
+Vietnam,VNM,2014,2.33
+Vietnam,VNM,2015,2.34
+Vietnam,VNM,2016,2.35
+Vietnam,VNM,2017,2.34
+Western Europe,,1990,2.84
+Western Europe,,1991,2.94
+Western Europe,,1992,3.01
+Western Europe,,1993,3.03
+Western Europe,,1994,3.11
+Western Europe,,1995,3.14
+Western Europe,,1996,3.15
+Western Europe,,1997,3.18
+Western Europe,,1998,3.2
+Western Europe,,1999,3.2
+Western Europe,,2000,3.21
+Western Europe,,2001,3.23
+Western Europe,,2002,3.22
+Western Europe,,2003,3.22
+Western Europe,,2004,3.23
+Western Europe,,2005,3.25
+Western Europe,,2006,3.29
+Western Europe,,2007,3.31
+Western Europe,,2008,3.29
+Western Europe,,2009,3.3
+Western Europe,,2010,3.31
+Western Europe,,2011,3.29
+Western Europe,,2012,3.32
+Western Europe,,2013,3.31
+Western Europe,,2014,3.31
+Western Europe,,2015,3.33
+Western Europe,,2016,3.3
+Western Europe,,2017,3.31
+World,OWID_WRL,1990,1.57
+World,OWID_WRL,1991,1.58
+World,OWID_WRL,1992,1.58
+World,OWID_WRL,1993,1.63
+World,OWID_WRL,1994,1.68
+World,OWID_WRL,1995,1.7
+World,OWID_WRL,1996,1.72
+World,OWID_WRL,1997,1.74
+World,OWID_WRL,1998,1.79
+World,OWID_WRL,1999,1.83
+World,OWID_WRL,2000,1.89
+World,OWID_WRL,2001,1.94
+World,OWID_WRL,2002,2
+World,OWID_WRL,2003,2.02
+World,OWID_WRL,2004,2.01
+World,OWID_WRL,2005,2.03
+World,OWID_WRL,2006,2.05
+World,OWID_WRL,2007,2.09
+World,OWID_WRL,2008,2.12
+World,OWID_WRL,2009,2.12
+World,OWID_WRL,2010,2.11
+World,OWID_WRL,2011,2.11
+World,OWID_WRL,2012,2.15
+World,OWID_WRL,2013,2.16
+World,OWID_WRL,2014,2.15
+World,OWID_WRL,2015,2.19
+World,OWID_WRL,2016,2.2
+World,OWID_WRL,2017,2.21
+Yemen,YEM,1990,1.75
+Yemen,YEM,1991,1.73
+Yemen,YEM,1992,1.72
+Yemen,YEM,1993,1.7
+Yemen,YEM,1994,1.7
+Yemen,YEM,1995,1.69
+Yemen,YEM,1996,1.69
+Yemen,YEM,1997,1.7
+Yemen,YEM,1998,1.71
+Yemen,YEM,1999,1.73
+Yemen,YEM,2000,1.77
+Yemen,YEM,2001,1.81
+Yemen,YEM,2002,1.85
+Yemen,YEM,2003,1.88
+Yemen,YEM,2004,1.92
+Yemen,YEM,2005,1.94
+Yemen,YEM,2006,1.95
+Yemen,YEM,2007,1.96
+Yemen,YEM,2008,1.98
+Yemen,YEM,2009,2
+Yemen,YEM,2010,2.02
+Yemen,YEM,2011,2.04
+Yemen,YEM,2012,2.07
+Yemen,YEM,2013,2.11
+Yemen,YEM,2014,2.15
+Yemen,YEM,2015,2.19
+Yemen,YEM,2016,2.24
+Yemen,YEM,2017,2.28
+Zambia,ZMB,1990,2.27
+Zambia,ZMB,1991,2.28
+Zambia,ZMB,1992,2.3
+Zambia,ZMB,1993,2.35
+Zambia,ZMB,1994,2.39
+Zambia,ZMB,1995,2.46
+Zambia,ZMB,1996,2.61
+Zambia,ZMB,1997,2.77
+Zambia,ZMB,1998,2.95
+Zambia,ZMB,1999,3.14
+Zambia,ZMB,2000,3.4
+Zambia,ZMB,2001,3.6
+Zambia,ZMB,2002,3.84
+Zambia,ZMB,2003,4.06
+Zambia,ZMB,2004,4.31
+Zambia,ZMB,2005,4.57
+Zambia,ZMB,2006,4.67
+Zambia,ZMB,2007,4.7
+Zambia,ZMB,2008,4.63
+Zambia,ZMB,2009,4.56
+Zambia,ZMB,2010,4.5
+Zambia,ZMB,2011,4.37
+Zambia,ZMB,2012,4.24
+Zambia,ZMB,2013,4.14
+Zambia,ZMB,2014,4.06
+Zambia,ZMB,2015,4
+Zambia,ZMB,2016,3.94
+Zambia,ZMB,2017,3.92
+Zimbabwe,ZWE,1990,2.69
+Zimbabwe,ZWE,1991,2.72
+Zimbabwe,ZWE,1992,2.82
+Zimbabwe,ZWE,1993,2.99
+Zimbabwe,ZWE,1994,3.25
+Zimbabwe,ZWE,1995,3.53
+Zimbabwe,ZWE,1996,3.64
+Zimbabwe,ZWE,1997,3.7
+Zimbabwe,ZWE,1998,3.5
+Zimbabwe,ZWE,1999,3.28
+Zimbabwe,ZWE,2000,3.14
+Zimbabwe,ZWE,2001,3.05
+Zimbabwe,ZWE,2002,2.96
+Zimbabwe,ZWE,2003,2.89
+Zimbabwe,ZWE,2004,2.81
+Zimbabwe,ZWE,2005,2.86
+Zimbabwe,ZWE,2006,2.9
+Zimbabwe,ZWE,2007,2.93
+Zimbabwe,ZWE,2008,2.87
+Zimbabwe,ZWE,2009,2.79
+Zimbabwe,ZWE,2010,2.82
+Zimbabwe,ZWE,2011,2.83
+Zimbabwe,ZWE,2012,2.82
+Zimbabwe,ZWE,2013,2.81
+Zimbabwe,ZWE,2014,2.77
+Zimbabwe,ZWE,2015,2.82
+Zimbabwe,ZWE,2016,2.82
+Zimbabwe,ZWE,2017,2.83
