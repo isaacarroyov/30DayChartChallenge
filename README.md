@@ -112,7 +112,7 @@ and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChalleng
 
 ![](./2022/day_18/30daychartchallenge_day_18_OECD.png)
 
-## Time series 
+## Time series :hourglass_flowing_sand:
 ### Day 19: global change
 **Tool**: R  
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_19/30daychartchallenge_day_19_global_change.R)
