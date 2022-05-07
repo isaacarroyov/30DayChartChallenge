@@ -9,5 +9,8 @@ df<- df %>%
   select(Entity, Year, percentage_share_electricity_from_nuclear) %>%
   filter(Entity == 'Japan' | Entity=='Ukraine')
   
-# df %>%
-#   write.csv("./../../share_nuclear_electricity_japan_ukraine.csv", row.names = F)
+  
+df %>%
+  tidyr::pivot_wider(names_from = Entity, values_from = percentage_share_electricity_from_nuclear) %>%
+  as.data.frame() %>%
+  write.csv("./data/share_nuclear_electricity_japan_ukraine.csv", row.names = F)
