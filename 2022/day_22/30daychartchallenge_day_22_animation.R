@@ -23,7 +23,7 @@ p1 <- df %>%
   scale_x_continuous(breaks = seq(1990,2017,3)) +
   scale_y_continuous(breaks = seq(1,7,1), limits = c(1,7)) +
   labs(title = "Male-to-female ratio of suicide rates from 1990 to 2017",
-       subtitle = "The <b>male-to-female suicide ratio</b> is the ratio between male and female suicide rate. A figure greater than one means suicide rates were higher in men; the higher the number, the large the difference between the genders.<br><br>From 1990 to 2017, <span style='color:#E1242C'><b>Mexico</b></span> had the highest rate compared with <span style='color:#6B2972'><b>Latin America & Caribbean</b></span>, <span style='color:#FB6B00'><b>North America</b></span> and <span style='color:#007354'><b>the World</b></span>",
+       subtitle = "The <b>male-to-female suicide ratio</b> is the ratio between male and female suicide rate. A figure greater than one means suicide rates were higher in men; the higher the number, the large the difference between the genders.<br><br>From 1990 to 2017, <span style='color:#E1242C'><b>Mexico</b></span> had the highest ratio compared with <span style='color:#6B2972'><b>Latin America & Caribbean</b></span>, <span style='color:#FB6B00'><b>North America</b></span> and <span style='color:#007354'><b>the World</b></span>",
        caption = "Source: Our World in Data in <em>Suicide: Suicide by gender</em><br>Visualization by Isaac Arroyo (@unisaacarroyov on Twitter)") +
   theme(
     legend.position = "none",
