@@ -42,7 +42,7 @@ df %>%
   coord_cartesian(clip = "off") +
   labs(title = "Climate Change Impact: Sea level rise",
        subtitle = "The climatic crisis has caused several significant changes globally; one of them is the rising sea level. Global mean sea level rise is measured (in millimetres) relative to the <span style='color:#C25474'><b>1993 - 2008 average sea level</b></span>.",
-       caption = "Data: Our World in Data in _Climate Changte Impact Data Explorer_<br>Visualization by Isaac Arroyo (@unisaacarroyov on Twitter)") +
+       caption = "Data: Our World in Data in _Climate Change Impact Data Explorer_<br>Visualization by Isaac Arroyo (@unisaacarroyov on Twitter)") +
   theme(
     plot.title.position = "plot",
     plot.caption.position = "plot",
