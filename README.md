@@ -118,3 +118,28 @@ and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChalleng
 [**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_19/30daychartchallenge_day_19_global_change.R)
 
 ![](./2022/day_19/30daychartchallenge_day_19_global_change.png)
+
+### Day 20: new tool
+**Tool**: Procreate
+
+
+### Day 21: down/upwards
+**Tool**: Datawrapper  
+[**Interactive chart (Datawrapper)**](https://www.datawrapper.de/_/WwVR1/)  
+[**Data processing with R**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_21/30daychartchallenge_day_21_down-upwards.R)
+
+![](./2022/day_21/30DayChartChallenge_day_21_down-upward.png)
+
+### Day 22: animation
+**Tool**: R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_22/30daychartchallenge_day_22_animation.R)
+
+![](./2022/day_22/30daychartchallange_day_22_animation.gif)
+
+### Day 23: tiles
+**Tool**: Flourish  
+**Interactive charts [English version](https://public.flourish.studio/visualisation/9890981/) and [version en Español](https://public.flourish.studio/visualisation/9890129/)**  
+
+[**Data processing with Python and Google Earth Engine**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_23/30daychartchallenge_day_23_tiles.py)
+
+![](./2022/day_23/30daychartchallenge_day_23_tiles_en.png)
