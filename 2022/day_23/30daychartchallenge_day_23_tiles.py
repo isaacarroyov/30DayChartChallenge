@@ -67,10 +67,7 @@ df = geemap.ee_to_pandas(precipitation_FeatureColletcion)
 df['date'] = pd.to_datetime(df['date'])
 df = df.set_index('date')
 df = df.drop(columns='reducer')
-df['Month_en'] = df.index.month_name().values
-df['Month_esp'] = df.index.month.values
-df['Month_esp'] = df['Month_esp'].apply(mes_esp)
-df['Year'] = df.index.year
+df = df.resample("M").mean()
 
 # Save data
-df.to_csv("./../data/earth_engine_precipitation_yuc_2019-2021.csv", index = False)
+df.to_csv("./../data/earth_engine_precipitation_yuc_2019-2021.csv", index = True)
