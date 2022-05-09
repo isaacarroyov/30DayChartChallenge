@@ -143,3 +143,9 @@ and [**Data**](https://raw.githubusercontent.com/isaacarroyov/30DayChartChalleng
 [**Data processing with Python and Google Earth Engine**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_23/30daychartchallenge_day_23_tiles.py)
 
 ![](./2022/day_23/30daychartchallenge_day_23_tiles_en.png)
+
+### Day 24: Financial Times
+**Tool**: R  
+[**Code**](https://github.com/isaacarroyov/30DayChartChallenge/blob/main/2022/day_24/30daychartchallenge_day_24_financial-times.R)
+
+![](./2022/day_24/30daychartchallenge_day_24_financial-times.png)
