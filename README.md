@@ -5,5 +5,5 @@ Some charts are made entirely with a programing language (mainly R and Python), 
 
 This project aims to explore creativity and tools conserning #DataVisualization.
 
-# 2022 Gallery
+# [2022 Gallery](https://github.com/isaacarroyov/30DayChartChallenge/tree/main/2022)
 ![](./2022/collage_2022/final_collage_2022.png)
