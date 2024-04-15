@@ -1,6 +1,6 @@
 # Comparisions
 
-## Day 1: part-to-hole
+## Day 1: part-to-whole
 
 [Code]()
 
